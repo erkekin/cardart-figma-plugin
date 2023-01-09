@@ -32,7 +32,15 @@ button {
 body {
   background: var(--color-bg);
   color: var(--color-text);
-  margin: 8px;
+}
+
+header {
+  font-family: 'BentonSans';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 28px;
+  opacity: 0.5;
 }
 
 button {
@@ -40,14 +48,17 @@ button {
   background: var(--color-bg);
   color: var(--color-text);
   cursor: pointer;
-  border: 1px solid var(--color-border);
-  padding: 0.5rem 1rem;
+  border: 0px solid var(--color-border);
+  padding: 8px;
 }
 button:hover {
-  background-color: var(--color-bg-hover);
+  border: none;
+  background-color: #F1F2F3;
 }
 button:active {
-  background-color: var(--color-bg-active);
+  color: white;
+  border: none;
+  background-color: #006FCF;
 }
 button:focus-visible {
   border: none;
@@ -63,7 +74,7 @@ button.brand {
 }
 
 input {
-  background: 1px solid var(--color-bg);
+  background: 1px solid var(--color-bg-brand);
   border: 1px solid var(--color-border);
   color: 1px solid var(--color-text);
   padding: 0.5rem;
@@ -72,44 +83,5 @@ input {
 input:focus-visible {
   border-color: var(--color-border-focus);
   outline-color: var(--color-border-focus);
+  background: 1px solid var(--color-bg);
 }
-
-svg {
-  stroke: var(--color-icon, rgba(0, 0, 0, 0.9));
-}
-
-main {
-  align-items: center;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-}
-
-section {
-  align-items: center;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  margin-bottom: 1rem;
-}
-section > * + * {
-  margin-top: 0.5rem;
-}
-footer > * + * {
-  margin-left: 0.5rem;
-}
-
-img {
-  height: auto;
-  width: auto;
-}
-
-/* selected {
-  background-color: blue;
-  color: white;
-}
-
-unselected {
-  background-color: white;
-  color: white;
-} */

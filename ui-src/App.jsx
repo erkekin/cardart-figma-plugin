@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import styled from 'styled-components';
 import "./App.css";
-import { Data } from "./Data.js";
+import { Cards } from "./Cards.js";
 
 const Container = styled.div`
   display: flex;
@@ -10,14 +10,15 @@ const Container = styled.div`
   width: 100%;
 `;
 
-const Select = styled.select`
+const Filters = styled.div`
   width: 100%;
   margin-bottom: 16px;
   padding: 8px;
-  font-size: 16px;
-  border: 1px solid #ccc;
-  border-radius: 4px;
-  box-sizing: border-box;
+`;
+
+const FilterItems = styled.div`
+  padding: 16px;
+  justify-content: left;
 `;
 
 const Input = styled.input`
@@ -25,29 +26,25 @@ const Input = styled.input`
   margin-bottom: 16px;
   padding: 8px;
   font-size: 16px;
-  border: 1px solid #ccc;
-  border-radius: 4px;
   box-sizing: border-box;
 `;
 
 const CountryContainer = styled.div`
   display: flex;
-  // align-items: center;
-  width: 90%;
-  margin-bottom: 16px;
+  align-items: center;
+  width: 100%;
   padding: 8px;
-  border: 1px solid #ccc;
-  border-radius: 4px;
 `;
 
 const Flag = styled.img`
-  height: 48px;
+  height: 44px;
+  width: 70px;
   margin-right: 8px;
   cursor:grab;
 `;
 
 function App() {
-  const [countries, setCountries] = useState([]);
+  const [countries, setCards] = useState([]);
   const [regionFilter, setRegionFilter] = useState('');
   const [searchTerm, setSearchTerm] = useState('');
   const [selectedOptions, setSelectedOptions] = useState([]);
@@ -61,63 +58,114 @@ function App() {
   }
   
   useEffect(() => {
-    setCountries(Data);
+    setCards(Cards);
   }, []);
 
-  const filteredCountries = countries.filter(country => {
-    return country.region.includes(regionFilter) && country.name.toLowerCase().includes(searchTerm.toLowerCase());
+  const filteredCountries = countries
+  .filter(card => {
+    return card.ext == "png" && card.is_previewable == true && card.title.toLowerCase().includes(searchTerm.toLowerCase());
+    // return card.project.includes(regionFilter) && card.title.toLowerCase().includes(searchTerm.toLowerCase());
   });
   
   return (
     <div>
-      <div>
-        Filters
+        <Input
+        type="text"
+        placeholder="Search Card Art"
+        value={searchTerm}
+        onChange={e => setSearchTerm(e.target.value)}
+      />
+      <Filters>
+      <div align="left">
+        <header>Audience</header>
       </div>
-      <div>
+      <FilterItems>
         <button
           // className={selectedOptions.includes('option1') ? 'selected' : 'button'}
           // style={{ backgroundColor: selectedOptions.includes('option1') ? 'blue' : 'white' }}
           onClick={() => handleOptionToggle('option1')}
         >
-          Option 1
+          Consumer
         </button>
         <button
           // className={selectedOptions.includes('option2') ? 'selected' : 'button'}
           // style={{ backgroundColor: selectedOptions.includes('option2') ? 'blue' : 'white' }}
           onClick={() => handleOptionToggle('option2')}
         >
-          Option 2
+          Business
         </button>
         <button
           // className={selectedOptions.includes('option3') ? 'selected' : 'button'}
           // style={{ backgroundColor: selectedOptions.includes('option3') ? 'blue' : 'white' }}
           onClick={() => handleOptionToggle('option3')}
         >
-          Option 3
+          Corporate
         </button>
-      </div>
-      <div>
-        {selectedOptions.length > 0 ? `Selected options: ${selectedOptions.join(', ')}` : 'No options selected'}
-      </div>
- 
+      </FilterItems>
 
+      <div align="left">
+        <header>Portfolio</header>
+      </div>
+      <FilterItems>
+        <button
+          // className={selectedOptions.includes('option1') ? 'selected' : 'button'}
+          // style={{ backgroundColor: selectedOptions.includes('option1') ? 'blue' : 'white' }}
+          onClick={() => handleOptionToggle('option1')}
+        >
+          Proprietary
+        </button>
+        <button
+          // className={selectedOptions.includes('option2') ? 'selected' : 'button'}
+          // style={{ backgroundColor: selectedOptions.includes('option2') ? 'blue' : 'white' }}
+          onClick={() => handleOptionToggle('option2')}
+        >
+          Proprietary Cobrand
+        </button>
+      </FilterItems>
+
+
+      <div align="left">
+        <header>Region</header>
+      </div>
+      <FilterItems>
+        <button
+          // className={selectedOptions.includes('option1') ? 'selected' : 'button'}
+          // style={{ backgroundColor: selectedOptions.includes('option1') ? 'blue' : 'white' }}
+          onClick={() => handleOptionToggle('option1')}
+        >
+          APAC
+        </button>
+        <button
+          // className={selectedOptions.includes('option2') ? 'selected' : 'button'}
+          // style={{ backgroundColor: selectedOptions.includes('option2') ? 'blue' : 'white' }}
+          onClick={() => handleOptionToggle('option2')}
+        >
+          EMEA
+        </button>
+        <button
+          // className={selectedOptions.includes('option2') ? 'selected' : 'button'}
+          // style={{ backgroundColor: selectedOptions.includes('option2') ? 'blue' : 'white' }}
+          onClick={() => handleOptionToggle('option2')}
+        >
+          LAC
+        </button>
+        <button
+          // className={selectedOptions.includes('option2') ? 'selected' : 'button'}
+          // style={{ backgroundColor: selectedOptions.includes('option2') ? 'blue' : 'white' }}
+          onClick={() => handleOptionToggle('option2')}
+        >
+          NORAM
+        </button>
+      </FilterItems>
+      </Filters>
+
+
+      <div align="left">
+        <header>Results {filteredCountries.length}</header>
+      </div>
     <Container>
-      <Select onChange={e => setRegionFilter(e.target.value)}>
-        <option value="">Filter by Region</option>
-        <option value="Africa">Africa</option>
-        <option value="Americas">Americas</option>
-        <option value="Asia">Asia</option>
-        <option value="Europe">Europe</option>
-        <option value="Oceania">Oceania</option>
-      </Select>
-      <Input
-        type="text"
-        placeholder="Search by Country"
-        value={searchTerm}
-        onChange={e => setSearchTerm(e.target.value)}
-      />
       {filteredCountries.map(country => (
-        <CountryContainer key={country.name}>
+        <CountryContainer key={country.title}>
           <span onDragEnd={ (e) => {
               if (e.view.length === 0) return;
               window.parent.postMessage(
@@ -126,15 +174,15 @@ function App() {
                     clientX: e.clientX,
                     clientY: e.clientY,
                     files: [],
-                    dropMetadata: { url: country.flags.png}
+                    dropMetadata: { url: country.preview_url}
                   }
                 },
                 '*'
               );
           }}>
-          <Flag src={country.flag} />
+          <Flag src={country.preview_url} />
           </span >
-          <h3>{country.name}</h3>
+          {country.title}
         </CountryContainer>
       ))}
     </Container>
