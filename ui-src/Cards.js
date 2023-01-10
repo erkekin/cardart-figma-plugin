@@ -927,22 +927,7 @@ export const Cards =  [
         "is_preview_document": false,
         "is_new": false
     },
-    {
-        "id": 17506,
-        "created": "2022-07-22T21:43:56+00:00",
-        "modified": "2022-07-22 21:43:56",
-        "ext": "png",
-        "project": 5,
-        "title": "chg_plat_metal_emea_ap",
-        "width": 1536,
-        "height": 969,
-        "token": "eyJpZCI6MTc1MDYsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:8x3wWmliybUz2YuQmiogj4nysQx0cLLLnAJiu8WuJls",
-        "is_previewable": true,
-        "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC8wN1wvMTc1MDZcLzY5ZmM0MmYzOGQ5MGE3MzMyY2M5MjQyOTlmMmEzYWQ0LTE2NTg1MjYyMzYucG5nIn0:american-express:oP5Gr5v88JPwnpcPUyLNhteDebjonB1JMFH8x4J2xH4?width={width}",
-        "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC8wN1wvMTc1MDZcLzY5ZmM0MmYzOGQ5MGE3MzMyY2M5MjQyOTlmMmEzYWQ0LTE2NTg1MjYyMzYucG5nIn0:american-express:oP5Gr5v88JPwnpcPUyLNhteDebjonB1JMFH8x4J2xH4?width=800",
-        "is_preview_document": false,
-        "is_new": false
-    },
+ 
     {
         "id": 17321,
         "created": "2022-07-22T20:00:54+00:00",
@@ -1656,22 +1641,7 @@ export const Cards =  [
         "is_preview_document": false,
         "is_new": false
     },
-    {
-        "id": 13065,
-        "created": "2022-05-31T16:58:46+00:00",
-        "modified": "2022-05-31 16:58:46",
-        "ext": "png",
-        "project": 5,
-        "title": "chg_plat_metal_emea_ap",
-        "width": 1536,
-        "height": 969,
-        "token": "eyJpZCI6MTMwNjUsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:ay5v3e5PHqj8Ldu-B5YbeJG0belKXeY5baa4q2Q9W90",
-        "is_previewable": true,
-        "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9mZVwvMTMwNjVcLzhlMWE3ZGE4OWU2Y2VjZjlmMWE4MmQxYzdhYzMxMGVlLTE2NTQwMTYzMjYucG5nIn0:american-express:M_vQybkdQcbdpf8uFGycvJquGb57u2uCN-F8VrK8FJc?width={width}",
-        "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9mZVwvMTMwNjVcLzhlMWE3ZGE4OWU2Y2VjZjlmMWE4MmQxYzdhYzMxMGVlLTE2NTQwMTYzMjYucG5nIn0:american-express:M_vQybkdQcbdpf8uFGycvJquGb57u2uCN-F8VrK8FJc?width=800",
-        "is_preview_document": false,
-        "is_new": false
-    },
+
     {
         "id": 13067,
         "created": "2022-05-31T16:58:46+00:00",

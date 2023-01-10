@@ -12,7 +12,7 @@ figma.on('drop', async (event) => {
   rect.x = event.x
   rect.y = event.y
   
-  rect.resize(88, 140)
+  rect.resize(140*2, 88*2)
   
   rect.fills = [{type:"IMAGE", scaleMode:"FIT", imageHash: image.hash }]
   figma.currentPage.selection = [rect];

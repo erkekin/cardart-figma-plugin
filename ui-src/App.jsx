@@ -12,13 +12,11 @@ const Container = styled.div`
 
 const Filters = styled.div`
   width: 100%;
-  margin-bottom: 16px;
-  padding: 8px;
 `;
 
 const FilterItems = styled.div`
-  padding: 16px;
-  justify-content: left;
+  margin-bottom: 16px;
+  display: flex;
 `;
 
 const Input = styled.input`
@@ -56,117 +54,90 @@ function App() {
       setSelectedOptions([...selectedOptions, option]);
     }
   }
-  
+
   useEffect(() => {
     setCards(Cards);
   }, []);
 
   const filteredCountries = countries
-  .filter(card => {
-    return card.ext == "png" && card.is_previewable == true && card.title.toLowerCase().includes(searchTerm.toLowerCase());
-    // return card.project.includes(regionFilter) && card.title.toLowerCase().includes(searchTerm.toLowerCase());
-  });
-  
+    .filter(card => {
+      return card.ext == "png" && card.is_previewable == true && card.title.toLowerCase().includes(searchTerm.toLowerCase());
+      // return card.project.includes(regionFilter) && card.title.toLowerCase().includes(searchTerm.toLowerCase());
+    });
+  const audienceFilters = ['Consumer', 'Business', 'Corporate'];
+  const portfolioFilters = ['Proprietary', 'Proprietary Cobrand'];
+  const regionFilters = ['APAC', 'EMEA', 'LAC', 'NORAM'];
+
+  const [audienceActive, setAudienceActive] = useState(audienceFilters[0]);
+  const [portfolioActive, setPortfolioActive] = useState(portfolioFilters[0]);
+  const [regionActive, setRegionActive] = useState(regionFilters[0]);
+
   return (
     <div>
-        <Input
+      <Input
         type="text"
         placeholder="Search Card Art"
         value={searchTerm}
         onChange={e => setSearchTerm(e.target.value)}
       />
       <Filters>
-      <div align="left">
-        <header>Audience</header>
-      </div>
-      <FilterItems>
-        <button
-          // className={selectedOptions.includes('option1') ? 'selected' : 'button'}
-          // style={{ backgroundColor: selectedOptions.includes('option1') ? 'blue' : 'white' }}
-          onClick={() => handleOptionToggle('option1')}
-        >
-          Consumer
-        </button>
-        <button
-          // className={selectedOptions.includes('option2') ? 'selected' : 'button'}
-          // style={{ backgroundColor: selectedOptions.includes('option2') ? 'blue' : 'white' }}
-          onClick={() => handleOptionToggle('option2')}
-        >
-          Business
-        </button>
-        <button
-          // className={selectedOptions.includes('option3') ? 'selected' : 'button'}
-          // style={{ backgroundColor: selectedOptions.includes('option3') ? 'blue' : 'white' }}
-          onClick={() => handleOptionToggle('option3')}
-        >
-          Corporate
-        </button>
-      </FilterItems>
-
-      <div align="left">
-        <header>Portfolio</header>
-      </div>
-      <FilterItems>
-        <button
-          // className={selectedOptions.includes('option1') ? 'selected' : 'button'}
-          // style={{ backgroundColor: selectedOptions.includes('option1') ? 'blue' : 'white' }}
-          onClick={() => handleOptionToggle('option1')}
-        >
-          Proprietary
-        </button>
-        <button
-          // className={selectedOptions.includes('option2') ? 'selected' : 'button'}
-          // style={{ backgroundColor: selectedOptions.includes('option2') ? 'blue' : 'white' }}
-          onClick={() => handleOptionToggle('option2')}
-        >
-          Proprietary Cobrand
-        </button>
-      </FilterItems>
 
 
-      <div align="left">
-        <header>Region</header>
-      </div>
-      <FilterItems>
-        <button
-          // className={selectedOptions.includes('option1') ? 'selected' : 'button'}
-          // style={{ backgroundColor: selectedOptions.includes('option1') ? 'blue' : 'white' }}
-          onClick={() => handleOptionToggle('option1')}
-        >
-          APAC
-        </button>
-        <button
-          // className={selectedOptions.includes('option2') ? 'selected' : 'button'}
-          // style={{ backgroundColor: selectedOptions.includes('option2') ? 'blue' : 'white' }}
-          onClick={() => handleOptionToggle('option2')}
-        >
-          EMEA
-        </button>
-        <button
-          // className={selectedOptions.includes('option2') ? 'selected' : 'button'}
-          // style={{ backgroundColor: selectedOptions.includes('option2') ? 'blue' : 'white' }}
-          onClick={() => handleOptionToggle('option2')}
-        >
-          LAC
-        </button>
-        <button
-          // className={selectedOptions.includes('option2') ? 'selected' : 'button'}
-          // style={{ backgroundColor: selectedOptions.includes('option2') ? 'blue' : 'white' }}
-          onClick={() => handleOptionToggle('option2')}
-        >
-          NORAM
-        </button>
-      </FilterItems>
+        <div align="left">
+          <header>Audience</header>
+        </div>
+        <FilterItems>
+          {audienceFilters.map(type => (
+            <button
+              key={type}
+              audienceActive={audienceActive === type}
+              onClick={() => setAudienceActive(type)}
+            >
+              {type}
+            </button>
+          ))}
+        </FilterItems>
+
+        <div align="left">
+          <header>Portfolio</header>
+        </div>
+        <FilterItems>
+          {portfolioFilters.map(type => (
+            <button
+              key={type}
+              audienceActive={portfolioActive === type}
+              onClick={() => setPortfolioActive(type)}
+            >
+              {type}
+            </button>
+          ))}
+        </FilterItems>
+
+
+        <div align="left">
+          <header>Region</header>
+        </div>
+        <FilterItems>
+          {regionFilters.map(type => (
+            <button
+              key={type}
+              audienceActive={regionActive === type}
+              onClick={() => setRegionActive(type)}
+            >
+              {type}
+            </button>
+          ))}
+        </FilterItems>
       </Filters>
 
 
       <div align="left">
         <header>Results {filteredCountries.length}</header>
       </div>
-    <Container>
-      {filteredCountries.map(country => (
-        <CountryContainer key={country.title}>
-          <span onDragEnd={ (e) => {
+      <Container>
+        {filteredCountries.map(country => (
+          <CountryContainer key={country.title}>
+            <span onDragEnd={(e) => {
               if (e.view.length === 0) return;
               window.parent.postMessage(
                 {
@@ -174,18 +145,18 @@ function App() {
                     clientX: e.clientX,
                     clientY: e.clientY,
                     files: [],
-                    dropMetadata: { url: country.preview_url}
+                    dropMetadata: { url: country.preview_url }
                   }
                 },
                 '*'
               );
-          }}>
-          <Flag src={country.preview_url} />
-          </span >
-          {country.title}
-        </CountryContainer>
-      ))}
-    </Container>
+            }}>
+              <Flag src={country.preview_url} />
+            </span >
+            {country.title}
+          </CountryContainer>
+        ))}
+      </Container>
     </div>
   );
 }
