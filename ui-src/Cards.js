@@ -6,14 +6,14 @@ export const Cards =  [
         "ext": "pdf",
         "project": 5,
         "title": "sbs_plat_metal_jp_ap",
-        "width": 1536,
-        "height": 969,
+        "audience": "Corporate",
+        "region": "LAC",
         "token": "eyJpZCI6MTM5MjgsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:8zUm_wNP8UuAHGTxJRFqUG5jm3nfo2itt0asCCCJNPA",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC8yZVwvMTM5MjhcL2RjYWYzMmMyZTMwMmJjOWUxYmI4MTcwZjQ2YTAzMTYzLTE2NTQxODc2OTMucGRmIn0:american-express:90DbwRLLAsLngcjvWA9pRPso4OhW-qSSTC6Uo5kY8DE?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC8yZVwvMTM5MjhcL2RjYWYzMmMyZTMwMmJjOWUxYmI4MTcwZjQ2YTAzMTYzLTE2NTQxODc2OTMucGRmIn0:american-express:90DbwRLLAsLngcjvWA9pRPso4OhW-qSSTC6Uo5kY8DE?width=800",
         "is_preview_document": true,
-        "is_new": false
+        "portfolio": "Proprietary"
     },
     {
         "id": 13765,
@@ -22,14 +22,14 @@ export const Cards =  [
         "ext": "png",
         "project": 5,
         "title": "hilton_prem_jp_ap",
-        "width": 1536,
-        "height": 969,
+        "audience": "Corporate",
+        "region": "LAC",
         "token": "eyJpZCI6MTM3NjUsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:TLx-0rx06j0tvBwpkxR-BqSsSh1GJEdT2uu6emmYoyw",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9lNFwvMTM3NjVcLzQxYWFlM2Y4YjA4NzEzYWYxNTU4ZmMzYzQ5OTdiYTg4LTE2NTQxODYyMDMucG5nIn0:american-express:v1iB6RnV0w02TnXoBfO73AjeFKHWzxrC4xy982Iwwb0?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9lNFwvMTM3NjVcLzQxYWFlM2Y4YjA4NzEzYWYxNTU4ZmMzYzQ5OTdiYTg4LTE2NTQxODYyMDMucG5nIn0:american-express:v1iB6RnV0w02TnXoBfO73AjeFKHWzxrC4xy982Iwwb0?width=800",
         "is_preview_document": false,
-        "is_new": false
+        "portfolio": "Proprietary"
     },
    
     {
@@ -39,14 +39,14 @@ export const Cards =  [
         "ext": "png",
         "project": 5,
         "title": "ana_gold_jp_ap",
-        "width": 1536,
-        "height": 969,
+        "audience": "Corporate",
+        "region": "LAC",
         "token": "eyJpZCI6MTM3MDEsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:A1JR4q_Fi49VXMi-PF6_wsXULABtqA0y37osdyLwEIU",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9iYlwvMTM3MDFcLzA4MmUwNmVlYWVlZTc1NmVlMDZlYWFmM2IzN2ZhZTBkLTE2NTQxODU3MTYucG5nIn0:american-express:COxJto8HyLTWXCwYHsM3hnVHNjG2RfTuNEn1lWp6yvo?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9iYlwvMTM3MDFcLzA4MmUwNmVlYWVlZTc1NmVlMDZlYWFmM2IzN2ZhZTBkLTE2NTQxODU3MTYucG5nIn0:american-express:COxJto8HyLTWXCwYHsM3hnVHNjG2RfTuNEn1lWp6yvo?width=800",
         "is_preview_document": false,
-        "is_new": false
+        "portfolio": "Proprietary"
     },
    
     {
@@ -56,14 +56,14 @@ export const Cards =  [
         "ext": "png",
         "project": 5,
         "title": "sbs_green_ap",
-        "width": 1536,
-        "height": 969,
+        "audience": "Corporate",
+        "region": "LAC",
         "token": "eyJpZCI6MTMyNTUsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:Ta8ZwV8PHAs52P9ox7EVgwQdPY3RHAwsV_HzNfa4h60",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9jOVwvMTMyNTVcL2RiMTc1YTdiMzY2MTNiMWZiYmM1OGNiNjkzN2ZlMDRjLTE2NTQwMjc3MzgucG5nIn0:american-express:M4Z7PZfqoLtTxV--ZctbOkdVU74AFFY4Jg2u4CwQ_9o?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9jOVwvMTMyNTVcL2RiMTc1YTdiMzY2MTNiMWZiYmM1OGNiNjkzN2ZlMDRjLTE2NTQwMjc3MzgucG5nIn0:american-express:M4Z7PZfqoLtTxV--ZctbOkdVU74AFFY4Jg2u4CwQ_9o?width=800",
         "is_preview_document": false,
-        "is_new": false
+        "portfolio": "Proprietary"
     },
     {
         "id": 13158,
@@ -72,14 +72,14 @@ export const Cards =  [
         "ext": "pdf",
         "project": 5,
         "title": "sbs_gold_1920x1216",
-        "width": 1920,
-        "height": 1216,
+        "audience": "Consumer",
+        "region": "APAC",
         "token": "eyJpZCI6MTMxNTgsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:xSu8v1PrQkaVubwJpRiwQOOfH6IdI7q60-pB-rTfczw",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC8xYVwvMTMxNThcLzI4ZTc2YzI2ZmFjYjAxYTI4MmVkZWIxMDFlNGJlYzQwLTE2NTQwMjc2NTUucGRmIn0:american-express:D9CAzeKbvGAhERrygvIKiJIdHc2yR5K4MEn4KSrIO2U?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC8xYVwvMTMxNThcLzI4ZTc2YzI2ZmFjYjAxYTI4MmVkZWIxMDFlNGJlYzQwLTE2NTQwMjc2NTUucGRmIn0:american-express:D9CAzeKbvGAhERrygvIKiJIdHc2yR5K4MEn4KSrIO2U?width=800",
         "is_preview_document": true,
-        "is_new": false
+        "portfolio": "Proprietary"
     },
     {
         "id": 12829,
@@ -88,14 +88,14 @@ export const Cards =  [
         "ext": "png",
         "project": 5,
         "title": "cashmagnet2_eds_ap",
-        "width": 1536,
-        "height": 969,
+        "audience": "Corporate",
+        "region": "LAC",
         "token": "eyJpZCI6MTI4MjksInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:rCEwCDZKDzzt2lWvHfQ7LsK_F2rfdUjTFvennQK0JiE",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9iOVwvMTI4MjlcL2NkZDE2ZDNhMGRiMzE2NjZiNjFhZWM1NmRmMTg0ZjIwLTE2NTM1MDk4MDUucG5nIn0:american-express:B-ZTHlVNjMLcpUQRHa29ycIQPg28PhY7Tm8RKKYHBSI?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9iOVwvMTI4MjlcL2NkZDE2ZDNhMGRiMzE2NjZiNjFhZWM1NmRmMTg0ZjIwLTE2NTM1MDk4MDUucG5nIn0:american-express:B-ZTHlVNjMLcpUQRHa29ycIQPg28PhY7Tm8RKKYHBSI?width=800",
         "is_preview_document": false,
-        "is_new": false
+        "portfolio": "Proprietary"
     },
     {
         "id": 12569,
@@ -104,14 +104,14 @@ export const Cards =  [
         "ext": "png",
         "project": 5,
         "title": "polaris_bus_debit_ap_308x194",
-        "width": 308,
-        "height": 194,
+       "audience": "Corporate",
+        "region": "LAC",
         "token": "eyJpZCI6MTI1NjksInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:QJw0l3aDehj68LJoRZUhnLFcbK9shni5nIM2pGa_6O8",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC84NVwvMTI1NjlcLzA4OGEzZWJmMjM4NGMyYTU4Zjk4YjBmNTdhODEzZjMyLTE2NTMzMzg3NzgucG5nIn0:american-express:t_1DMNFwft9SdyNbSotzslyzRO5wS0xSOJ7zh8JJrUM?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC84NVwvMTI1NjlcLzA4OGEzZWJmMjM4NGMyYTU4Zjk4YjBmNTdhODEzZjMyLTE2NTMzMzg3NzgucG5nIn0:american-express:t_1DMNFwft9SdyNbSotzslyzRO5wS0xSOJ7zh8JJrUM?width=800",
         "is_preview_document": false,
-        "is_new": false
+        "portfolio": "Proprietary"
     },
     {
         "id": 12563,
@@ -120,14 +120,14 @@ export const Cards =  [
         "ext": "pdf",
         "project": 5,
         "title": "alinea_debit_1920x1216",
-        "width": 1920,
-        "height": 1216,
+        "audience": "Consumer",
+        "region": "APAC",
         "token": "eyJpZCI6MTI1NjMsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:BsPSuepYPvthNgWP41ySzY2RC0CZuOL4dwf4dtPeP6I",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC8wMVwvMTI1NjNcL2ZjZWM1N2Y1Y2UzYzU3MjUxN2FjN2QxNTNkOWQ4MjkxLTE2NTMzMzgyNDUucGRmIn0:american-express:Sf4baWMlIJNYeeOedMdl4y4DovxNnEhpyyEWJ9HhzFw?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC8wMVwvMTI1NjNcL2ZjZWM1N2Y1Y2UzYzU3MjUxN2FjN2QxNTNkOWQ4MjkxLTE2NTMzMzgyNDUucGRmIn0:american-express:Sf4baWMlIJNYeeOedMdl4y4DovxNnEhpyyEWJ9HhzFw?width=800",
         "is_preview_document": true,
-        "is_new": false
+        "portfolio": "Proprietary"
     },
     {
         "id": 12340,
@@ -136,14 +136,14 @@ export const Cards =  [
         "ext": "png",
         "project": 5,
         "title": "hilton_base_ap_308x194",
-        "width": 308,
-        "height": 194,
+       "audience": "Corporate",
+        "region": "LAC",
         "token": "eyJpZCI6MTIzNDAsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:UnLy23TiUWKsoKgnMC6FtgdXvgqjHxPbDC6gDQ0qsUk",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC84ZVwvMTIzNDBcLzY3ZDk2ZWE1ZjVmNGUyODg0NmYwNTI0ZGI5M2EzZDMwLTE2NTI5ODIzMzcucG5nIn0:american-express:az85JT8jyfOtqMWCvqtk22DMLuabTeF6s7pd9FTQwEw?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC84ZVwvMTIzNDBcLzY3ZDk2ZWE1ZjVmNGUyODg0NmYwNTI0ZGI5M2EzZDMwLTE2NTI5ODIzMzcucG5nIn0:american-express:az85JT8jyfOtqMWCvqtk22DMLuabTeF6s7pd9FTQwEw?width=800",
         "is_preview_document": false,
-        "is_new": false
+        "portfolio": "Proprietary"
     },
     {
         "id": 12241,
@@ -152,14 +152,14 @@ export const Cards =  [
         "ext": "png",
         "project": 5,
         "title": "hilton_business_ap",
-        "width": 1536,
-        "height": 969,
+        "audience": "Corporate",
+        "region": "APAC",
         "token": "eyJpZCI6MTIyNDEsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:KPfC65OHDe_WH5Kna1Fqk8ZTKdo2k96cXnSGMSRhed0",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC8xYlwvMTIyNDFcLzQxNzg3NjA3MjI2NjhmZGFjNDczYjZiNWMyNmFmY2Y4LTE2NTI5ODIxMDYucG5nIn0:american-express:ND07GSqnkNHTNI_v300ntjFqDOlqH6pyluCx8SGkalU?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC8xYlwvMTIyNDFcLzQxNzg3NjA3MjI2NjhmZGFjNDczYjZiNWMyNmFmY2Y4LTE2NTI5ODIxMDYucG5nIn0:american-express:ND07GSqnkNHTNI_v300ntjFqDOlqH6pyluCx8SGkalU?width=800",
         "is_preview_document": false,
-        "is_new": false
+        "portfolio": "Proprietary"
     },
     {
         "id": 12051,
@@ -168,14 +168,14 @@ export const Cards =  [
         "ext": "png",
         "project": 5,
         "title": "delta_reserve_sbs_ap",
-        "width": 1536,
-        "height": 969,
+        "audience": "Corporate",
+        "region": "LAC",
         "token": "eyJpZCI6MTIwNTEsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:GS2vPJJDShDJC0gfzWke2bfQsBbd_Z0rMXqCtypF460",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC81MFwvMTIwNTFcLzFjNDM1N2RiY2M4M2E4Yjk3NWUzMDlhZGFiNThjZTJhLTE2NTI5NzgyMDgucG5nIn0:american-express:0dR2db6hgaPRbVtO0KzzNw70ZmmKMRRMK1YUpU5hMns?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC81MFwvMTIwNTFcLzFjNDM1N2RiY2M4M2E4Yjk3NWUzMDlhZGFiNThjZTJhLTE2NTI5NzgyMDgucG5nIn0:american-express:0dR2db6hgaPRbVtO0KzzNw70ZmmKMRRMK1YUpU5hMns?width=800",
         "is_preview_document": false,
-        "is_new": false
+        "portfolio": "Proprietary"
     },
     {
         "id": 12053,
@@ -184,14 +184,14 @@ export const Cards =  [
         "ext": "pdf",
         "project": 5,
         "title": "delta_reserve_sbs_1920x1216",
-        "width": 1920,
-        "height": 1216,
+        "audience": "Consumer",
+        "region": "APAC",
         "token": "eyJpZCI6MTIwNTMsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:POKHOAxN_tSN3Dj5O4nR7AXSO6P3Ej78j7dN9WGHybc",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC84YlwvMTIwNTNcL2JmZjc5NzA0NWY2N2ExOGQxZmIzZWY1NTUwNzU1OTJjLTE2NTI5NzgyMDgucGRmIn0:american-express:cxxtN-gjg7DtDgG2JOFyJaOkqpJZYOBxObxjL6tSMIU?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC84YlwvMTIwNTNcL2JmZjc5NzA0NWY2N2ExOGQxZmIzZWY1NTUwNzU1OTJjLTE2NTI5NzgyMDgucGRmIn0:american-express:cxxtN-gjg7DtDgG2JOFyJaOkqpJZYOBxObxjL6tSMIU?width=800",
         "is_preview_document": true,
-        "is_new": false
+        "portfolio": "Proprietary"
     },
     {
         "id": 12177,
@@ -200,14 +200,14 @@ export const Cards =  [
         "ext": "png",
         "project": 5,
         "title": "hilton_surpass_ap_308x194",
-        "width": 308,
-        "height": 194,
+       "audience": "Corporate",
+        "region": "LAC",
         "token": "eyJpZCI6MTIxNzcsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:ynqMy2-517iPgR3eG9rLOAZVPfKPr8epC7O82wqZS2g",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC8wN1wvMTIxNzdcLzJjY2VhMTU4NjkxNjE4NDZhMGViNmE1YTAyMGRmM2JlLTE2NTI5ODE4MjEucG5nIn0:american-express:xyvuMMg8K7bD7itr-ojqhq4nCs3fGZe7paVO-M6j6xU?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC8wN1wvMTIxNzdcLzJjY2VhMTU4NjkxNjE4NDZhMGViNmE1YTAyMGRmM2JlLTE2NTI5ODE4MjEucG5nIn0:american-express:xyvuMMg8K7bD7itr-ojqhq4nCs3fGZe7paVO-M6j6xU?width=800",
         "is_preview_document": false,
-        "is_new": false
+        "portfolio": "Proprietary"
     },
     {
         "id": 12181,
@@ -216,14 +216,14 @@ export const Cards =  [
         "ext": "png",
         "project": 5,
         "title": "hilton_surpass_ap_750x472",
-        "width": 750,
-        "height": 472,
+        "audience": "Corporate",
+        "region": "EMEA",
         "token": "eyJpZCI6MTIxODEsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:XweTjmxXCz8sQftRJwoZM1lNcN8QCXEQUb8LlMb5PlI",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9iN1wvMTIxODFcLzU0ZjYzNmJlNjE1MjU3MTBlNTY4MmY3MTlkYWQxMjM1LTE2NTI5ODE4MjEucG5nIn0:american-express:H7KuZwIG1G8CtLvvUOO-JX7jt0KW4lt2mblg-6eK4LA?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9iN1wvMTIxODFcLzU0ZjYzNmJlNjE1MjU3MTBlNTY4MmY3MTlkYWQxMjM1LTE2NTI5ODE4MjEucG5nIn0:american-express:H7KuZwIG1G8CtLvvUOO-JX7jt0KW4lt2mblg-6eK4LA?width=800",
         "is_preview_document": false,
-        "is_new": false
+        "portfolio": "Proprietary"
     },
    
     {
@@ -233,14 +233,14 @@ export const Cards =  [
         "ext": "png",
         "project": 5,
         "title": "delta_gold_sbs_ap",
-        "width": 1013,
-        "height": 638,
+        "audience": "Corporate",
+        "region": "EMEA",
         "token": "eyJpZCI6MTE4NDQsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:G7C_ej7rtIDJpIqKvQP889f1ImFyOuCNTqwdHwH1tCI",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC8zMlwvMTE4NDRcL2QwZGM4MzU4MGFiM2Y4MzkyNzk2OTcwODQyODA3OTIwLTE2NTI5NzY1OTgucG5nIn0:american-express:oGOIefuI0ymrHJgBQZ2A-K3fy4vkdyQZoSLNjk15mpk?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC8zMlwvMTE4NDRcL2QwZGM4MzU4MGFiM2Y4MzkyNzk2OTcwODQyODA3OTIwLTE2NTI5NzY1OTgucG5nIn0:american-express:oGOIefuI0ymrHJgBQZ2A-K3fy4vkdyQZoSLNjk15mpk?width=800",
         "is_preview_document": false,
-        "is_new": false
+        "portfolio": "Proprietary"
     },
     {
         "id": 11476,
@@ -249,14 +249,14 @@ export const Cards =  [
         "ext": "pdf",
         "project": 5,
         "title": "blue_cash_pref_1920x1216",
-        "width": 1920,
-        "height": 1216,
+        "audience": "Consumer",
+        "region": "APAC",
         "token": "eyJpZCI6MTE0NzYsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:m2dSMLGgDInU7YlSBy3_ulQ6eYhMFgxieCxE40Oz0x4",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC83NlwvMTE0NzZcLzYzMmE5OTViMmNjYWQ0ZTdjNjYwMzA2YTgwNTBjMzg3LTE2NTI5NzUwMDIucGRmIn0:american-express:mFAdYONr6YXoZXBiMAnoqQIihPaMmXmNZzjK1fdHc-0?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC83NlwvMTE0NzZcLzYzMmE5OTViMmNjYWQ0ZTdjNjYwMzA2YTgwNTBjMzg3LTE2NTI5NzUwMDIucGRmIn0:american-express:mFAdYONr6YXoZXBiMAnoqQIihPaMmXmNZzjK1fdHc-0?width=800",
         "is_preview_document": true,
-        "is_new": false
+        "portfolio": "Proprietary"
     },
     {
         "id": 11370,
@@ -265,14 +265,14 @@ export const Cards =  [
         "ext": "png",
         "project": 5,
         "title": "blue_sbs_plus_ap",
-        "width": 1536,
-        "height": 969,
+        "audience": "Corporate",
+        "region": "LAC",
         "token": "eyJpZCI6MTEzNzAsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:QaR-OUvhLrx1AAVMBeVNONzbc0AdtbjTPaDON_gVH6g",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC84MFwvMTEzNzBcL2FjYzBjZjQ1N2I3ODMxZTE5YzI2NmM2NTA5MDcxMjE5LTE2NTI5NzQwOTYucG5nIn0:american-express:l88sMuQXRU0lwJWJJxqA3p5hUdakaVxfHkPQMflxmkQ?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC84MFwvMTEzNzBcL2FjYzBjZjQ1N2I3ODMxZTE5YzI2NmM2NTA5MDcxMjE5LTE2NTI5NzQwOTYucG5nIn0:american-express:l88sMuQXRU0lwJWJJxqA3p5hUdakaVxfHkPQMflxmkQ?width=800",
         "is_preview_document": false,
-        "is_new": false
+        "portfolio": "Proprietary"
     },
     {
         "id": 11719,
@@ -281,14 +281,14 @@ export const Cards =  [
         "ext": "png",
         "project": 5,
         "title": "delta_blue_ap",
-        "width": 1536,
-        "height": 969,
+        "audience": "Corporate",
+        "region": "LAC",
         "token": "eyJpZCI6MTE3MTksInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:yDykTHOWto_QKWVWInMI3yGRSn-qxmXRaELSi3WhRYw",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC81M1wvMTE3MTlcLzJkMThhY2M2OWFjNTRiNTBiYjIxYTIzYjEzMGFiY2Y1LTE2NTI5NzYwNDEucG5nIn0:american-express:bll_E3NJITSIF2le-yrEylZBlVsXokZfsf6kHXQ5-sg?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC81M1wvMTE3MTlcLzJkMThhY2M2OWFjNTRiNTBiYjIxYTIzYjEzMGFiY2Y1LTE2NTI5NzYwNDEucG5nIn0:american-express:bll_E3NJITSIF2le-yrEylZBlVsXokZfsf6kHXQ5-sg?width=800",
         "is_preview_document": false,
-        "is_new": false
+        "portfolio": "Proprietary"
     },
     {
         "id": 11544,
@@ -297,14 +297,14 @@ export const Cards =  [
         "ext": "pdf",
         "project": 5,
         "title": "corp_green_merc_1920x1216",
-        "width": 1920,
-        "height": 1216,
+        "audience": "Consumer",
+        "region": "APAC",
         "token": "eyJpZCI6MTE1NDQsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:BsLcKYXeT1Ih6FKxK2hwg9SHVpJ-JYjtAxcTeEl_YzI",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC8wNFwvMTE1NDRcLzAxNmU4NzJjOGJjZjIyODZlYzVmMmM4M2RhNDNmZDk3LTE2NTI5NzU2MjEucGRmIn0:american-express:8IUgbc6xStquHLimXGtGIN2aJDFLJPYdbgjDqBSbaDc?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC8wNFwvMTE1NDRcLzAxNmU4NzJjOGJjZjIyODZlYzVmMmM4M2RhNDNmZDk3LTE2NTI5NzU2MjEucGRmIn0:american-express:8IUgbc6xStquHLimXGtGIN2aJDFLJPYdbgjDqBSbaDc?width=800",
         "is_preview_document": true,
-        "is_new": false
+        "portfolio": "Proprietary"
     },
    
     {
@@ -314,14 +314,14 @@ export const Cards =  [
         "ext": "pdf",
         "project": 5,
         "title": "chg_green_merc_1920x1216",
-        "width": 1920,
-        "height": 1216,
+        "audience": "Consumer",
+        "region": "APAC",
         "token": "eyJpZCI6MTEyNjYsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:5trLuMcCyyKG-LO5QuNWUEImx3NoG9w1HRoquJxtf84",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9iNlwvMTEyNjZcL2IzY2FkYWUzMmQzZjBhNmVjYmVkNTkzNjlkMDE4MjUzLTE2NTI5MTAyOTkucGRmIn0:american-express:zvI4vivCkWvvSTzQcOXK3dLocQOKprR9WqDPDn1W2vk?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9iNlwvMTEyNjZcL2IzY2FkYWUzMmQzZjBhNmVjYmVkNTkzNjlkMDE4MjUzLTE2NTI5MTAyOTkucGRmIn0:american-express:zvI4vivCkWvvSTzQcOXK3dLocQOKprR9WqDPDn1W2vk?width=800",
         "is_preview_document": true,
-        "is_new": false
+        "portfolio": "Proprietary"
     },
     {
         "id": 11153,
@@ -330,14 +330,14 @@ export const Cards =  [
         "ext": "png",
         "project": 5,
         "title": "sbs_gold_metal_v2_ap",
-        "width": 1536,
-        "height": 969,
+        "audience": "Corporate",
+        "region": "LAC",
         "token": "eyJpZCI6MTExNTMsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:gugPj8bcsufqvHtj-HHa6MTCS5dwmLmpM7riprYrNrQ",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC80OVwvMTExNTNcL2M5NWIwNDdhNmI2OGU2ZDA4ZTgzNDQyNDFmMTFhZWE0LTE2NTI5MDkxMjMucG5nIn0:american-express:X-gx6TFKtHvUH17LhMrf6afkj-wujikXge1Pdnb1-uM?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC80OVwvMTExNTNcL2M5NWIwNDdhNmI2OGU2ZDA4ZTgzNDQyNDFmMTFhZWE0LTE2NTI5MDkxMjMucG5nIn0:american-express:X-gx6TFKtHvUH17LhMrf6afkj-wujikXge1Pdnb1-uM?width=800",
         "is_preview_document": false,
-        "is_new": false
+        "portfolio": "Proprietary"
     },
   
 
@@ -348,14 +348,14 @@ export const Cards =  [
         "ext": "pdf",
         "project": 5,
         "title": "chg_gold_2018_emea_1920x1216",
-        "width": 1920,
-        "height": 1216,
+        "audience": "Consumer",
+        "region": "EMEA",
         "token": "eyJpZCI6OTcxMSwidGltZXN0YW1wIjoiMTY3MzI2NjAyMSJ9:american-express:ysjhtMMP4aroxyPMNl6j8XXB4s7aS0ZgH2fhzz3aQ04",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC81ZVwvOTcxMVwvNTM3Njk1MDQzNjc5NGMxNjU0NTEwYWQyOGNmNTgzMTUtMTY1MTI1NjE2Ni5wZGYifQ:american-express:ssX_XWvDmRS3ScMVOnhyKw7CjOO4OSYHkuXwLAeG6V4?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC81ZVwvOTcxMVwvNTM3Njk1MDQzNjc5NGMxNjU0NTEwYWQyOGNmNTgzMTUtMTY1MTI1NjE2Ni5wZGYifQ:american-express:ssX_XWvDmRS3ScMVOnhyKw7CjOO4OSYHkuXwLAeG6V4?width=800",
         "is_preview_document": true,
-        "is_new": false
+        "portfolio": "Proprietary"
     },
     {
         "id": 9485,
@@ -364,14 +364,14 @@ export const Cards =  [
         "ext": "pdf",
         "project": 5,
         "title": "plat_metal_2018_1920x1216",
-        "width": 1920,
-        "height": 1216,
+        "audience": "Consumer",
+        "region": "APAC",
         "token": "eyJpZCI6OTQ4NSwidGltZXN0YW1wIjoiMTY3MzI2NjAyMSJ9:american-express:QqM65fJn6HEoK1PyHjGysvH59xhbrDutB307PGLHwb8",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC8xMFwvOTQ4NVwvZmNmODNjYjg0YzExMGJlZWZjZTI1OTJlZmE3OGUwM2QtMTY1MTI0OTQ1My5wZGYifQ:american-express:hE_SGV0YcnHD4z_VUcC-6ecJq-7jSO1Kd_wzRERu21I?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC8xMFwvOTQ4NVwvZmNmODNjYjg0YzExMGJlZWZjZTI1OTJlZmE3OGUwM2QtMTY1MTI0OTQ1My5wZGYifQ:american-express:hE_SGV0YcnHD4z_VUcC-6ecJq-7jSO1Kd_wzRERu21I?width=800",
         "is_preview_document": true,
-        "is_new": false
+        "portfolio": "Proprietary"
     },
     {
         "id": 9467,
@@ -380,14 +380,14 @@ export const Cards =  [
         "ext": "png",
         "project": 5,
         "title": "amazon_sbs_prime_fr_ap",
-        "width": 1536,
-        "height": 969,
+        "audience": "Corporate",
+        "region": "LAC",
         "token": "eyJpZCI6OTQ2NywidGltZXN0YW1wIjoiMTY3MzI2NjAyMSJ9:american-express:Jv6WbWTkViELU1REbfJe5Yr-mB35wpz6-nkO9vEw4ic",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC8xZVwvOTQ2N1wvYzVjYjk0ZTJjM2M1NzYzNGRmM2EyNjJhZTU0ODc0YTEtMTY1MTE4NTAwMi5wbmcifQ:american-express:Q3xMKWyZgkFe8BMNZ3xPF4AP8pMasTNG-CXssHGMN3Y?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC8xZVwvOTQ2N1wvYzVjYjk0ZTJjM2M1NzYzNGRmM2EyNjJhZTU0ODc0YTEtMTY1MTE4NTAwMi5wbmcifQ:american-express:Q3xMKWyZgkFe8BMNZ3xPF4AP8pMasTNG-CXssHGMN3Y?width=800",
         "is_preview_document": false,
-        "is_new": false
+        "portfolio": "Proprietary"
     },
     {
         "id": 9364,
@@ -396,14 +396,14 @@ export const Cards =  [
         "ext": "png",
         "project": 5,
         "title": "amazon_sbs_base_fr_ap",
-        "width": 1536,
-        "height": 969,
+        "audience": "Corporate",
+        "region": "LAC",
         "token": "eyJpZCI6OTM2NCwidGltZXN0YW1wIjoiMTY3MzI2NjAyMSJ9:american-express:Q9e_tGbzjDBb6G4TtQPzxCyAxeyKs4XfSYAmKrps670",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC80ZVwvOTM2NFwvMmExM2Q0OTI3NzMyYTAxNmU3ODk5ZDMzMjU0NGZkNDAtMTY1MTE4NDM5Ni5wbmcifQ:american-express:T1tIJCFdP_UL5PMi6jIabRMyACE89luQMtPpaJYah_U?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC80ZVwvOTM2NFwvMmExM2Q0OTI3NzMyYTAxNmU3ODk5ZDMzMjU0NGZkNDAtMTY1MTE4NDM5Ni5wbmcifQ:american-express:T1tIJCFdP_UL5PMi6jIabRMyACE89luQMtPpaJYah_U?width=800",
         "is_preview_document": false,
-        "is_new": false
+        "portfolio": "Proprietary"
     },
    
     {
@@ -413,14 +413,14 @@ export const Cards =  [
         "ext": "pdf",
         "project": 5,
         "title": "af_klm_sbs_plat_1920x1216_Flux",
-        "width": 1920,
-        "height": 1216,
+        "audience": "Consumer",
+        "region": "APAC",
         "token": "eyJpZCI6OTI0NywidGltZXN0YW1wIjoiMTY3MzI2NjAyMSJ9:american-express:UoFHI-ED9uwjVZNC2Oe9L6_kSpUYn8i1eQ3Rm8uQwz0",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC8yMFwvOTI0N1wvMDI4N2NiMTcyNTVmOGNlY2QyYTU3YWZlMzBiY2ZiOGMtMTY1MTE3OTAwMC5wZGYifQ:american-express:TePW5QCFlEOScaae_jJq56tsAeAIwwgetVQ02LDCVEo?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC8yMFwvOTI0N1wvMDI4N2NiMTcyNTVmOGNlY2QyYTU3YWZlMzBiY2ZiOGMtMTY1MTE3OTAwMC5wZGYifQ:american-express:TePW5QCFlEOScaae_jJq56tsAeAIwwgetVQ02LDCVEo?width=800",
         "is_preview_document": true,
-        "is_new": false
+        "portfolio": "Proprietary"
     },
     {
         "id": 9248,
@@ -429,14 +429,14 @@ export const Cards =  [
         "ext": "png",
         "project": 5,
         "title": "af_klm_sbs_plat_ap",
-        "width": 1536,
-        "height": 969,
+        "audience": "Corporate",
+        "region": "LAC",
         "token": "eyJpZCI6OTI0OCwidGltZXN0YW1wIjoiMTY3MzI2NjAyMSJ9:american-express:Vqzwoouxhj4svPN-Wb8X12mCh8sKHHZ2GkqE8zfNqug",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC8yYlwvOTI0OFwvNjk1MDQzZDM5MGFmMDU3YTAyYTQ2MTdkYjFkZTUxOTgtMTY1MTE3OTAwMC5wbmcifQ:american-express:Lni8vieKeX5u9qbOiGxk_g9765L3ps3Y_Ep7Hgp7Wgw?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC8yYlwvOTI0OFwvNjk1MDQzZDM5MGFmMDU3YTAyYTQ2MTdkYjFkZTUxOTgtMTY1MTE3OTAwMC5wbmcifQ:american-express:Lni8vieKeX5u9qbOiGxk_g9765L3ps3Y_Ep7Hgp7Wgw?width=800",
         "is_preview_document": false,
-        "is_new": false
+        "portfolio": "Proprietary"
     },
   
     {
@@ -446,14 +446,14 @@ export const Cards =  [
         "ext": "pdf",
         "project": 5,
         "title": "af_klm_gold_1920x1216",
-        "width": 1920,
-        "height": 1216,
+        "audience": "Consumer",
+        "region": "APAC",
         "token": "eyJpZCI6ODk1NSwidGltZXN0YW1wIjoiMTY3MzI2NjAyMSJ9:american-express:-yojnQpDHOMSwo6rZ6xDIArGNb-BBrpuFh0KH32ri6A",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC8xY1wvODk1NVwvZTI2YTQzNDIwZDY1MDRlYzgwNTMwY2MwYTRiOWIxY2QtMTY1MTE3MTQ5MC5wZGYifQ:american-express:qSy3Y3QQwP98l1JL75WsmC6JTNCc5Y7ZqjweoC1Qn7c?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC8xY1wvODk1NVwvZTI2YTQzNDIwZDY1MDRlYzgwNTMwY2MwYTRiOWIxY2QtMTY1MTE3MTQ5MC5wZGYifQ:american-express:qSy3Y3QQwP98l1JL75WsmC6JTNCc5Y7ZqjweoC1Qn7c?width=800",
         "is_preview_document": true,
-        "is_new": false
+        "portfolio": "Proprietary"
     },
     {
         "id": 8839,
@@ -462,14 +462,14 @@ export const Cards =  [
         "ext": "eps",
         "project": 5,
         "title": "chg_plat_metal_fr_di_a4",
-        "width": 244,
-        "height": 154,
+        "audience": "Consumer",
+        "region": "APAC",
         "token": "eyJpZCI6ODgzOSwidGltZXN0YW1wIjoiMTY3MzI2NjAyMSJ9:american-express:srBhQEc_A49NCK5v-4pBNlXI3_BN1n1UQ-rkwNG_jw8",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC8yMVwvODgzOVwvMzY4ODE2NjNhN2MzZmNlOGU1ZGE4YWQ5ZjZmNDZmMWEtMTY1MTE2ODUyNy5lcHMifQ:american-express:xsQdiHFaufeYh1xY7qyy_WfA_UitJi0GU04ySMNUiGA?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC8yMVwvODgzOVwvMzY4ODE2NjNhN2MzZmNlOGU1ZGE4YWQ5ZjZmNDZmMWEtMTY1MTE2ODUyNy5lcHMifQ:american-express:xsQdiHFaufeYh1xY7qyy_WfA_UitJi0GU04ySMNUiGA?width=800",
         "is_preview_document": false,
-        "is_new": false
+        "portfolio": "Proprietary"
     },
     {
         "id": 8842,
@@ -478,14 +478,14 @@ export const Cards =  [
         "ext": "eps",
         "project": 5,
         "title": "chg_plat_metal_fr_di_c4",
-        "width": 72,
-        "height": 46,
+        "audience": "Consumer",
+        "region": "APAC",
         "token": "eyJpZCI6ODg0MiwidGltZXN0YW1wIjoiMTY3MzI2NjAyMSJ9:american-express:nk_4PuGM3zogKKuv2nH17d5IUNDpmnWKMn-mzbWSGCU",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC81NVwvODg0MlwvOTgyMmE2YjE5NjBkNDQyOTlhOGJhZWQzMTcyNTc3ZjMtMTY1MTE2ODUyNy5lcHMifQ:american-express:EEDAzRaOi1DhPCovOaccFTJwndAAUDK5WACrrI4VMoE?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC81NVwvODg0MlwvOTgyMmE2YjE5NjBkNDQyOTlhOGJhZWQzMTcyNTc3ZjMtMTY1MTE2ODUyNy5lcHMifQ:american-express:EEDAzRaOi1DhPCovOaccFTJwndAAUDK5WACrrI4VMoE?width=800",
         "is_preview_document": false,
-        "is_new": false
+        "portfolio": "Proprietary"
     },
     {
         "id": 8843,
@@ -494,14 +494,14 @@ export const Cards =  [
         "ext": "eps",
         "project": 5,
         "title": "chg_plat_metal_fr_di_b4",
-        "width": 142,
-        "height": 90,
+        "audience": "Consumer",
+        "region": "APAC",
         "token": "eyJpZCI6ODg0MywidGltZXN0YW1wIjoiMTY3MzI2NjAyMSJ9:american-express:gUCxIT8OWJtx7lTJRBOlcEhl3n6no_0WWxyiSDVcf4Y",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC8zZFwvODg0M1wvNmZjZWZmNzBiYWM0NTk1MDI0YTQyNzFmOGUwMWViNmUtMTY1MTE2ODUyNy5lcHMifQ:american-express:G2zacxQ4csFth1pbs7F9N3jLXZbhZitbc7MvqC63kFE?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC8zZFwvODg0M1wvNmZjZWZmNzBiYWM0NTk1MDI0YTQyNzFmOGUwMWViNmUtMTY1MTE2ODUyNy5lcHMifQ:american-express:G2zacxQ4csFth1pbs7F9N3jLXZbhZitbc7MvqC63kFE?width=800",
         "is_preview_document": false,
-        "is_new": false
+        "portfolio": "Proprietary"
     },
     {
         "id": 8774,
@@ -510,14 +510,14 @@ export const Cards =  [
         "ext": "pdf",
         "project": 5,
         "title": "aircanada_core_corp_di_1920x1216",
-        "width": 1920,
-        "height": 1216,
+        "audience": "Consumer",
+        "region": "APAC",
         "token": "eyJpZCI6ODc3NCwidGltZXN0YW1wIjoiMTY3MzI2NjAyMSJ9:american-express:kTBZelpzENdpH4h90Dh-_DYv7tisTGUBfonDAJxh1lo",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9lOVwvODc3NFwvMjJiOTZmMTY1MTdkYzNlOWU4NmMyYTYxNzFlZDAxNWUtMTY1MTE2MTc2NS5wZGYifQ:american-express:K18ArdZVEz3hstnC3QiVd_O7Emcv02U7_ZnBU1Y3kow?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9lOVwvODc3NFwvMjJiOTZmMTY1MTdkYzNlOWU4NmMyYTYxNzFlZDAxNWUtMTY1MTE2MTc2NS5wZGYifQ:american-express:K18ArdZVEz3hstnC3QiVd_O7Emcv02U7_ZnBU1Y3kow?width=800",
         "is_preview_document": true,
-        "is_new": false
+        "portfolio": "Proprietary"
     },
     {
         "id": 8717,
@@ -526,14 +526,14 @@ export const Cards =  [
         "ext": "pdf",
         "project": 5,
         "title": "aircanada_core_sbs_di_1920x1216",
-        "width": 1920,
-        "height": 1216,
+        "audience": "Consumer",
+        "region": "APAC",
         "token": "eyJpZCI6ODcxNywidGltZXN0YW1wIjoiMTY3MzI2NjAyMSJ9:american-express:BTeaN6IxxFGxT8pZbpxhg6bkm9b9BULFeiPlt6jCNEU",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC85ZlwvODcxN1wvM2U1YmJmYjRiZWExNDUyMDBiY2Q4MDBkNjdjM2RiMDQtMTY1MTE2MTE1Ny5wZGYifQ:american-express:oVkWYam04_AM1rAjpXUQKp1U8fBH-2-oC1FLeoL0Qdg?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC85ZlwvODcxN1wvM2U1YmJmYjRiZWExNDUyMDBiY2Q4MDBkNjdjM2RiMDQtMTY1MTE2MTE1Ny5wZGYifQ:american-express:oVkWYam04_AM1rAjpXUQKp1U8fBH-2-oC1FLeoL0Qdg?width=800",
         "is_preview_document": true,
-        "is_new": false
+        "portfolio": "Proprietary"
     },
     {
         "id": 8600,
@@ -542,14 +542,14 @@ export const Cards =  [
         "ext": "png",
         "project": 5,
         "title": "aircanada_prem_corp_ap",
-        "width": 1536,
-        "height": 969,
+        "audience": "Corporate",
+        "region": "LAC",
         "token": "eyJpZCI6ODYwMCwidGltZXN0YW1wIjoiMTY3MzI2NjAyMSJ9:american-express:9HAHoPp0cXx2Xk9cXZdKIGlmaeqH0PsOaAsbh1wn4vo",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9jZVwvODYwMFwvNDQ2ZGI2NTQxYTY5NDg3OWMxM2M3NmUwOTRmZjBiMmMtMTY1MTA5NDg1Ni5wbmcifQ:american-express:LmJ9rQSo_1KQQ-GYMPVwY8-cSBS9W9-SMIH7qrRIaWk?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9jZVwvODYwMFwvNDQ2ZGI2NTQxYTY5NDg3OWMxM2M3NmUwOTRmZjBiMmMtMTY1MTA5NDg1Ni5wbmcifQ:american-express:LmJ9rQSo_1KQQ-GYMPVwY8-cSBS9W9-SMIH7qrRIaWk?width=800",
         "is_preview_document": false,
-        "is_new": false
+        "portfolio": "Proprietary"
     },
    
     {
@@ -559,14 +559,14 @@ export const Cards =  [
         "ext": "pdf",
         "project": 5,
         "title": "chg_rosegold_metal_ca_1920x1216",
-        "width": 1920,
-        "height": 1216,
+        "audience": "Consumer",
+        "region": "APAC",
         "token": "eyJpZCI6ODQxOSwidGltZXN0YW1wIjoiMTY3MzI2NjAyMSJ9:american-express:SFSuOxXsm9HVVuSnD6kLLU3vhlo7P57jrQ7deho4Fac",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC8zMFwvODQxOVwvOGQxYTkxM2Q3NjQyN2JiZTRlOGYzYjRmMTM3NjQ4YjktMTY1MTA3OTY3OS5wZGYifQ:american-express:RcCUoiRnIruE18i0yw_5zLxVpKvTzGNzU_pwavJUT3E?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC8zMFwvODQxOVwvOGQxYTkxM2Q3NjQyN2JiZTRlOGYzYjRmMTM3NjQ4YjktMTY1MTA3OTY3OS5wZGYifQ:american-express:RcCUoiRnIruE18i0yw_5zLxVpKvTzGNzU_pwavJUT3E?width=800",
         "is_preview_document": true,
-        "is_new": false
+        "portfolio": "Proprietary"
     },
     {
         "id": 10449,
@@ -575,14 +575,14 @@ export const Cards =  [
         "ext": "png",
         "project": 5,
         "title": "amazon_bus_prime_uk_ap_1125x708",
-        "width": 1125,
-        "height": 708,
+        "audience": "Consumer",
+        "region": "APAC",
         "token": "eyJpZCI6MTA0NDksInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:LE0z65B6_Tuk4mZ63yhaBGt3-O1PWaMCdtUX2W2orrw",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9mNVwvMTA0NDlcL2NkYjc1OWZmOTA4M2E5YWFhNTk3YjNmMmU1ZjgxNDNlLTE2NTE2OTEwMDMucG5nIn0:american-express:Jm5TUF5RamD0ILyNwxF0R0fRoul3a658W5S_q5PBzMU?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9mNVwvMTA0NDlcL2NkYjc1OWZmOTA4M2E5YWFhNTk3YjNmMmU1ZjgxNDNlLTE2NTE2OTEwMDMucG5nIn0:american-express:Jm5TUF5RamD0ILyNwxF0R0fRoul3a658W5S_q5PBzMU?width=800",
         "is_preview_document": false,
-        "is_new": false
+        "portfolio": "Proprietary"
     },
     {
         "id": 10454,
@@ -591,14 +591,14 @@ export const Cards =  [
         "ext": "png",
         "project": 5,
         "title": "amazon_bus_prime_uk_ap_308x194",
-        "width": 308,
-        "height": 194,
+       "audience": "Corporate",
+        "region": "LAC",
         "token": "eyJpZCI6MTA0NTQsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:_A-s7EuAuONqLZtInxX01wGJQmRSVrGwzHW-BYFcW0w",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC83YVwvMTA0NTRcLzMxN2Q2NzcxNmQwMDA1ZTM5NjE0YzczZDhlNmJiN2ZlLTE2NTE2OTEwMDMucG5nIn0:american-express:6oziKhIDxWtG3UrsW3557xha-LOBOIiOX9_0WdOOv9A?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC83YVwvMTA0NTRcLzMxN2Q2NzcxNmQwMDA1ZTM5NjE0YzczZDhlNmJiN2ZlLTE2NTE2OTEwMDMucG5nIn0:american-express:6oziKhIDxWtG3UrsW3557xha-LOBOIiOX9_0WdOOv9A?width=800",
         "is_preview_document": false,
-        "is_new": false
+        "portfolio": "Proprietary"
     },
     {
         "id": 10155,
@@ -607,14 +607,14 @@ export const Cards =  [
         "ext": "pdf",
         "project": 5,
         "title": "corp_gold_1920x1216",
-        "width": 1920,
-        "height": 1216,
+        "audience": "Consumer",
+        "region": "APAC",
         "token": "eyJpZCI6MTAxNTUsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:-_0QRhJhFzJnsglAZ1RJTtpSIq1XP-yhAIGpcw1g3IQ",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC8xN1wvMTAxNTVcLzAzMjQyZjBiYTA4NTQ1MDljOWFlZDk0MWVjMDk4ODlmLTE2NTEyNjkzNzgucGRmIn0:american-express:ieJD6YxfkG4T695u4tB034q2897-Q7JkXbYuVeg-OmY?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC8xN1wvMTAxNTVcLzAzMjQyZjBiYTA4NTQ1MDljOWFlZDk0MWVjMDk4ODlmLTE2NTEyNjkzNzgucGRmIn0:american-express:ieJD6YxfkG4T695u4tB034q2897-Q7JkXbYuVeg-OmY?width=800",
         "is_preview_document": true,
-        "is_new": false
+        "portfolio": "Proprietary"
     },
     {
         "id": 10154,
@@ -623,14 +623,14 @@ export const Cards =  [
         "ext": "png",
         "project": 5,
         "title": "chg_rosegold_metal_v2_ap",
-        "width": 1536,
-        "height": 969,
+        "audience": "Corporate",
+        "region": "LAC",
         "token": "eyJpZCI6MTAxNTQsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:GbqUm4C5ueiRyASp_yO9xGWpjw0nWA6Q1ev2CHZUwSc",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC81NFwvMTAxNTRcLzc0MTIzNThjMmJkNTI1OWMwNzI4NTU0MmI3OGQ3NzcyLTE2NTEyNjU2NzkucG5nIn0:american-express:cTtgYkcDC1DV5Lb9ABialGXcf6nJHjzixTKULi-oVLQ?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC81NFwvMTAxNTRcLzc0MTIzNThjMmJkNTI1OWMwNzI4NTU0MmI3OGQ3NzcyLTE2NTEyNjU2NzkucG5nIn0:american-express:cTtgYkcDC1DV5Lb9ABialGXcf6nJHjzixTKULi-oVLQ?width=800",
         "is_preview_document": false,
-        "is_new": false
+        "portfolio": "Proprietary"
     },
     {
         "id": 10000,
@@ -639,14 +639,14 @@ export const Cards =  [
         "ext": "pdf",
         "project": 5,
         "title": "chg_gold_metal_v2_1920x1216",
-        "width": 1920,
-        "height": 1216,
+        "audience": "Consumer",
+        "region": "APAC",
         "token": "eyJpZCI6MTAwMDAsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:NYwWZNWZbOg38T9s40WoTOHsSordW3YLpyCzb_1vM60",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9iN1wvMTAwMDBcL2I0MTk4OTgyMGEyNzI5NzM0N2NjZjI4MTZkMmQ3YmVlLTE2NTEyNjMwODUucGRmIn0:american-express:f4mW3FrFmr2E4UvFHobMbNWcGC41kR9yW9at3XgeEe0?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9iN1wvMTAwMDBcL2I0MTk4OTgyMGEyNzI5NzM0N2NjZjI4MTZkMmQ3YmVlLTE2NTEyNjMwODUucGRmIn0:american-express:f4mW3FrFmr2E4UvFHobMbNWcGC41kR9yW9at3XgeEe0?width=800",
         "is_preview_document": true,
-        "is_new": false
+        "portfolio": "Proprietary"
     },
     {
         "id": 9953,
@@ -655,14 +655,14 @@ export const Cards =  [
         "ext": "png",
         "project": 5,
         "title": "amazon_sbs_prime_de_ap_750x472",
-        "width": 750,
-        "height": 472,
+        "audience": "Corporate",
+        "region": "EMEA",
         "token": "eyJpZCI6OTk1MywidGltZXN0YW1wIjoiMTY3MzI2NjAyMSJ9:american-express:IKG8iPtbovWhRgDIQWlW6FclH9K8F_0lyTB7z8PESSQ",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC8zMFwvOTk1M1wvZGY2ZGQwZmZiMGYwNDkzODZhZDBiOWJjZjE1NDhjZDItMTY1MTI2MDI4Ni5wbmcifQ:american-express:_rAmjXvjfysry_XIUFNLC7lYdJRIbIAd_RMbNKbThdY?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC8zMFwvOTk1M1wvZGY2ZGQwZmZiMGYwNDkzODZhZDBiOWJjZjE1NDhjZDItMTY1MTI2MDI4Ni5wbmcifQ:american-express:_rAmjXvjfysry_XIUFNLC7lYdJRIbIAd_RMbNKbThdY?width=800",
         "is_preview_document": false,
-        "is_new": false
+        "portfolio": "Proprietary"
     },
     {
         "id": 9956,
@@ -671,14 +671,14 @@ export const Cards =  [
         "ext": "pdf",
         "project": 5,
         "title": "amazon_sbs_prime_de_mobile_payment_repro_notes",
-        "width": 792,
-        "height": 612,
+        "audience": "Corporate",
+        "region": "NORAM",
         "token": "eyJpZCI6OTk1NiwidGltZXN0YW1wIjoiMTY3MzI2NjAyMSJ9:american-express:v55piGkGAhyQdTP1Gl_XIOltqEwemiCDr7wJN6ZValk",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9iZVwvOTk1NlwvNzgwYzk5NTYxZTU0NzE3YzcyY2YyZDg1ZjBhNDBiYjAtMTY1MTI2MDI4Ni5wZGYifQ:american-express:3UkewWhwwDlBQfvUn4lNvLS-j-t-YgTt6OKQzyLFgNU?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9iZVwvOTk1NlwvNzgwYzk5NTYxZTU0NzE3YzcyY2YyZDg1ZjBhNDBiYjAtMTY1MTI2MDI4Ni5wZGYifQ:american-express:3UkewWhwwDlBQfvUn4lNvLS-j-t-YgTt6OKQzyLFgNU?width=800",
         "is_preview_document": true,
-        "is_new": false
+        "portfolio": "Proprietary"
     },
     {
         "id": 10644,
@@ -687,14 +687,14 @@ export const Cards =  [
         "ext": "pdf",
         "project": 5,
         "title": "chg_plat_metal_2018_1920x1216",
-        "width": 1920,
-        "height": 1216,
+        "audience": "Consumer",
+        "region": "APAC",
         "token": "eyJpZCI6MTA2NDQsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:W58_P3rvsyoyq0EBdjqREYzhvdj0RWJRew6yfYI1pMA",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9jN1wvMTA2NDRcL2Y1Yjk3NzI5MTU4ZjVlNGVmZjJjZjM2NDdmMjRlNjkwLTE2NTE3Nzc3MjMucGRmIn0:american-express:B4SyLTokFnr9z2aXW7E0LXpXnXewgk9WlM7U_GCly1Q?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9jN1wvMTA2NDRcL2Y1Yjk3NzI5MTU4ZjVlNGVmZjJjZjM2NDdmMjRlNjkwLTE2NTE3Nzc3MjMucGRmIn0:american-express:B4SyLTokFnr9z2aXW7E0LXpXnXewgk9WlM7U_GCly1Q?width=800",
         "is_preview_document": true,
-        "is_new": false
+        "portfolio": "Proprietary"
     },
    
     {
@@ -704,14 +704,14 @@ export const Cards =  [
         "ext": "png",
         "project": 5,
         "title": "fika_ap",
-        "width": 1536,
-        "height": 969,
+        "audience": "Corporate",
+        "region": "LAC",
         "token": "eyJpZCI6Nzg0MiwidGltZXN0YW1wIjoiMTY3MzI2NjAyMSJ9:american-express:gDZllbw8klxIFk4hqeV1j6BoDDXY5YeGIRs7PZsVymA",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC84OFwvNzg0MlwvOGM0YWQzZDI4NTQ3OTQ5NTljYmJkNmQyYmFkMGJjZGEtMTY1MTA3MjQxNS5wbmcifQ:american-express:Tto0A_-WRGG_ZBBfyCiY_PUcshKvDDmbhnbU9AkL_7U?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC84OFwvNzg0MlwvOGM0YWQzZDI4NTQ3OTQ5NTljYmJkNmQyYmFkMGJjZGEtMTY1MTA3MjQxNS5wbmcifQ:american-express:Tto0A_-WRGG_ZBBfyCiY_PUcshKvDDmbhnbU9AkL_7U?width=800",
         "is_preview_document": false,
-        "is_new": false
+        "portfolio": "Proprietary"
     },
    
     {
@@ -721,14 +721,14 @@ export const Cards =  [
         "ext": "pdf",
         "project": 5,
         "title": "corp_green_ca_1920x1216",
-        "width": 1920,
-        "height": 1216,
+        "audience": "Consumer",
+        "region": "APAC",
         "token": "eyJpZCI6ODA3MSwidGltZXN0YW1wIjoiMTY3MzI2NjAyMSJ9:american-express:bDzKQ-J0JmGmWR_nI8oW7YeTWHGiSzLhpeLK-feuMz8",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC84MlwvODA3MVwvNDM5MGI1YTBmMGExZGE4ODA1ODY5OGM0NGJmZTJiMDAtMTY1MTA3NjAzOS5wZGYifQ:american-express:ICZvF4bsBk0OEXu0Zk8w51VRE3lWXJWoCQGffrB9zoQ?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC84MlwvODA3MVwvNDM5MGI1YTBmMGExZGE4ODA1ODY5OGM0NGJmZTJiMDAtMTY1MTA3NjAzOS5wZGYifQ:american-express:ICZvF4bsBk0OEXu0Zk8w51VRE3lWXJWoCQGffrB9zoQ?width=800",
         "is_preview_document": true,
-        "is_new": false
+        "portfolio": "Proprietary"
     },
     {
         "id": 7833,
@@ -737,14 +737,14 @@ export const Cards =  [
         "ext": "pdf",
         "project": 5,
         "title": "explorer_2019_ca_1920x1216",
-        "width": 1920,
-        "height": 1216,
+        "audience": "Consumer",
+        "region": "APAC",
         "token": "eyJpZCI6NzgzMywidGltZXN0YW1wIjoiMTY3MzI2NjAyMSJ9:american-express:-8xOO71--fyKCHrkiArokr3mu-oBVpnRtQdFSWULuVs",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC80N1wvNzgzM1wvOTE5Yjg5OWRhYTA4YjQ5MGUzM2FjYjQwNTliMTc3NDMtMTY1MTAwMTgyMS5wZGYifQ:american-express:Pa4HF4-N0VU0251uNtHeFr7DMlFuCIZ6VYlbOQW50RM?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC80N1wvNzgzM1wvOTE5Yjg5OWRhYTA4YjQ5MGUzM2FjYjQwNTliMTc3NDMtMTY1MTAwMTgyMS5wZGYifQ:american-express:Pa4HF4-N0VU0251uNtHeFr7DMlFuCIZ6VYlbOQW50RM?width=800",
         "is_preview_document": true,
-        "is_new": false
+        "portfolio": "Proprietary"
     },
     {
         "id": 21847,
@@ -753,14 +753,14 @@ export const Cards =  [
         "ext": "pdf",
         "project": 5,
         "title": "chg_green_emea_1920x1216",
-        "width": 1920,
-        "height": 1216,
+        "audience": "Consumer",
+        "region": "EMEA",
         "token": "eyJpZCI6MjE4NDcsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:p8Fho-YW_oZm3EYYGHeropiQKswOtaVfXcgHr891pRA",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvZmlsZVwvZWtFam1NR3pldXpUZHA3RFlranMucGRmIn0:american-express:Yqi0g5A7zi7DOXXLIJS2-lKnghEWjI9wWZFN5EqvQcI?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvZmlsZVwvZWtFam1NR3pldXpUZHA3RFlranMucGRmIn0:american-express:Yqi0g5A7zi7DOXXLIJS2-lKnghEWjI9wWZFN5EqvQcI?width=800",
         "is_preview_document": true,
-        "is_new": false
+        "portfolio": "Proprietary"
     },
     {
         "id": 21846,
@@ -769,14 +769,14 @@ export const Cards =  [
         "ext": "png",
         "project": 5,
         "title": "chg_green_emea_ap",
-        "width": 1536,
-        "height": 969,
+        "audience": "Business",
+        "region": "EMEA",
         "token": "eyJpZCI6MjE4NDYsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:aW-nzFpGEpiD2O7GCSKwlU79MojPrrdI76XfqaiGikk",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvZmlsZVwva1ltdFRaamtwRjRYMmJlZlBIcFEucG5nIn0:american-express:nHXSpu0wfMtOBmzxbYTQWIkRvZ2CPSTDEpokOihL-Yc?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvZmlsZVwva1ltdFRaamtwRjRYMmJlZlBIcFEucG5nIn0:american-express:nHXSpu0wfMtOBmzxbYTQWIkRvZ2CPSTDEpokOihL-Yc?width=800",
         "is_preview_document": false,
-        "is_new": false
+        "portfolio": "Proprietary Cobrand"
     },
     {
         "id": 21775,
@@ -785,14 +785,14 @@ export const Cards =  [
         "ext": "pdf",
         "project": 5,
         "title": "sbs_green_1920x1216",
-        "width": 1920,
-        "height": 1216,
+        "audience": "Consumer",
+        "region": "APAC",
         "token": "eyJpZCI6MjE3NzUsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:eBRzSvNaVJzxseNrX4wzxGmpO-tMy8IfcumrCzQ39A4",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvZmlsZVwvMkhwVDlnSldxNUs4bXNXU01YMU4ucGRmIn0:american-express:Ocz3aHKlRMZaaTWfS2G7X6lqbnWwRq-sInJV_sva2UY?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvZmlsZVwvMkhwVDlnSldxNUs4bXNXU01YMU4ucGRmIn0:american-express:Ocz3aHKlRMZaaTWfS2G7X6lqbnWwRq-sInJV_sva2UY?width=800",
         "is_preview_document": true,
-        "is_new": false
+        "portfolio": "Proprietary Cobrand"
     },
    
   
@@ -803,14 +803,14 @@ export const Cards =  [
         "ext": "pdf",
         "project": 5,
         "title": "chg_gold_2018_emea_1920x1216",
-        "width": 1920,
-        "height": 1216,
+        "audience": "Consumer",
+        "region": "EMEA",
         "token": "eyJpZCI6MjE1NTUsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:2B2j6b1LXbQYBELXkLzkbX4FQW5KXnoQrU6l7K5U1VY",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvZmlsZVwvRGRrMnVjREVOdXkxNnY1U2NYTnYucGRmIn0:american-express:X9TSbYLr18LGEkUQu7FisZPeaUU2syTq3_xYXRVFwng?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvZmlsZVwvRGRrMnVjREVOdXkxNnY1U2NYTnYucGRmIn0:american-express:X9TSbYLr18LGEkUQu7FisZPeaUU2syTq3_xYXRVFwng?width=800",
         "is_preview_document": true,
-        "is_new": false
+        "portfolio": "Proprietary Cobrand"
     },
     {
         "id": 21381,
@@ -819,14 +819,14 @@ export const Cards =  [
         "ext": "pdf",
         "project": 5,
         "title": "bcp_morganstanley_1920x1216",
-        "width": 1920,
-        "height": 1216,
+        "audience": "Consumer",
+        "region": "APAC",
         "token": "eyJpZCI6MjEzODEsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:PQhL10RAcgViLLDGfFyBIMPz06ud80wc6Wz3zm6WEPM",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvZmlsZVwvazFTU25MYXNXaFhWdzZHVWp5TjcucGRmIn0:american-express:syNtFjGjWgHUCZT8MVq36M9Hw8O6zuQtcUoRaDiTPyc?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvZmlsZVwvazFTU25MYXNXaFhWdzZHVWp5TjcucGRmIn0:american-express:syNtFjGjWgHUCZT8MVq36M9Hw8O6zuQtcUoRaDiTPyc?width=800",
         "is_preview_document": true,
-        "is_new": false
+        "portfolio": "Proprietary Cobrand"
     },
     {
         "id": 21525,
@@ -835,14 +835,14 @@ export const Cards =  [
         "ext": "pdf",
         "project": 5,
         "title": "bold_plat_essential_ca_1920x1216",
-        "width": 1920,
-        "height": 1216,
+        "audience": "Consumer",
+        "region": "APAC",
         "token": "eyJpZCI6MjE1MjUsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:h4DPw2SSPzcG0AvWod4PXfaDHxLu9UA76OXbYh5v4jg",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvZmlsZVwvR01jekNmS21NVXVCMW1LRjh5TnkucGRmIn0:american-express:zFkrzEuogV5Nk16gSVj14cU76l7d0oiYw4zH3a4tgSQ?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvZmlsZVwvR01jekNmS21NVXVCMW1LRjh5TnkucGRmIn0:american-express:zFkrzEuogV5Nk16gSVj14cU76l7d0oiYw4zH3a4tgSQ?width=800",
         "is_preview_document": true,
-        "is_new": false
+        "portfolio": "Proprietary Cobrand"
     },
    
     {
@@ -852,14 +852,14 @@ export const Cards =  [
         "ext": "png",
         "project": 5,
         "title": "chg_plat_metal_charles_schwab_ap",
-        "width": 1536,
-        "height": 969,
+        "audience": "Business",
+        "region": "LAC",
         "token": "eyJpZCI6MjE0NTQsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:QfxPXToBKGV_77SkuKIhPIRpQ3xI9eOYMAR9HpbX2sY",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvZmlsZVwvVjJkVWV1Z2FrejY4c0JLZGhlMWUucG5nIn0:american-express:Lr7jPPIFBTWejueVeaCdLtNiMRc-dWx0-0gnNR0sSL0?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvZmlsZVwvVjJkVWV1Z2FrejY4c0JLZGhlMWUucG5nIn0:american-express:Lr7jPPIFBTWejueVeaCdLtNiMRc-dWx0-0gnNR0sSL0?width=800",
         "is_preview_document": false,
-        "is_new": false
+        "portfolio": "Proprietary Cobrand"
     },
     
     {
@@ -869,14 +869,14 @@ export const Cards =  [
         "ext": "png",
         "project": 5,
         "title": "ba_corp_plus_ap_1125x708",
-        "width": 1125,
-        "height": 708,
+        "audience": "Consumer",
+        "region": "APAC",
         "token": "eyJpZCI6MjEwODEsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:c40hVcSphunIWg1WMtELCv8Ntz1_dvV-thivasHhfak",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvZmlsZVwvRXNoQ1dyVEtzSFVyTWQ5QXBDZ3QucG5nIn0:american-express:uvqfGwke88D-u6x5oSA5IypydiTBjtR8AanXRJNAgxg?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvZmlsZVwvRXNoQ1dyVEtzSFVyTWQ5QXBDZ3QucG5nIn0:american-express:uvqfGwke88D-u6x5oSA5IypydiTBjtR8AanXRJNAgxg?width=800",
         "is_preview_document": false,
-        "is_new": false
+        "portfolio": "Proprietary Cobrand"
     },
     {
         "id": 21078,
@@ -885,14 +885,14 @@ export const Cards =  [
         "ext": "pdf",
         "project": 5,
         "title": "ba_corp_plus_di_1920x1216",
-        "width": 1920,
-        "height": 1216,
+        "audience": "Consumer",
+        "region": "APAC",
         "token": "eyJpZCI6MjEwNzgsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:u8N-98kwDPhdk-N4qohIvmcs4a2p5XlQJNCtXluqrIg",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvZmlsZVwvblZnUEVNeUJ3cFRvVXhtTEQ2dEoucGRmIn0:american-express:18WOUJ5kMVdvj9xovqMSNklFFQKiDu33FX-XV75SuT4?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvZmlsZVwvblZnUEVNeUJ3cFRvVXhtTEQ2dEoucGRmIn0:american-express:18WOUJ5kMVdvj9xovqMSNklFFQKiDu33FX-XV75SuT4?width=800",
         "is_preview_document": true,
-        "is_new": false
+        "portfolio": "Proprietary Cobrand"
     },
     {
         "id": 21001,
@@ -901,14 +901,14 @@ export const Cards =  [
         "ext": "pdf",
         "project": 5,
         "title": "ba_classic_1920x1216",
-        "width": 1920,
-        "height": 1216,
+        "audience": "Consumer",
+        "region": "APAC",
         "token": "eyJpZCI6MjEwMDEsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:i6W-mojgNbGk7F7gCRk-zfcQozDQc1GOZTuRgSOMzR8",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvZmlsZVwvaGRUR3dKS3hrSFVKRmdoWThER0IucGRmIn0:american-express:vPeNSLT8Zf6qWLijRLYYsy3nYaBhzGVBTMXuu_y6_S4?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvZmlsZVwvaGRUR3dKS3hrSFVKRmdoWThER0IucGRmIn0:american-express:vPeNSLT8Zf6qWLijRLYYsy3nYaBhzGVBTMXuu_y6_S4?width=800",
         "is_preview_document": true,
-        "is_new": false
+        "portfolio": "Proprietary Cobrand"
     },
     
     {
@@ -918,16 +918,15 @@ export const Cards =  [
         "ext": "png",
         "project": 5,
         "title": "cashmagnet_ap",
-        "width": 1536,
-        "height": 969,
+        "audience": "Business",
+        "region": "APAC",
         "token": "eyJpZCI6MjA0MzAsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:vF0LzJG5swwsg7JEZK522ohRBh-aPifSOL-JmlVURFw",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvZmlsZVwvZzM2VXNlVTdudmZ5eWo0QjlWNkcucG5nIn0:american-express:f1qaXHuu2bfk_YZTzHwedhqUfjBQZ9bPSnYTBDWL3Wk?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvZmlsZVwvZzM2VXNlVTdudmZ5eWo0QjlWNkcucG5nIn0:american-express:f1qaXHuu2bfk_YZTzHwedhqUfjBQZ9bPSnYTBDWL3Wk?width=800",
         "is_preview_document": false,
-        "is_new": false
+        "portfolio": "Proprietary"
     },
- 
     {
         "id": 17321,
         "created": "2022-07-22T20:00:54+00:00",
@@ -935,14 +934,14 @@ export const Cards =  [
         "ext": "pdf",
         "project": 5,
         "title": "blue_cash_everyday_repro_mobile_pymt_notes",
-        "width": 792,
-        "height": 612,
+        "audience": "Business",
+        "region": "APAC",
         "token": "eyJpZCI6MTczMjEsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:mb6guJRaxXw2AhIIJiNnx7TI1n-fSrwbhoUOM0-3v6E",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9kNFwvMTczMjFcLzZkMDQyMTU5ZmFiZjYxZmU0M2NlOGQzMTU2OWFhMjhjLTE2NTg1MjAwNTQucGRmIn0:american-express:Dx0UjGZ9cv5Pve870UQa-GqHsJ4dLCHoEDbk74UnjWU?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9kNFwvMTczMjFcLzZkMDQyMTU5ZmFiZjYxZmU0M2NlOGQzMTU2OWFhMjhjLTE2NTg1MjAwNTQucGRmIn0:american-express:Dx0UjGZ9cv5Pve870UQa-GqHsJ4dLCHoEDbk74UnjWU?width=800",
         "is_preview_document": true,
-        "is_new": false
+        "portfolio": "Proprietary"
     },
    
     {
@@ -952,14 +951,14 @@ export const Cards =  [
         "ext": "pdf",
         "project": 5,
         "title": "klm_corp_nl_1920x1216",
-        "width": 1920,
-        "height": 1216,
+        "audience": "Consumer",
+        "region": "APAC",
         "token": "eyJpZCI6MTc2MTgsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:49pBPS5-WOUAyvbCXeaX8L6VmbHSGW_kxW54FzInzWw",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC80ZFwvMTc2MThcL2EzOTdiZjdiZjYyOWE4ZGM4NzMwYWIyY2M2ZDRjZDJiLTE2NTg3NjgwODIucGRmIn0:american-express:Nb5BWkswnPAGXCxGEX5IJdkTLgzp7ZL2-fkbSGE35K0?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC80ZFwvMTc2MThcL2EzOTdiZjdiZjYyOWE4ZGM4NzMwYWIyY2M2ZDRjZDJiLTE2NTg3NjgwODIucGRmIn0:american-express:Nb5BWkswnPAGXCxGEX5IJdkTLgzp7ZL2-fkbSGE35K0?width=800",
         "is_preview_document": true,
-        "is_new": false
+        "portfolio": "Proprietary Cobrand"
     },
    
     {
@@ -969,14 +968,14 @@ export const Cards =  [
         "ext": "png",
         "project": 5,
         "title": "aeromexico_plat_ap",
-        "width": 1536,
-        "height": 969,
+        "audience": "Business",
+        "region": "LAC",
         "token": "eyJpZCI6MTY5MTcsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:tDs7nV_85xrHTy5XXNL7RlW6X6KhL0S_HpMUwle1JQI",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC82NFwvMTY5MTdcL2Y4Nzc0MjViMjBkYjdlNDU5YTE0NWFiM2U3OGEzOTMyLTE2NTgyNTI3MzAucG5nIn0:american-express:np-hZhofCIIuBtNAmPTiG0C2EFslDcDixBF7qXcC7FA?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC82NFwvMTY5MTdcL2Y4Nzc0MjViMjBkYjdlNDU5YTE0NWFiM2U3OGEzOTMyLTE2NTgyNTI3MzAucG5nIn0:american-express:np-hZhofCIIuBtNAmPTiG0C2EFslDcDixBF7qXcC7FA?width=800",
         "is_preview_document": false,
-        "is_new": false
+        "portfolio": "Proprietary Cobrand"
     },
    
     {
@@ -986,14 +985,14 @@ export const Cards =  [
         "ext": "png",
         "project": 5,
         "title": "lowes_bus_ap",
-        "width": 1536,
-        "height": 969,
+        "audience": "Business",
+        "region": "LAC",
         "token": "eyJpZCI6MTYxNTYsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:eDpM1Dd4feo0qi81W14alXaCxePz2Ri-6B386oEIgsA",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9mYlwvMTYxNTZcLzljMGMyOGJhMGY1ZWQ5Mjk0OWNhNjg3Yzg4NjhjMmEwLTE2NTgxNzI5MDcucG5nIn0:american-express:hAI_ItAQnjGckfWZfS5awOLAzXK9VVYAe6JMTrgjLzI?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9mYlwvMTYxNTZcLzljMGMyOGJhMGY1ZWQ5Mjk0OWNhNjg3Yzg4NjhjMmEwLTE2NTgxNzI5MDcucG5nIn0:american-express:hAI_ItAQnjGckfWZfS5awOLAzXK9VVYAe6JMTrgjLzI?width=800",
         "is_preview_document": false,
-        "is_new": false
+        "portfolio": "Proprietary Cobrand"
     },
     {
         "id": 16087,
@@ -1002,14 +1001,14 @@ export const Cards =  [
         "ext": "png",
         "project": 5,
         "title": "delta_ram_sbs_ap",
-        "width": 1536,
-        "height": 969,
+        "audience": "Business",
+        "region": "LAC",
         "token": "eyJpZCI6MTYwODcsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:6iXlXL8H7DNdGqiLFCPjJ0kWbGb0UyUaJ8c-rPOOjDc",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC84M1wvMTYwODdcLzQyZjhhYWY0MWZkZGY0YTJiMDhmNzlhY2JkNGMxOTFkLTE2NTgxNzE5NDMucG5nIn0:american-express:IbiIQr5FLtPIbGJS51xyc6ISL8cNHJ1SfEwPR14F0cQ?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC84M1wvMTYwODdcLzQyZjhhYWY0MWZkZGY0YTJiMDhmNzlhY2JkNGMxOTFkLTE2NTgxNzE5NDMucG5nIn0:american-express:IbiIQr5FLtPIbGJS51xyc6ISL8cNHJ1SfEwPR14F0cQ?width=800",
         "is_preview_document": false,
-        "is_new": false
+        "portfolio": "Proprietary Cobrand"
     },
    
     {
@@ -1019,14 +1018,14 @@ export const Cards =  [
         "ext": "png",
         "project": 5,
         "title": "krisflyer_pps_plat_ap",
-        "width": 1536,
-        "height": 969,
+        "audience": "Business",
+        "region": "LAC",
         "token": "eyJpZCI6MTQ1MjMsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:HsLHpXmzB-5a1BkcaZw2g8AU4yCb0l4fRuGNUBSSPVY",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC80NFwvMTQ1MjNcLzViMDRlMTg2MmY5Y2ZmYTdjMjJkNDkwYWIzZDI5YjAyLTE2NTQ3OTQzNjMucG5nIn0:american-express:E47wCZ-hLSmEp6RzPakZDazo1mkiO_jkstv9lMeFNf8?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC80NFwvMTQ1MjNcLzViMDRlMTg2MmY5Y2ZmYTdjMjJkNDkwYWIzZDI5YjAyLTE2NTQ3OTQzNjMucG5nIn0:american-express:E47wCZ-hLSmEp6RzPakZDazo1mkiO_jkstv9lMeFNf8?width=800",
         "is_preview_document": false,
-        "is_new": false
+        "portfolio": "Proprietary Cobrand"
     },
     {
         "id": 14524,
@@ -1035,14 +1034,14 @@ export const Cards =  [
         "ext": "pdf",
         "project": 5,
         "title": "krisflyer_pps_plat_1920x1216",
-        "width": 1920,
-        "height": 1216,
+        "audience": "Consumer",
+        "region": "APAC",
         "token": "eyJpZCI6MTQ1MjQsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:KYU4FEgCPJ_9L0zI1B4I7LY0YIZsNhy-afCD26e1QM4",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC82ZlwvMTQ1MjRcLzkwYTg5ZDAxOTk3ZDhiNTI4MmNiNjJhNjhjODU2NWEzLTE2NTQ3OTQzNjMucGRmIn0:american-express:kByXQj0xiEtXUPPaRPZKJngLu2VjxixRcTUq-CzsfME?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC82ZlwvMTQ1MjRcLzkwYTg5ZDAxOTk3ZDhiNTI4MmNiNjJhNjhjODU2NWEzLTE2NTQ3OTQzNjMucGRmIn0:american-express:kByXQj0xiEtXUPPaRPZKJngLu2VjxixRcTUq-CzsfME?width=800",
         "is_preview_document": true,
-        "is_new": false
+        "portfolio": "Proprietary Cobrand"
     },
     {
         "id": 14421,
@@ -1051,14 +1050,14 @@ export const Cards =  [
         "ext": "pdf",
         "project": 5,
         "title": "krisflyer_ascend_1920x1216",
-        "width": 1920,
-        "height": 1216,
+        "audience": "Consumer",
+        "region": "APAC",
         "token": "eyJpZCI6MTQ0MjEsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:n03XAcl6QRGSe-HTR-GCFzQ_EwKkboFJHjOcES-Y9Qc",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC8wM1wvMTQ0MjFcLzczYmZkNzVjNWEzNzAwOTNmY2VlOGJmOTE4N2FiZjRhLTE2NTQ3MjIxNTQucGRmIn0:american-express:KK2fZhvdU0or5Hdb8DzVbJ3AOvju9CSdqxgZOP0AUdw?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC8wM1wvMTQ0MjFcLzczYmZkNzVjNWEzNzAwOTNmY2VlOGJmOTE4N2FiZjRhLTE2NTQ3MjIxNTQucGRmIn0:american-express:KK2fZhvdU0or5Hdb8DzVbJ3AOvju9CSdqxgZOP0AUdw?width=800",
         "is_preview_document": true,
-        "is_new": false
+        "portfolio": "Proprietary Cobrand"
     },
     {
         "id": 14417,
@@ -1067,14 +1066,14 @@ export const Cards =  [
         "ext": "png",
         "project": 5,
         "title": "krisflyer_blue_ap",
-        "width": 1536,
-        "height": 969,
+        "audience": "Business",
+        "region": "LAC",
         "token": "eyJpZCI6MTQ0MTcsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:L_ItbZ0pyUyY7GOMmPk5PPxakK7J74c_QVvlFR81Kfw",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9hM1wvMTQ0MTdcLzQ1MzExM2M4MDEyNTBkOTM5YWI0NTkxYjEwM2U1ZjIzLTE2NTQ3MjIwNzkucG5nIn0:american-express:75PDqf99vmn9hR6VVp2Iielxq19gAdR8lRPsdpkbH80?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9hM1wvMTQ0MTdcLzQ1MzExM2M4MDEyNTBkOTM5YWI0NTkxYjEwM2U1ZjIzLTE2NTQ3MjIwNzkucG5nIn0:american-express:75PDqf99vmn9hR6VVp2Iielxq19gAdR8lRPsdpkbH80?width=800",
         "is_preview_document": false,
-        "is_new": false
+        "portfolio": "Proprietary Cobrand"
     },
     {
         "id": 14420,
@@ -1083,14 +1082,14 @@ export const Cards =  [
         "ext": "pdf",
         "project": 5,
         "title": "krisflyer_blue_1920x1216",
-        "width": 1920,
-        "height": 1216,
+        "audience": "Consumer",
+        "region": "APAC",
         "token": "eyJpZCI6MTQ0MjAsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:G5xJHlLjaq5dUn99GBCAvgn_I_muVHC7_exueepZkF0",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9jZlwvMTQ0MjBcLzQ5MzEzYTE1YzFmZTI1MzMyYTVhZmM2NzQ2MDZhZmVmLTE2NTQ3MjIwNzkucGRmIn0:american-express:xsthopIrqOH4uFnxS45vgYHH1MK2ZM1PxhEljHEmVJ0?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9jZlwvMTQ0MjBcLzQ5MzEzYTE1YzFmZTI1MzMyYTVhZmM2NzQ2MDZhZmVmLTE2NTQ3MjIwNzkucGRmIn0:american-express:xsthopIrqOH4uFnxS45vgYHH1MK2ZM1PxhEljHEmVJ0?width=800",
         "is_preview_document": true,
-        "is_new": false
+        "portfolio": "Proprietary Cobrand"
     },
     {
         "id": 21848,
@@ -1099,14 +1098,14 @@ export const Cards =  [
         "ext": "pdf",
         "project": 5,
         "title": "chg_green_emea_mobile_pymt_notes",
-        "width": 792,
-        "height": 612,
+        "audience": "Business",
+        "region": "EMEA",
         "token": "eyJpZCI6MjE4NDgsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:gPdv04yGc-5yw3a5UfUtr8F94QgrP5zaTke8DbMCYOs",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvZmlsZVwvNHhoVW1mczlFZUxBU0F1MXU4Z0UucGRmIn0:american-express:h2aOimuMK8E2UOLUn8-BPjF0cvdnZzeSI24Vq0fBbR0?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvZmlsZVwvNHhoVW1mczlFZUxBU0F1MXU4Z0UucGRmIn0:american-express:h2aOimuMK8E2UOLUn8-BPjF0cvdnZzeSI24Vq0fBbR0?width=800",
         "is_preview_document": true,
-        "is_new": false
+        "portfolio": "Proprietary Cobrand"
     },
     {
         "id": 21685,
@@ -1115,14 +1114,14 @@ export const Cards =  [
         "ext": "png",
         "project": 5,
         "title": "corp_green_ap",
-        "width": 1536,
-        "height": 969,
+        "audience": "Business",
+        "region": "LAC",
         "token": "eyJpZCI6MjE2ODUsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:2otKpq7cS-W8WdoSSKNGH3OasVuG9tqcpomMN1xSSTg",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvZmlsZVwvZFZ6SktNUk1GMVUxcWUzTkpOQmEucG5nIn0:american-express:N0khDjm-tmYxSiMupaaj8RWecB-w7I7xFlzBuF-scGA?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvZmlsZVwvZFZ6SktNUk1GMVUxcWUzTkpOQmEucG5nIn0:american-express:N0khDjm-tmYxSiMupaaj8RWecB-w7I7xFlzBuF-scGA?width=800",
         "is_preview_document": false,
-        "is_new": false
+        "portfolio": "Proprietary Cobrand"
     },
    
    
@@ -1133,14 +1132,14 @@ export const Cards =  [
         "ext": "pdf",
         "project": 5,
         "title": "sbs_gold_2018_eu_1920x1216",
-        "width": 1920,
-        "height": 1216,
+        "audience": "Consumer",
+        "region": "APAC",
         "token": "eyJpZCI6MjE1NTgsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:WmtWR3DgvUd9xHLpGBLo-m9hjqOToXeD2k4zyLgXCBQ",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvZmlsZVwvYW1tNjdLQXdDNjZ0SlU1cmlhUUgucGRmIn0:american-express:iVUKPoXnFb9z1wbPff1XaO7PfCvbXYR5FY72yCS3wfw?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvZmlsZVwvYW1tNjdLQXdDNjZ0SlU1cmlhUUgucGRmIn0:american-express:iVUKPoXnFb9z1wbPff1XaO7PfCvbXYR5FY72yCS3wfw?width=800",
         "is_preview_document": true,
-        "is_new": false
+        "portfolio": "Proprietary Cobrand"
     },
     {
         "id": 21162,
@@ -1149,14 +1148,14 @@ export const Cards =  [
         "ext": "pdf",
         "project": 5,
         "title": "grcc_bold_skyblue_1920x1216",
-        "width": 1920,
-        "height": 1216,
+        "audience": "Consumer",
+        "region": "APAC",
         "token": "eyJpZCI6MjExNjIsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:8UrcYEga9CzUNT5BL7BiB-2t2V1IEm-6sm7UHXAW55k",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvZmlsZVwvNTF4N3p2UlhlVmYzNFdZQVlmdGEucGRmIn0:american-express:ChZYoBGaaybfkHSZYwvvbpkGG61lqzCvxQhtZYx-AMs?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvZmlsZVwvNTF4N3p2UlhlVmYzNFdZQVlmdGEucGRmIn0:american-express:ChZYoBGaaybfkHSZYwvvbpkGG61lqzCvxQhtZYx-AMs?width=800",
         "is_preview_document": true,
-        "is_new": false
+        "portfolio": "Proprietary Cobrand"
     },
     {
         "id": 20770,
@@ -1165,14 +1164,14 @@ export const Cards =  [
         "ext": "png",
         "project": 5,
         "title": "explorer_2019_ap",
-        "width": 1536,
-        "height": 969,
+        "audience": "Business",
+        "region": "LAC",
         "token": "eyJpZCI6MjA3NzAsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:8xGa7h0r4UBQfP3i6lbTZh5akELBuOwU5ksfE41rGW0",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvZmlsZVwvVXVodTNKcXA0Y0duZWFmM3BjMjMucG5nIn0:american-express:FQ2rLgcL3Up9B8iGWQ2VawawT-VFdEF9QZO7NNc1ftg?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvZmlsZVwvVXVodTNKcXA0Y0duZWFmM3BjMjMucG5nIn0:american-express:FQ2rLgcL3Up9B8iGWQ2VawawT-VFdEF9QZO7NNc1ftg?width=800",
         "is_preview_document": false,
-        "is_new": false
+        "portfolio": "Proprietary Cobrand"
     },
    
     {
@@ -1182,14 +1181,14 @@ export const Cards =  [
         "ext": "png",
         "project": 5,
         "title": "thai_airways_plat_ap",
-        "width": 1536,
-        "height": 969,
+        "audience": "Business",
+        "region": "LAC",
         "token": "eyJpZCI6MTc2MjAsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:Ezbd1C1oLlHGBIbDwQMOGV5l7bd3iHmfCcUgXAM6E-M",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9lOFwvMTc2MjBcLzMyN2ZkZWJiODQzY2RmMGY1OTU3ZjRhNzc2MTZlNmE3LTE2NTg3Njk3NTMucG5nIn0:american-express:57ffCzTRf7MeGkhpLLWwI7lkrqmTVjrKEAC3Z_aKFdU?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9lOFwvMTc2MjBcLzMyN2ZkZWJiODQzY2RmMGY1OTU3ZjRhNzc2MTZlNmE3LTE2NTg3Njk3NTMucG5nIn0:american-express:57ffCzTRf7MeGkhpLLWwI7lkrqmTVjrKEAC3Z_aKFdU?width=800",
         "is_preview_document": false,
-        "is_new": false
+        "portfolio": "Proprietary Cobrand"
     },
     {
         "id": 17512,
@@ -1198,14 +1197,14 @@ export const Cards =  [
         "ext": "pdf",
         "project": 5,
         "title": "sbs_gold_2018_1920x1216",
-        "width": 1920,
-        "height": 1216,
+        "audience": "Consumer",
+        "region": "APAC",
         "token": "eyJpZCI6MTc1MTIsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:E9HAneEGMuxi-MiOLOS1foCR6BOSNwwf54u6eGoQFf0",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC8wMlwvMTc1MTJcLzc0ZTAyZTM4ZWE1MzM2NTlkMTY5MjE3MTBlNWFkNDk4LTE2NTg3NjU3ODEucGRmIn0:american-express:ZTeP7lLC-cBMiUiNWI5Tx67A485C9EvygOc2bSXN3Ig?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC8wMlwvMTc1MTJcLzc0ZTAyZTM4ZWE1MzM2NTlkMTY5MjE3MTBlNWFkNDk4LTE2NTg3NjU3ODEucGRmIn0:american-express:ZTeP7lLC-cBMiUiNWI5Tx67A485C9EvygOc2bSXN3Ig?width=800",
         "is_preview_document": true,
-        "is_new": false
+        "portfolio": "Proprietary Cobrand"
     },
   
     {
@@ -1215,14 +1214,14 @@ export const Cards =  [
         "ext": "png",
         "project": 5,
         "title": "blue_cash_everyday_ap",
-        "width": 1536,
-        "height": 969,
+        "audience": "Business",
+        "region": "LAC",
         "token": "eyJpZCI6MTczMjAsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:nDuD3L3LJ98M0t86N2Qyirfn6MYtqejMA-Q-qq8Fg5c",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9lOVwvMTczMjBcLzYzZThhMmE0OTVkMDA3YzBkMzRjNWJjNGU2MjEyN2Y5LTE2NTg1MjAwNTQucG5nIn0:american-express:D2k6CLqKTaIDjYsBpJ1_E7NDRFYePhGQKTJNJgThfHw?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9lOVwvMTczMjBcLzYzZThhMmE0OTVkMDA3YzBkMzRjNWJjNGU2MjEyN2Y5LTE2NTg1MjAwNTQucG5nIn0:american-express:D2k6CLqKTaIDjYsBpJ1_E7NDRFYePhGQKTJNJgThfHw?width=800",
         "is_preview_document": false,
-        "is_new": false
+        "portfolio": "Proprietary Cobrand"
     },
     {
         "id": 17322,
@@ -1231,14 +1230,14 @@ export const Cards =  [
         "ext": "pdf",
         "project": 5,
         "title": "blue_cash_everyday_1920x1216",
-        "width": 1920,
-        "height": 1216,
+        "audience": "Consumer",
+        "region": "APAC",
         "token": "eyJpZCI6MTczMjIsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:G3c2EafuP3SZ9vRNwL4dhuZI4FWvnF6eb78IlwJojGY",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC84MlwvMTczMjJcL2FmODBkOWJhZjM4YWU3MTAyY2U4MmE5NzcwNGQ1MjI4LTE2NTg1MjAwNTQucGRmIn0:american-express:VSYdfh8U5LFO4UYebSUOVSUgdVGZjxYeSNIpB2CtsuE?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC84MlwvMTczMjJcL2FmODBkOWJhZjM4YWU3MTAyY2U4MmE5NzcwNGQ1MjI4LTE2NTg1MjAwNTQucGRmIn0:american-express:VSYdfh8U5LFO4UYebSUOVSUgdVGZjxYeSNIpB2CtsuE?width=800",
         "is_preview_document": true,
-        "is_new": false
+        "portfolio": "Proprietary Cobrand"
     },
     {
         "id": 17077,
@@ -1247,14 +1246,14 @@ export const Cards =  [
         "ext": "pdf",
         "project": 5,
         "title": "chg_green_2019_1920x1216",
-        "width": 1920,
-        "height": 1216,
+        "audience": "Consumer",
+        "region": "APAC",
         "token": "eyJpZCI6MTcwNzcsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:0k4mzrMjhEJ2urIZ6AJrMLXz0XX-QZeXrFogodk2QSs",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC83N1wvMTcwNzdcLzY5NmMyZmExZWUzNDEwZTA1MDJmNmRlODUyZmEyZWNhLTE2NTg1MTE5NDcucGRmIn0:american-express:0UVMCSnlY9HU4ioLLVjTQ0evZibSxsO22dMz7pi_FEM?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC83N1wvMTcwNzdcLzY5NmMyZmExZWUzNDEwZTA1MDJmNmRlODUyZmEyZWNhLTE2NTg1MTE5NDcucGRmIn0:american-express:0UVMCSnlY9HU4ioLLVjTQ0evZibSxsO22dMz7pi_FEM?width=800",
         "is_preview_document": true,
-        "is_new": false
+        "portfolio": "Proprietary Cobrand"
     },
    
     {
@@ -1264,14 +1263,14 @@ export const Cards =  [
         "ext": "png",
         "project": 5,
         "title": "plat_metal_CA_ap",
-        "width": 1536,
-        "height": 969,
+        "audience": "Business",
+        "region": "LAC",
         "token": "eyJpZCI6MTY5NzAsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:xEl-LeNeQleLopGWjcPmEtLtSJ074Ma5QbIHsDO7mAs",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC84MVwvMTY5NzBcLzdiMTE3OTY0YmExZjA2YzU5ZDFiNzMyMTYyNDc0YTYyLTE2NTgzNTEwNTIucG5nIn0:american-express:w6T23INTMhVOGCrM84Bv7htb2v3VRywS2WfE54Vlxgw?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC84MVwvMTY5NzBcLzdiMTE3OTY0YmExZjA2YzU5ZDFiNzMyMTYyNDc0YTYyLTE2NTgzNTEwNTIucG5nIn0:american-express:w6T23INTMhVOGCrM84Bv7htb2v3VRywS2WfE54Vlxgw?width=800",
         "is_preview_document": false,
-        "is_new": false
+        "portfolio": "Proprietary Cobrand"
     },
     {
         "id": 16608,
@@ -1280,14 +1279,14 @@ export const Cards =  [
         "ext": "pdf",
         "project": 5,
         "title": "chg_plat_metal_artist1_mobile_payment_notes",
-        "width": 792,
-        "height": 612,
+        "audience": "Business",
+        "region": "NORAM",
         "token": "eyJpZCI6MTY2MDgsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:rkkG3IfwFbaYYcALxkEvJPZi_OUGsPjQ5t7WcfBwnzg",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9kMlwvMTY2MDhcL2Y0MzFkYTJjOTAxYjQ4YmQ1Yjc3MTRlZWZiNjVkOGE5LTE2NTgyNDEwNDUucGRmIn0:american-express:CXqrp1RVrSLqfON_VDVBVnmEE7B5oIdxp1ceUolj8Iw?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9kMlwvMTY2MDhcL2Y0MzFkYTJjOTAxYjQ4YmQ1Yjc3MTRlZWZiNjVkOGE5LTE2NTgyNDEwNDUucGRmIn0:american-express:CXqrp1RVrSLqfON_VDVBVnmEE7B5oIdxp1ceUolj8Iw?width=800",
         "is_preview_document": true,
-        "is_new": false
+        "portfolio": "Proprietary Cobrand"
     },
     {
         "id": 16610,
@@ -1296,14 +1295,14 @@ export const Cards =  [
         "ext": "pdf",
         "project": 5,
         "title": "chg_plat_metal_artist1_1920x1216",
-        "width": 1920,
-        "height": 1216,
+        "audience": "Consumer",
+        "region": "APAC",
         "token": "eyJpZCI6MTY2MTAsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:aSWCm-AekMORLYK0sdxVOAVhrAAD0B1hW3l8EHy5LH8",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC85ZlwvMTY2MTBcLzFjOWE4NDUwOTgzMmE3OTU5YTM3NmU2NmQ4NGIxNDc1LTE2NTgyNDEwNDUucGRmIn0:american-express:EFsKrT5ZW5HF3keko0PHHPKn4ptgmDmCxg0Zl1UK-rU?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC85ZlwvMTY2MTBcLzFjOWE4NDUwOTgzMmE3OTU5YTM3NmU2NmQ4NGIxNDc1LTE2NTgyNDEwNDUucGRmIn0:american-express:EFsKrT5ZW5HF3keko0PHHPKn4ptgmDmCxg0Zl1UK-rU?width=800",
         "is_preview_document": true,
-        "is_new": false
+        "portfolio": "Proprietary Cobrand"
     },
     {
         "id": 16680,
@@ -1312,14 +1311,14 @@ export const Cards =  [
         "ext": "png",
         "project": 5,
         "title": "payback_gold_mx_ap",
-        "width": 1536,
-        "height": 969,
+        "audience": "Business",
+        "region": "LAC",
         "token": "eyJpZCI6MTY2ODAsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:cw4e4eG67zQnlmjsAKwOg5P-6xst46odot7Ivs4ULu0",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC8zNlwvMTY2ODBcLzc1YzhmNWU0M2IyNDA2ODc5NTljNTlmMDczYzQ2ZjI0LTE2NTgyNTE5MTQucG5nIn0:american-express:zXmuaY3lClhTwdly5c6q4Ikp30rwNWoeUk_2mmtWkr0?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC8zNlwvMTY2ODBcLzc1YzhmNWU0M2IyNDA2ODc5NTljNTlmMDczYzQ2ZjI0LTE2NTgyNTE5MTQucG5nIn0:american-express:zXmuaY3lClhTwdly5c6q4Ikp30rwNWoeUk_2mmtWkr0?width=800",
         "is_preview_document": false,
-        "is_new": false
+        "portfolio": "Proprietary Cobrand"
     },
     {
         "id": 16277,
@@ -1328,14 +1327,14 @@ export const Cards =  [
         "ext": "pdf",
         "project": 5,
         "title": "amazon_bus_prime_anp_1920x1216",
-        "width": 1920,
-        "height": 1216,
+        "audience": "Consumer",
+        "region": "APAC",
         "token": "eyJpZCI6MTYyNzcsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:oU39f9UNSCBCSx9O5aNQCBwg4STg4jjH_FXch53PAA8",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC8zOVwvMTYyNzdcLzliYTRlMTVkYTcwZTc3YWYxODkzNDgyYzgzNmM5M2JlLTE2NTgxNzgxMTQucGRmIn0:american-express:LBQmmAHhf1KRngM6Tnyy87xsieAuxF2aqoS5pTKE6yg?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC8zOVwvMTYyNzdcLzliYTRlMTVkYTcwZTc3YWYxODkzNDgyYzgzNmM5M2JlLTE2NTgxNzgxMTQucGRmIn0:american-express:LBQmmAHhf1KRngM6Tnyy87xsieAuxF2aqoS5pTKE6yg?width=800",
         "is_preview_document": true,
-        "is_new": false
+        "portfolio": "Proprietary Cobrand"
     },
     {
         "id": 16272,
@@ -1344,14 +1343,14 @@ export const Cards =  [
         "ext": "png",
         "project": 5,
         "title": "grcc_bold_gold_ap",
-        "width": 1536,
-        "height": 969,
+        "audience": "Business",
+        "region": "LAC",
         "token": "eyJpZCI6MTYyNzIsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:xChRzh0SWnxmKaON7mLpp6Qd0hyPhfcBJyzEcwnXlNc",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC81ZVwvMTYyNzJcL2RkMTQyZjRkYWQxNGY5NjNlMGQ0YWJmM2ZlNmEwYjc0LTE2NTgxNzQxMTIucG5nIn0:american-express:16dPyrxdjy_qgQyzCkYGSm5xc2EoCV68wWglCqV_Rzk?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC81ZVwvMTYyNzJcL2RkMTQyZjRkYWQxNGY5NjNlMGQ0YWJmM2ZlNmEwYjc0LTE2NTgxNzQxMTIucG5nIn0:american-express:16dPyrxdjy_qgQyzCkYGSm5xc2EoCV68wWglCqV_Rzk?width=800",
         "is_preview_document": false,
-        "is_new": false
+        "portfolio": "Proprietary Cobrand"
     },
     {
         "id": 16273,
@@ -1360,14 +1359,14 @@ export const Cards =  [
         "ext": "pdf",
         "project": 5,
         "title": "grcc_bold_gold_1920x1216",
-        "width": 1920,
-        "height": 1216,
+        "audience": "Consumer",
+        "region": "APAC",
         "token": "eyJpZCI6MTYyNzMsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:6mmdBGMMSfVGoXQ9cmBNZ8c9OF8yEIyX1hyBVFDTyf0",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9mM1wvMTYyNzNcLzkzYTY0YWRiMTVlYmM5MmJkMDQ1YzMzY2VmNTc0NGExLTE2NTgxNzQxMTIucGRmIn0:american-express:8SMxly9kZWbDcXdkOPNk8QryPwN6b9G3Is1XjVbmhYA?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9mM1wvMTYyNzNcLzkzYTY0YWRiMTVlYmM5MmJkMDQ1YzMzY2VmNTc0NGExLTE2NTgxNzQxMTIucGRmIn0:american-express:8SMxly9kZWbDcXdkOPNk8QryPwN6b9G3Is1XjVbmhYA?width=800",
         "is_preview_document": true,
-        "is_new": false
+        "portfolio": "Proprietary Cobrand"
     },
     {
         "id": 15961,
@@ -1376,14 +1375,14 @@ export const Cards =  [
         "ext": "png",
         "project": 5,
         "title": "delta_ram_cons_ap",
-        "width": 1536,
-        "height": 969,
+        "audience": "Business",
+        "region": "LAC",
         "token": "eyJpZCI6MTU5NjEsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:MqPnvUH5KGC08Iis3mSdySUEHPXFFw-qFtIr0uzGBTk",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9lYVwvMTU5NjFcLzlkMTI5MmYzZDFkN2NkZTY4OWJkN2I2ODc1M2RiNGJjLTE2NTgxNzE4MzcucG5nIn0:american-express:DNreeOoBqekpnjBlNeuvfouyCVQHN1azvsv-Ow5kRi4?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9lYVwvMTU5NjFcLzlkMTI5MmYzZDFkN2NkZTY4OWJkN2I2ODc1M2RiNGJjLTE2NTgxNzE4MzcucG5nIn0:american-express:DNreeOoBqekpnjBlNeuvfouyCVQHN1azvsv-Ow5kRi4?width=800",
         "is_preview_document": false,
-        "is_new": false
+        "portfolio": "Proprietary Cobrand"
     },
     {
         "id": 15903,
@@ -1392,14 +1391,14 @@ export const Cards =  [
         "ext": "pdf",
         "project": 5,
         "title": "sbs_green_2019_1920x1216",
-        "width": 1920,
-        "height": 1216,
+        "audience": "Consumer",
+        "region": "APAC",
         "token": "eyJpZCI6MTU5MDMsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:j5jXS9dQNsVgn_i8q_lAjDELr0pXCTwJOR7bQWdBa5Q",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC85MVwvMTU5MDNcL2NlNjk3ZjNmYjg2NTI0NGM1MjFlYmExMDE4YjA4YzgzLTE2NTgxNjg5NjYucGRmIn0:american-express:3sq4m0xQ7WlTLjZEKxc-UJa0U4Z77tqsMUWBlFTqiU0?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC85MVwvMTU5MDNcL2NlNjk3ZjNmYjg2NTI0NGM1MjFlYmExMDE4YjA4YzgzLTE2NTgxNjg5NjYucGRmIn0:american-express:3sq4m0xQ7WlTLjZEKxc-UJa0U4Z77tqsMUWBlFTqiU0?width=800",
         "is_preview_document": true,
-        "is_new": false
+        "portfolio": "Proprietary Cobrand"
     },
     {
         "id": 15904,
@@ -1408,46 +1407,14 @@ export const Cards =  [
         "ext": "pdf",
         "project": 5,
         "title": "sbs_green_2019_mobile_payment_notes",
-        "width": 792,
-        "height": 612,
+        "audience": "Business",
+        "region": "NORAM",
         "token": "eyJpZCI6MTU5MDQsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:1AZTQ_OySYiH4Hr4kRar2DJP-rgIKeJKaM-lW1pl3Rs",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC81OVwvMTU5MDRcLzQ0ODJjMmJjMTlkYTlmYzQzZWM0MDJhMDZjYWE3Mzk2LTE2NTgxNjg5NjYucGRmIn0:american-express:y_pvvWCpfWoj0sOSJxTX5cqv8jcGX2cSY-zPEDk8nmc?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC81OVwvMTU5MDRcLzQ0ODJjMmJjMTlkYTlmYzQzZWM0MDJhMDZjYWE3Mzk2LTE2NTgxNjg5NjYucGRmIn0:american-express:y_pvvWCpfWoj0sOSJxTX5cqv8jcGX2cSY-zPEDk8nmc?width=800",
         "is_preview_document": true,
-        "is_new": false
-    },
-    {
-        "id": 14241,
-        "created": "2022-06-07T18:45:52+00:00",
-        "modified": "2022-06-07 18:45:52",
-        "ext": "pdf",
-        "project": 5,
-        "title": "singapore_air_business_mobile_payment_notes",
-        "width": 792,
-        "height": 612,
-        "token": "eyJpZCI6MTQyNDEsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:H0Oc1zZbrzHXZ4hrndS_HTZY8WZ-a_s53qHHwlN_lPQ",
-        "is_previewable": true,
-        "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC83NVwvMTQyNDFcLzhmNDZkMjg5NmI3Zjg3MWMxN2FhZTQzOWMyMzJlYWUyLTE2NTQ2Mjc1NTIucGRmIn0:american-express:HDp2ooGdUjhLl1t6qRy4mja2y_IsXo8WaZkMS1n-s4c?width={width}",
-        "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC83NVwvMTQyNDFcLzhmNDZkMjg5NmI3Zjg3MWMxN2FhZTQzOWMyMzJlYWUyLTE2NTQ2Mjc1NTIucGRmIn0:american-express:HDp2ooGdUjhLl1t6qRy4mja2y_IsXo8WaZkMS1n-s4c?width=800",
-        "is_preview_document": true,
-        "is_new": false
-    },
-    {
-        "id": 14516,
-        "created": "2022-06-09T17:02:50+00:00",
-        "modified": "2022-06-09 17:02:50",
-        "ext": "pdf",
-        "project": 5,
-        "title": "krisflyer_pps_solitaire_1920x1216",
-        "width": 1920,
-        "height": 1216,
-        "token": "eyJpZCI6MTQ1MTYsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:pZohQapz3G3Vk2ymCRDgBBWVrZZMhY0tYKDS_CpcwOU",
-        "is_previewable": true,
-        "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC80N1wvMTQ1MTZcLzY4N2Q3YmQ4MjdhZTYzNWM2MjY5MGI1MWU1ZjRkZmZkLTE2NTQ3OTQxNzAucGRmIn0:american-express:VaMTeUax9pHbkVDKuQoc9ziXX1MgKOxDBa0a5oBgvMs?width={width}",
-        "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC80N1wvMTQ1MTZcLzY4N2Q3YmQ4MjdhZTYzNWM2MjY5MGI1MWU1ZjRkZmZkLTE2NTQ3OTQxNzAucGRmIn0:american-express:VaMTeUax9pHbkVDKuQoc9ziXX1MgKOxDBa0a5oBgvMs?width=800",
-        "is_preview_document": true,
-        "is_new": false
+        "portfolio": "Proprietary Cobrand"
     },
     {
         "id": 14517,
@@ -1456,14 +1423,14 @@ export const Cards =  [
         "ext": "png",
         "project": 5,
         "title": "krisflyer_pps_solitaire_ap",
-        "width": 1536,
-        "height": 969,
+        "audience": "Business",
+        "region": "LAC",
         "token": "eyJpZCI6MTQ1MTcsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:l1ZNhEKYYthIg-cgmWgXC4c7FrkPvJHCB5uowxjtlhU",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC8zMFwvMTQ1MTdcL2Q0YjFkYmIxMmNiYzM4NDgyZDA1MDIxMmY2OTJhMGQxLTE2NTQ3OTQxNzAucG5nIn0:american-express:PVmsTAUXHMMljKd4BaRgIQAXYkafdf08jqJd6nR8n_g?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC8zMFwvMTQ1MTdcL2Q0YjFkYmIxMmNiYzM4NDgyZDA1MDIxMmY2OTJhMGQxLTE2NTQ3OTQxNzAucG5nIn0:american-express:PVmsTAUXHMMljKd4BaRgIQAXYkafdf08jqJd6nR8n_g?width=800",
         "is_preview_document": false,
-        "is_new": false
+        "portfolio": "Proprietary Cobrand"
     },
     {
         "id": 14491,
@@ -1472,14 +1439,14 @@ export const Cards =  [
         "ext": "png",
         "project": 5,
         "title": "chg_plat_metal_jp_ap",
-        "width": 1536,
-        "height": 969,
+        "audience": "Business",
+        "region": "LAC",
         "token": "eyJpZCI6MTQ0OTEsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:oFYJBxHXSiFEchYB-sRtbKtwH6NoVDAw4vmeapaHpMA",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC8yNFwvMTQ0OTFcL2M1NDNhN2NiMTZkOGJkNWYxMDg5OTk2Mjg3Y2RjYmE4LTE2NTQ3OTM1MDQucG5nIn0:american-express:q9N3NVVA1_o4kZqUoQMXFraOfG7nWhPAKQA9XgngYeo?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC8yNFwvMTQ0OTFcL2M1NDNhN2NiMTZkOGJkNWYxMDg5OTk2Mjg3Y2RjYmE4LTE2NTQ3OTM1MDQucG5nIn0:american-express:q9N3NVVA1_o4kZqUoQMXFraOfG7nWhPAKQA9XgngYeo?width=800",
         "is_preview_document": false,
-        "is_new": false
+        "portfolio": "Proprietary Cobrand"
     },
     {
         "id": 14062,
@@ -1488,30 +1455,14 @@ export const Cards =  [
         "ext": "png",
         "project": 5,
         "title": "airpoints_plat_ap",
-        "width": 1536,
-        "height": 969,
+        "audience": "Business",
+        "region": "LAC",
         "token": "eyJpZCI6MTQwNjIsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:e1M2RmpBJahgEf7AwNA5cbWTC0R_3ZOYb9QF3zTmrME",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9lN1wvMTQwNjJcLzE1NjVlMTg1NDNlYmUwMWQzMGQyOWJhZWQ5NDE2YWM1LTE2NTQ2MjY3NzcucG5nIn0:american-express:7_Mro98bVYimrNY-97iRdB8rDLcNFKJwUlkR-5MrBho?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9lN1wvMTQwNjJcLzE1NjVlMTg1NDNlYmUwMWQzMGQyOWJhZWQ5NDE2YWM1LTE2NTQ2MjY3NzcucG5nIn0:american-express:7_Mro98bVYimrNY-97iRdB8rDLcNFKJwUlkR-5MrBho?width=800",
         "is_preview_document": false,
-        "is_new": false
-    },
-    {
-        "id": 14118,
-        "created": "2022-06-07T18:34:41+00:00",
-        "modified": "2022-06-07 18:34:41",
-        "ext": "pdf",
-        "project": 5,
-        "title": "airpoints_mobile_pymt_notes",
-        "width": 612,
-        "height": 792,
-        "token": "eyJpZCI6MTQxMTgsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:mRbqHWQF4-A7jKvS1eIudJY8QHi3afil3GuCdTG_0oc",
-        "is_previewable": true,
-        "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC8wZVwvMTQxMThcL2NlZjg3MmI5MzU5MTA4NDhmYmQ5NjBmMmJkMWEwOWM4LTE2NTQ2MjY4ODEucGRmIn0:american-express:y0-rmjBdkILsr7QQve5S5JOWcUvwkvWYiFY-eNbQOiQ?width={width}",
-        "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC8wZVwvMTQxMThcL2NlZjg3MmI5MzU5MTA4NDhmYmQ5NjBmMmJkMWEwOWM4LTE2NTQ2MjY4ODEucGRmIn0:american-express:y0-rmjBdkILsr7QQve5S5JOWcUvwkvWYiFY-eNbQOiQ?width=800",
-        "is_preview_document": true,
-        "is_new": false
+        "portfolio": "Proprietary Cobrand"
     },
     {
         "id": 14119,
@@ -1520,14 +1471,14 @@ export const Cards =  [
         "ext": "png",
         "project": 5,
         "title": "airpoints_ap",
-        "width": 1536,
-        "height": 969,
+        "audience": "Business",
+        "region": "LAC",
         "token": "eyJpZCI6MTQxMTksInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:Mu_qaKYTqfqFyfaAQ0uWJePd34TVNY3KGQrDDDiL4Zg",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC8wMlwvMTQxMTlcLzIzODVlNTI2ZmUzZjllMGNmMWZjYzY1ZjU3NjdkMjM0LTE2NTQ2MjY4ODEucG5nIn0:american-express:7p0C8L2eYO55M3DwvtmkFiaPY8DTwechTZVKhBeON0Q?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC8wMlwvMTQxMTlcLzIzODVlNTI2ZmUzZjllMGNmMWZjYzY1ZjU3NjdkMjM0LTE2NTQ2MjY4ODEucG5nIn0:american-express:7p0C8L2eYO55M3DwvtmkFiaPY8DTwechTZVKhBeON0Q?width=800",
         "is_preview_document": false,
-        "is_new": false
+        "portfolio": "Proprietary Cobrand"
     },
     {
         "id": 13981,
@@ -1536,47 +1487,17 @@ export const Cards =  [
         "ext": "png",
         "project": 5,
         "title": "sbs_gold_metal_jp_ap",
-        "width": 1536,
-        "height": 969,
+        "audience": "Business",
+        "region": "LAC",
         "token": "eyJpZCI6MTM5ODEsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:uMwEBHhCSsRxY1HrWL4RWLvDnMfsIyJFwF994QbTVjo",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC82OFwvMTM5ODFcLzljMTZhNjFmZmNjYjhhMjE4YzQ1YjJmMGI5MGU3MTNmLTE2NTQxODg0NjcucG5nIn0:american-express:IgTHsxlF3h584KJuC5FVBscnpAKnu4ZQvCtuUB482gU?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC82OFwvMTM5ODFcLzljMTZhNjFmZmNjYjhhMjE4YzQ1YjJmMGI5MGU3MTNmLTE2NTQxODg0NjcucG5nIn0:american-express:IgTHsxlF3h584KJuC5FVBscnpAKnu4ZQvCtuUB482gU?width=800",
         "is_preview_document": false,
-        "is_new": false
+        "portfolio": "Proprietary Cobrand"
     },
-    {
-        "id": 13865,
-        "created": "2022-06-02T16:25:50+00:00",
-        "modified": "2022-06-02 16:25:50",
-        "ext": "pdf",
-        "project": 5,
-        "title": "sbs_green_jp_ap",
-        "width": 1536,
-        "height": 969,
-        "token": "eyJpZCI6MTM4NjUsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:pTsW6ierFq6jVHf4Hp8RnZlI0GujD1S_SMr_Nb-8Tmk",
-        "is_previewable": true,
-        "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC83MFwvMTM4NjVcLzgzYzViMjEzZGQ5MjUxODc2MDg1ZGIwNjgyNzM4MzRiLTE2NTQxODcxNTAucGRmIn0:american-express:RsSK0m-TCLhXTmm9Kcw2ZhnRiYZ4-6NY7BHesrgnBcQ?width={width}",
-        "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC83MFwvMTM4NjVcLzgzYzViMjEzZGQ5MjUxODc2MDg1ZGIwNjgyNzM4MzRiLTE2NTQxODcxNTAucGRmIn0:american-express:RsSK0m-TCLhXTmm9Kcw2ZhnRiYZ4-6NY7BHesrgnBcQ?width=800",
-        "is_preview_document": true,
-        "is_new": false
-    },
-    {
-        "id": 13702,
-        "created": "2022-06-02T16:06:00+00:00",
-        "modified": "2022-06-02 16:06:00",
-        "ext": "pdf",
-        "project": 5,
-        "title": "ana_premium_jp_mobile_notes",
-        "width": 792,
-        "height": 612,
-        "token": "eyJpZCI6MTM3MDIsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:Xjkhej7sdEjBvjno0Sd2KKKTSoBDAd55bp-hfq8IQ5o",
-        "is_previewable": true,
-        "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC81MVwvMTM3MDJcL2Q3NzNjMGRjODU5OGE1M2IyOTQ0MjhiMGJhMjBhNTI2LTE2NTQxODU5NjAucGRmIn0:american-express:j4m1LytSUEzvK84j4xkO3tIwfOdghoTRx6FWeczWLdE?width={width}",
-        "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC81MVwvMTM3MDJcL2Q3NzNjMGRjODU5OGE1M2IyOTQ0MjhiMGJhMjBhNTI2LTE2NTQxODU5NjAucGRmIn0:american-express:j4m1LytSUEzvK84j4xkO3tIwfOdghoTRx6FWeczWLdE?width=800",
-        "is_preview_document": true,
-        "is_new": false
-    },
+   
+   
     {
         "id": 13530,
         "created": "2022-06-01T21:25:14+00:00",
@@ -1584,14 +1505,14 @@ export const Cards =  [
         "ext": "png",
         "project": 5,
         "title": "marriott_prem_jp_ap",
-        "width": 1536,
-        "height": 969,
+        "audience": "Business",
+        "region": "LAC",
         "token": "eyJpZCI6MTM1MzAsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:SY14Lavm8MPzuFUgaM3qTGwVe0k2yBYqrzR0rcr1POk",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9lOVwvMTM1MzBcLzdkMGQxODcwOWVlMDcwMGU0ZmU2MTM4Y2NmZjQ1OGI1LTE2NTQxMTg3MTQucG5nIn0:american-express:E7YaHgSUNAz9zZscynKiKv_Fvbf2WdnTPBVH5f-5Tz0?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9lOVwvMTM1MzBcLzdkMGQxODcwOWVlMDcwMGU0ZmU2MTM4Y2NmZjQ1OGI1LTE2NTQxMTg3MTQucG5nIn0:american-express:E7YaHgSUNAz9zZscynKiKv_Fvbf2WdnTPBVH5f-5Tz0?width=800",
         "is_preview_document": false,
-        "is_new": false
+        "portfolio": "Proprietary Cobrand"
     },
     {
         "id": 13472,
@@ -1600,14 +1521,14 @@ export const Cards =  [
         "ext": "png",
         "project": 5,
         "title": "marriott_base_jp_ap",
-        "width": 1536,
-        "height": 969,
+        "audience": "Business",
+        "region": "LAC",
         "token": "eyJpZCI6MTM0NzIsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:IehJnXbaydg0rN-qASSBq91JIN-37IT5spN9GXdTyqY",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC82NVwvMTM0NzJcLzEwZTQwYjc1MjQzYmVhMjQ0ZGU3OTRiZjU2OGNlM2VjLTE2NTQxMTg1MDMucG5nIn0:american-express:C2kezHltJGDf9V4KCVA5hn6XC2lCJmJXWV4EIkBD9QQ?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC82NVwvMTM0NzJcLzEwZTQwYjc1MjQzYmVhMjQ0ZGU3OTRiZjU2OGNlM2VjLTE2NTQxMTg1MDMucG5nIn0:american-express:C2kezHltJGDf9V4KCVA5hn6XC2lCJmJXWV4EIkBD9QQ?width=800",
         "is_preview_document": false,
-        "is_new": false
+        "portfolio": "Proprietary Cobrand"
     },
     {
         "id": 13352,
@@ -1616,14 +1537,14 @@ export const Cards =  [
         "ext": "pdf",
         "project": 5,
         "title": "chg_green_2019_japan_mobile_pymt_repro_notes",
-        "width": 792,
-        "height": 612,
+        "audience": "Business",
+        "region": "NORAM",
         "token": "eyJpZCI6MTMzNTIsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:rRZErzoqMu06gWwMqYPbkdRXtjdSGYQg8NaXd2Hedi8",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC80OFwvMTMzNTJcL2RjZThkNWI0ZDkwMjMxMGQ4MTAzOWM0Njc3NjI5MjczLTE2NTQxMTc0NTEucGRmIn0:american-express:XPFG166Fr8w2ajiag_KADQgD-ldrW-AtpB6SfIJ47yM?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC80OFwvMTMzNTJcL2RjZThkNWI0ZDkwMjMxMGQ4MTAzOWM0Njc3NjI5MjczLTE2NTQxMTc0NTEucGRmIn0:american-express:XPFG166Fr8w2ajiag_KADQgD-ldrW-AtpB6SfIJ47yM?width=800",
         "is_preview_document": true,
-        "is_new": false
+        "portfolio": "Proprietary Cobrand"
     },
     {
         "id": 13353,
@@ -1632,16 +1553,31 @@ export const Cards =  [
         "ext": "png",
         "project": 5,
         "title": "chg_green_2019_jp_ap",
-        "width": 1536,
-        "height": 969,
+        "audience": "Business",
+        "region": "LAC",
         "token": "eyJpZCI6MTMzNTMsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:afTHwLdmg44mtvJdNbXmGTspi8kEftUVLYKqE2KfcK4",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC8xOFwvMTMzNTNcLzQ0OTJjYThlYzc4NzVlNDYyZmZhMzE0ZDcwNjA4MjExLTE2NTQxMTc0NTEucG5nIn0:american-express:bUu8J9VQj0fp7qsgFWWIjL8uKujj-vconKKxJMoRJ84?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC8xOFwvMTMzNTNcLzQ0OTJjYThlYzc4NzVlNDYyZmZhMzE0ZDcwNjA4MjExLTE2NTQxMTc0NTEucG5nIn0:american-express:bUu8J9VQj0fp7qsgFWWIjL8uKujj-vconKKxJMoRJ84?width=800",
         "is_preview_document": false,
-        "is_new": false
+        "portfolio": "Proprietary Cobrand"
     },
-
+    {
+        "id": 13065,
+        "created": "2022-05-31T16:58:46+00:00",
+        "modified": "2022-05-31 16:58:46",
+        "ext": "png",
+        "project": 5,
+        "title": "chg_plat_metal_emea_ap",
+        "audience": "Business",
+        "region": "EMEA",
+        "token": "eyJpZCI6MTMwNjUsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:ay5v3e5PHqj8Ldu-B5YbeJG0belKXeY5baa4q2Q9W90",
+        "is_previewable": true,
+        "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9mZVwvMTMwNjVcLzhlMWE3ZGE4OWU2Y2VjZjlmMWE4MmQxYzdhYzMxMGVlLTE2NTQwMTYzMjYucG5nIn0:american-express:M_vQybkdQcbdpf8uFGycvJquGb57u2uCN-F8VrK8FJc?width={width}",
+        "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9mZVwvMTMwNjVcLzhlMWE3ZGE4OWU2Y2VjZjlmMWE4MmQxYzdhYzMxMGVlLTE2NTQwMTYzMjYucG5nIn0:american-express:M_vQybkdQcbdpf8uFGycvJquGb57u2uCN-F8VrK8FJc?width=800",
+        "is_preview_document": false,
+        "portfolio": "Proprietary Cobrand"
+    },
     {
         "id": 13067,
         "created": "2022-05-31T16:58:46+00:00",
@@ -1649,14 +1585,14 @@ export const Cards =  [
         "ext": "pdf",
         "project": 5,
         "title": "chg_plat_metal_emea_1920x1216",
-        "width": 1920,
-        "height": 1216,
+        "audience": "Consumer",
+        "region": "EMEA",
         "token": "eyJpZCI6MTMwNjcsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:iW-1oS1s95_-xXgNYio9OjdMkSTlqhdqM8Mr1r-3E-4",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9jOVwvMTMwNjdcLzBlMzE4YjNiMzZiMDljMGE3ODM2Njc2NzE4ZmRlMzJhLTE2NTQwMTYzMjYucGRmIn0:american-express:QuZFA9w2Oh-XxhnKUTT18EWexGOsLJyx8_1_TpGHbf8?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9jOVwvMTMwNjdcLzBlMzE4YjNiMzZiMDljMGE3ODM2Njc2NzE4ZmRlMzJhLTE2NTQwMTYzMjYucGRmIn0:american-express:QuZFA9w2Oh-XxhnKUTT18EWexGOsLJyx8_1_TpGHbf8?width=800",
         "is_preview_document": true,
-        "is_new": false
+        "portfolio": "Proprietary Cobrand"
     },
     {
         "id": 13023,
@@ -1665,14 +1601,14 @@ export const Cards =  [
         "ext": "png",
         "project": 5,
         "title": "chg_gold_2018_emea_ap",
-        "width": 1536,
-        "height": 969,
+        "audience": "Business",
+        "region": "EMEA",
         "token": "eyJpZCI6MTMwMjMsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:ZPxBpvpCPk0KcXngtJV8kwpaiIq27-97mkXHPCddPGE",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC80ZVwvMTMwMjNcLzBjMDViMDA3ZDQ1NDVjMmNmMzg5ZDZhNDExZTZlOTg3LTE2NTQwMTYxOTUucG5nIn0:american-express:51MY8HvR1Xg3mST7EBAg6yt24K4Mu_ilf5Uyf4OKGtg?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC80ZVwvMTMwMjNcLzBjMDViMDA3ZDQ1NDVjMmNmMzg5ZDZhNDExZTZlOTg3LTE2NTQwMTYxOTUucG5nIn0:american-express:51MY8HvR1Xg3mST7EBAg6yt24K4Mu_ilf5Uyf4OKGtg?width=800",
         "is_preview_document": false,
-        "is_new": false
+        "portfolio": "Proprietary Cobrand"
     },
     {
         "id": 13254,
@@ -1681,14 +1617,14 @@ export const Cards =  [
         "ext": "pdf",
         "project": 5,
         "title": "sbs_green_1920x1216",
-        "width": 1920,
-        "height": 1216,
+        "audience": "Consumer",
+        "region": "APAC",
         "token": "eyJpZCI6MTMyNTQsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:UZjkEFnWxX7zH6cTSeGLzxkYfXc5QohKrZ4sYkCBUGY",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9kNlwvMTMyNTRcLzBiMjcwN2Q5ZDc0M2Q2MTY1ZjM5ODY5ZWZjMzA0Zjg0LTE2NTQwMjc3MzgucGRmIn0:american-express:3JzhoIWlP-7bui2yqW4T3g80PToitnyLf0tWNbURH7E?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9kNlwvMTMyNTRcLzBiMjcwN2Q5ZDc0M2Q2MTY1ZjM5ODY5ZWZjMzA0Zjg0LTE2NTQwMjc3MzgucGRmIn0:american-express:3JzhoIWlP-7bui2yqW4T3g80PToitnyLf0tWNbURH7E?width=800",
         "is_preview_document": true,
-        "is_new": false
+        "portfolio": "Proprietary Cobrand"
     },
     {
         "id": 13159,
@@ -1697,14 +1633,14 @@ export const Cards =  [
         "ext": "pdf",
         "project": 5,
         "title": "sbs_gold_mobile_payment_notes",
-        "width": 792,
-        "height": 612,
+        "audience": "Business",
+        "region": "NORAM",
         "token": "eyJpZCI6MTMxNTksInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:r3ShGrRNPU51ofjvNnuPiP1t5PoyrryOpm_P7rq2_U0",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC83ZVwvMTMxNTlcLzdlMWJlZWQ0MWNjZTczZjZiMzY0YTIyOWUxZTFlNGViLTE2NTQwMjc2NTUucGRmIn0:american-express:ADk_ywB6kj-Dn2eotXP1VFWi9CNa5KUlFBA52TeqOhQ?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC83ZVwvMTMxNTlcLzdlMWJlZWQ0MWNjZTczZjZiMzY0YTIyOWUxZTFlNGViLTE2NTQwMjc2NTUucGRmIn0:american-express:ADk_ywB6kj-Dn2eotXP1VFWi9CNa5KUlFBA52TeqOhQ?width=800",
         "is_preview_document": true,
-        "is_new": false
+        "portfolio": "Proprietary Cobrand"
     },
     {
         "id": 12668,
@@ -1713,14 +1649,14 @@ export const Cards =  [
         "ext": "pdf",
         "project": 5,
         "title": "aeromexico_corp_green_mobile_pymt_notes",
-        "width": 792,
-        "height": 612,
+        "audience": "Business",
+        "region": "NORAM",
         "token": "eyJpZCI6MTI2NjgsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:qR8Ka9alH1hc9pq3W4Z7EPBRoAtMmggZYBDe5hsO6Yc",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC8zNVwvMTI2NjhcL2RiNGZhNjhlZTliN2M5NTBlZjUyM2FiNDM2ZDJiMWIzLTE2NTM0MjA1NzQucGRmIn0:american-express:t9g2KTpqkHGBMxohjbNJMA4S09neCjLuPFnO7QvDGqU?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC8zNVwvMTI2NjhcL2RiNGZhNjhlZTliN2M5NTBlZjUyM2FiNDM2ZDJiMWIzLTE2NTM0MjA1NzQucGRmIn0:american-express:t9g2KTpqkHGBMxohjbNJMA4S09neCjLuPFnO7QvDGqU?width=800",
         "is_preview_document": true,
-        "is_new": false
+        "portfolio": "Proprietary Cobrand"
     },
     {
         "id": 12178,
@@ -1729,14 +1665,14 @@ export const Cards =  [
         "ext": "png",
         "project": 5,
         "title": "hilton_surpass_ap_1125x708",
-        "width": 1125,
-        "height": 708,
+        "audience": "Consumer",
+        "region": "APAC",
         "token": "eyJpZCI6MTIxNzgsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:0LvkDQGTnxjXK1g1qlT8M4M4k3ZITcrW_GyIn80kgtk",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC8zY1wvMTIxNzhcLzZmMTMwNmZhOTYyM2E3YzhhMWFlNzRiY2ZmMjBlNGEzLTE2NTI5ODE4MjEucG5nIn0:american-express:SnaxxRDeqpM5C3YHo7Rag6TzTOgNRmGNMMBIo2fFeMs?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC8zY1wvMTIxNzhcLzZmMTMwNmZhOTYyM2E3YzhhMWFlNzRiY2ZmMjBlNGEzLTE2NTI5ODE4MjEucG5nIn0:american-express:SnaxxRDeqpM5C3YHo7Rag6TzTOgNRmGNMMBIo2fFeMs?width=800",
         "is_preview_document": false,
-        "is_new": false
+        "portfolio": "Proprietary Cobrand"
     },
     {
         "id": 12121,
@@ -1745,14 +1681,14 @@ export const Cards =  [
         "ext": "pdf",
         "project": 5,
         "title": "hilton_aspire_mobile_payment_notes",
-        "width": 792,
-        "height": 612,
+        "audience": "Business",
+        "region": "NORAM",
         "token": "eyJpZCI6MTIxMjEsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:Xj2OKyNg0E9UHdIPDx7IjBNRYWvEWC_CpAaZl12g0OY",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9kZVwvMTIxMjFcL2QwMTgwODgxZTczMDZlZWMzZTA1ZDAyYjQ2NzIyZGI1LTE2NTI5ODE3NjYucGRmIn0:american-express:Zv0GY6TYXXLpFhbkp3d-QfvGPta8npLf9YcXcJcvoO0?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9kZVwvMTIxMjFcL2QwMTgwODgxZTczMDZlZWMzZTA1ZDAyYjQ2NzIyZGI1LTE2NTI5ODE3NjYucGRmIn0:american-express:Zv0GY6TYXXLpFhbkp3d-QfvGPta8npLf9YcXcJcvoO0?width=800",
         "is_preview_document": true,
-        "is_new": false
+        "portfolio": "Proprietary Cobrand"
     },
     {
         "id": 12122,
@@ -1761,14 +1697,14 @@ export const Cards =  [
         "ext": "png",
         "project": 5,
         "title": "hilton_aspire_ap",
-        "width": 1536,
-        "height": 969,
+        "audience": "Business",
+        "region": "LAC",
         "token": "eyJpZCI6MTIxMjIsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:M2r2m0R5eGTJ0xQjDVFzHAP7rrhzV90gKRbVNuzG0gU",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC8xZFwvMTIxMjJcLzRkYTg3NTdiNjBiNzdkZjljNWY1NzNjNTk5NDIxM2FiLTE2NTI5ODE3NjYucG5nIn0:american-express:B9pZoJUkqq8eMQxojVkaIHH3OGDlBSuTkbp2B90xwqY?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC8xZFwvMTIxMjJcLzRkYTg3NTdiNjBiNzdkZjljNWY1NzNjNTk5NDIxM2FiLTE2NTI5ODE3NjYucG5nIn0:american-express:B9pZoJUkqq8eMQxojVkaIHH3OGDlBSuTkbp2B90xwqY?width=800",
         "is_preview_document": false,
-        "is_new": false
+        "portfolio": "Proprietary Cobrand"
     },
     {
         "id": 12050,
@@ -1777,14 +1713,14 @@ export const Cards =  [
         "ext": "pdf",
         "project": 5,
         "title": "delta_reserve_cons_mobile_payment_notes",
-        "width": 792,
-        "height": 612,
+        "audience": "Business",
+        "region": "NORAM",
         "token": "eyJpZCI6MTIwNTAsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:bQ3PN1zt71__ck7S7r22DUXMqP1tGVNVaxQNIv9D5Fg",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9hN1wvMTIwNTBcLzZjNmVlZjU1ZWQ1YWQwOWY1YzI4NjVkMGMwOWZmYTUzLTE2NTI5Nzc2NzgucGRmIn0:american-express:XmaerupgesHOp0o8u869SnEkIw628rly3PrBnRzLSa0?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9hN1wvMTIwNTBcLzZjNmVlZjU1ZWQ1YWQwOWY1YzI4NjVkMGMwOWZmYTUzLTE2NTI5Nzc2NzgucGRmIn0:american-express:XmaerupgesHOp0o8u869SnEkIw628rly3PrBnRzLSa0?width=800",
         "is_preview_document": true,
-        "is_new": false
+        "portfolio": "Proprietary Cobrand"
     },
     {
         "id": 12565,
@@ -1793,14 +1729,14 @@ export const Cards =  [
         "ext": "pdf",
         "project": 5,
         "title": "alinea_debit_mobile_payment_repro_notes",
-        "width": 792,
-        "height": 612,
+        "audience": "Business",
+        "region": "NORAM",
         "token": "eyJpZCI6MTI1NjUsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:a34ds5NJrh0RwQENFcPLG2pBiGsXFinErqdtDjfkduI",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC8wM1wvMTI1NjVcLzA2ZTQ5NTAxY2Y0Nzg2ZmQ0ZTk1ZmE0OWRjMTI2N2M1LTE2NTMzMzgyNDUucGRmIn0:american-express:Vs4sKR_YWgKE5Tl0fv3oiruNYRMrn1mKji8_D-nveQU?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC8wM1wvMTI1NjVcLzA2ZTQ5NTAxY2Y0Nzg2ZmQ0ZTk1ZmE0OWRjMTI2N2M1LTE2NTMzMzgyNDUucGRmIn0:american-express:Vs4sKR_YWgKE5Tl0fv3oiruNYRMrn1mKji8_D-nveQU?width=800",
         "is_preview_document": true,
-        "is_new": false
+        "portfolio": "Proprietary Cobrand"
     },
     {
         "id": 12343,
@@ -1809,14 +1745,14 @@ export const Cards =  [
         "ext": "png",
         "project": 5,
         "title": "hilton_base_ap",
-        "width": 1536,
-        "height": 969,
+        "audience": "Business",
+        "region": "LAC",
         "token": "eyJpZCI6MTIzNDMsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:nos8C3v7snSywTZOHpsavPAzHxT0HA3cko-52m2HJMI",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC8xY1wvMTIzNDNcL2JiNWEyZWMwOWQ5NWEwMWVmODM5ZGE1YTg0YjI1MmM1LTE2NTI5ODIzMzcucG5nIn0:american-express:AAJiJjoFnQ8qGxQ7YdtzHdKvErnM6D-tFukLQ-C0TMc?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC8xY1wvMTIzNDNcL2JiNWEyZWMwOWQ5NWEwMWVmODM5ZGE1YTg0YjI1MmM1LTE2NTI5ODIzMzcucG5nIn0:american-express:AAJiJjoFnQ8qGxQ7YdtzHdKvErnM6D-tFukLQ-C0TMc?width=800",
         "is_preview_document": false,
-        "is_new": false
+        "portfolio": "Proprietary Cobrand"
     },
     {
         "id": 12246,
@@ -1825,14 +1761,14 @@ export const Cards =  [
         "ext": "png",
         "project": 5,
         "title": "hilton_business_ap_750x472",
-        "width": 750,
-        "height": 472,
+        "audience": "Business",
+        "region": "EMEA",
         "token": "eyJpZCI6MTIyNDYsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:ddf05cjJZPPEUS93DM0gNjAKjcFCWBGYewcOpveBjzU",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC8xOVwvMTIyNDZcL2EwMjFiZmYzZTQ3N2E5NGU4OWVmMjkzMTZlNTI4MmVhLTE2NTI5ODIxMDYucG5nIn0:american-express:HKpC_N02Z_8CFaJVLKTcw5o2WkJ6nwhA-SIdZUO56LM?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC8xOVwvMTIyNDZcL2EwMjFiZmYzZTQ3N2E5NGU4OWVmMjkzMTZlNTI4MmVhLTE2NTI5ODIxMDYucG5nIn0:american-express:HKpC_N02Z_8CFaJVLKTcw5o2WkJ6nwhA-SIdZUO56LM?width=800",
         "is_preview_document": false,
-        "is_new": false
+        "portfolio": "Proprietary Cobrand"
     },
     {
         "id": 11845,
@@ -1841,14 +1777,14 @@ export const Cards =  [
         "ext": "pdf",
         "project": 5,
         "title": "delta_gold_sbs_mobile_payment_notes",
-        "width": 792,
-        "height": 612,
+        "audience": "Business",
+        "region": "NORAM",
         "token": "eyJpZCI6MTE4NDUsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:ki5UFPJOpo-CvssGg8nFAmcwTLUDnbeCZnDwSyEuJmQ",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9hN1wvMTE4NDVcL2Y1MzY3MGM3YzgzMGM2MjllOTcwYjI0MzA5OWRlZmFkLTE2NTI5NzY1OTgucGRmIn0:american-express:JuRxpvc49F660l7RMHUiXST7nWweJjUP76eBijOKbzU?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9hN1wvMTE4NDVcL2Y1MzY3MGM3YzgzMGM2MjllOTcwYjI0MzA5OWRlZmFkLTE2NTI5NzY1OTgucGRmIn0:american-express:JuRxpvc49F660l7RMHUiXST7nWweJjUP76eBijOKbzU?width=800",
         "is_preview_document": true,
-        "is_new": false
+        "portfolio": "Proprietary Cobrand"
     },
     {
         "id": 11776,
@@ -1857,14 +1793,14 @@ export const Cards =  [
         "ext": "pdf",
         "project": 5,
         "title": "delta_gold_cons_1920x1216",
-        "width": 1920,
-        "height": 1216,
+        "audience": "Consumer",
+        "region": "APAC",
         "token": "eyJpZCI6MTE3NzYsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:pG8Rbhri_JkcV9o_3CncH7ytVBX3DOTkgQNhyH9kP2Q",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9mZlwvMTE3NzZcLzNjYjIxYWMwNjg0OGFjYTU0M2I1YmQ4NmYyNDIxZWRhLTE2NTI5NzYzMDYucGRmIn0:american-express:u1MSLJ4TcUNdnaxyI-Ck_bE5uMY5C6lzEfaRI4IBz8Y?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9mZlwvMTE3NzZcLzNjYjIxYWMwNjg0OGFjYTU0M2I1YmQ4NmYyNDIxZWRhLTE2NTI5NzYzMDYucGRmIn0:american-express:u1MSLJ4TcUNdnaxyI-Ck_bE5uMY5C6lzEfaRI4IBz8Y?width=800",
         "is_preview_document": true,
-        "is_new": false
+        "portfolio": "Proprietary Cobrand"
     },
     {
         "id": 11474,
@@ -1873,14 +1809,14 @@ export const Cards =  [
         "ext": "pdf",
         "project": 5,
         "title": "blue_cash_pref_mobile_payment_notes",
-        "width": 792,
-        "height": 612,
+        "audience": "Business",
+        "region": "NORAM",
         "token": "eyJpZCI6MTE0NzQsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:lDF41pnPu0-MPQtASANXJgEsxIvkTqMhQU4p3eupTFU",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC8wNlwvMTE0NzRcL2E5NDI5NDU3NGE1MDg3ZGJjZjhiMTY3MGMxYWU2M2VlLTE2NTI5NzUwMDIucGRmIn0:american-express:4x2FVxEqN0sW7f6uAtaPyjgnbZX6DWjuc-ZWJ_BFqfQ?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC8wNlwvMTE0NzRcL2E5NDI5NDU3NGE1MDg3ZGJjZjhiMTY3MGMxYWU2M2VlLTE2NTI5NzUwMDIucGRmIn0:american-express:4x2FVxEqN0sW7f6uAtaPyjgnbZX6DWjuc-ZWJ_BFqfQ?width=800",
         "is_preview_document": true,
-        "is_new": false
+        "portfolio": "Proprietary Cobrand"
     },
     {
         "id": 11475,
@@ -1889,14 +1825,14 @@ export const Cards =  [
         "ext": "png",
         "project": 5,
         "title": "blue_cash_pref_ap",
-        "width": 1536,
-        "height": 969,
+        "audience": "Business",
+        "region": "LAC",
         "token": "eyJpZCI6MTE0NzUsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:_wPwe7uVzrveBXfPPZ08k6BzGUp9k3ZGcK2o6Fjnnb8",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC82NlwvMTE0NzVcL2E4MDc3MzZjNjgyMTVmMjdkYjM2ZWFkN2RhNDQ2NzdhLTE2NTI5NzUwMDIucG5nIn0:american-express:cwrdo79plwz35AGl88RbWsHc--JCPQ1RlqLy36tAP9E?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC82NlwvMTE0NzVcL2E4MDc3MzZjNjgyMTVmMjdkYjM2ZWFkN2RhNDQ2NzdhLTE2NTI5NzUwMDIucG5nIn0:american-express:cwrdo79plwz35AGl88RbWsHc--JCPQ1RlqLy36tAP9E?width=800",
         "is_preview_document": false,
-        "is_new": false
+        "portfolio": "Proprietary Cobrand"
     },
     {
         "id": 11371,
@@ -1905,14 +1841,14 @@ export const Cards =  [
         "ext": "pdf",
         "project": 5,
         "title": "blue_sbs_plus_1920x1216",
-        "width": 1920,
-        "height": 1216,
+        "audience": "Consumer",
+        "region": "APAC",
         "token": "eyJpZCI6MTEzNzEsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:YU3D7HiwuclzCmhm5-a3_hjrtBNc9-1xopFmt-B4mbc",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC84ZVwvMTEzNzFcL2ZmNDJiYzRlMjgzOGIyMTgwYWM5ZmQ4ZDc3Y2IzYmMyLTE2NTI5NzQwOTYucGRmIn0:american-express:apmWVR8eueIZVeyFf4Ib_vNQoAna7HbgCs3Te6jRyb4?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC84ZVwvMTEzNzFcL2ZmNDJiYzRlMjgzOGIyMTgwYWM5ZmQ4ZDc3Y2IzYmMyLTE2NTI5NzQwOTYucGRmIn0:american-express:apmWVR8eueIZVeyFf4Ib_vNQoAna7HbgCs3Te6jRyb4?width=800",
         "is_preview_document": true,
-        "is_new": false
+        "portfolio": "Proprietary Cobrand"
     },
     {
         "id": 11372,
@@ -1921,14 +1857,14 @@ export const Cards =  [
         "ext": "pdf",
         "project": 5,
         "title": "blue_sbs_plus_mobile_payment_notes",
-        "width": 792,
-        "height": 612,
+        "audience": "Business",
+        "region": "NORAM",
         "token": "eyJpZCI6MTEzNzIsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:Bcw0n5sizOtls2rGln8moD9YFTTl8TXHdGHY8Xu1C8c",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9mNFwvMTEzNzJcLzVmY2FkNzcwOWQ5NjM2MWU3MmYyZmIzY2RmZWU5MGIyLTE2NTI5NzQwOTYucGRmIn0:american-express:58sPDu7ew2pPGJHLLYOICleMlNHiYiByJq8xeFx-o5I?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9mNFwvMTEzNzJcLzVmY2FkNzcwOWQ5NjM2MWU3MmYyZmIzY2RmZWU5MGIyLTE2NTI5NzQwOTYucGRmIn0:american-express:58sPDu7ew2pPGJHLLYOICleMlNHiYiByJq8xeFx-o5I?width=800",
         "is_preview_document": true,
-        "is_new": false
+        "portfolio": "Proprietary Cobrand"
     },
     {
         "id": 11720,
@@ -1937,14 +1873,14 @@ export const Cards =  [
         "ext": "pdf",
         "project": 5,
         "title": "delta_blue_1920x1216",
-        "width": 1920,
-        "height": 1216,
+        "audience": "Consumer",
+        "region": "APAC",
         "token": "eyJpZCI6MTE3MjAsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:t468me6dzVh3RlB569Z3ypbuv9Big-xrxcH6f_Cvd44",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC84ZVwvMTE3MjBcLzRiYzc2MDVkNjhmZjFjYTFjNjU0MzFlNTUyN2Y2ZDVlLTE2NTI5NzYwNDEucGRmIn0:american-express:MX9t4G8ANaZiLyhy55u2oZz_ZsH1xT8Ij_eVbVAwaEo?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC84ZVwvMTE3MjBcLzRiYzc2MDVkNjhmZjFjYTFjNjU0MzFlNTUyN2Y2ZDVlLTE2NTI5NzYwNDEucGRmIn0:american-express:MX9t4G8ANaZiLyhy55u2oZz_ZsH1xT8Ij_eVbVAwaEo?width=800",
         "is_preview_document": true,
-        "is_new": false
+        "portfolio": "Proprietary Cobrand"
     },
     {
         "id": 11545,
@@ -1953,14 +1889,14 @@ export const Cards =  [
         "ext": "png",
         "project": 5,
         "title": "corp_green_merc_ap",
-        "width": 1536,
-        "height": 969,
+        "audience": "Business",
+        "region": "LAC",
         "token": "eyJpZCI6MTE1NDUsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:JoJMRlHeudFNFW_02hx4OcEdgh-urLf0n0xwZiP-LA0",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC81MFwvMTE1NDVcL2QxM2VlMzIxYzhlZTU3NTQ5MDY5NWEwZWI1ZTdjMDFkLTE2NTI5NzU2MjEucG5nIn0:american-express:dfrs2b4G7tEhcBtIgnHMIcgv6gJ1CKdqde7A9AWIqZ0?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC81MFwvMTE1NDVcL2QxM2VlMzIxYzhlZTU3NTQ5MDY5NWEwZWI1ZTdjMDFkLTE2NTI5NzU2MjEucG5nIn0:american-express:dfrs2b4G7tEhcBtIgnHMIcgv6gJ1CKdqde7A9AWIqZ0?width=800",
         "is_preview_document": false,
-        "is_new": false
+        "portfolio": "Proprietary Cobrand"
     },
     {
         "id": 10912,
@@ -1969,14 +1905,14 @@ export const Cards =  [
         "ext": "pdf",
         "project": 5,
         "title": "sbs_plat_metal_2018_1920x1216",
-        "width": 1920,
-        "height": 1216,
+        "audience": "Consumer",
+        "region": "APAC",
         "token": "eyJpZCI6MTA5MTIsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:RVoZusYGTCnsZw6CWTPzC42e0KG5eDWaUoyfA3g64nA",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9hZVwvMTA5MTJcL2RiNTdkOTVhYTY0MDMyOTE4NDY3MTllNDNjYjMxYWZhLTE2NTIzODU4NDkucGRmIn0:american-express:NM_Sft7mEeNChvOtg9fEYhOAVnRq0pi0A3cFZlYDx-A?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9hZVwvMTA5MTJcL2RiNTdkOTVhYTY0MDMyOTE4NDY3MTllNDNjYjMxYWZhLTE2NTIzODU4NDkucGRmIn0:american-express:NM_Sft7mEeNChvOtg9fEYhOAVnRq0pi0A3cFZlYDx-A?width=800",
         "is_preview_document": true,
-        "is_new": false
+        "portfolio": "Proprietary Cobrand"
     },
     {
         "id": 10857,
@@ -1985,14 +1921,14 @@ export const Cards =  [
         "ext": "pdf",
         "project": 5,
         "title": "chg_plat_metal_2018_1920x1216",
-        "width": 1920,
-        "height": 1216,
+        "audience": "Consumer",
+        "region": "APAC",
         "token": "eyJpZCI6MTA4NTcsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:aWiZ8ZdgQbX8qs_by_E08PKADkwiKlfu2X_B-mKMfPA",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9hYlwvMTA4NTdcLzZjYTRkYWU5ZTU0OWY2MzY4NmJlZjNjMzAyMzM5MTVmLTE2NTIzODU0NzQucGRmIn0:american-express:vCS7TixfEZII0_bI2vMP909PK84s7ycXOHKVLgbhWgM?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9hYlwvMTA4NTdcLzZjYTRkYWU5ZTU0OWY2MzY4NmJlZjNjMzAyMzM5MTVmLTE2NTIzODU0NzQucGRmIn0:american-express:vCS7TixfEZII0_bI2vMP909PK84s7ycXOHKVLgbhWgM?width=800",
         "is_preview_document": true,
-        "is_new": false
+        "portfolio": "Proprietary Cobrand"
     },
     {
         "id": 10768,
@@ -2001,14 +1937,14 @@ export const Cards =  [
         "ext": "pdf",
         "project": 5,
         "title": "corp_plat_metal_2018_mobile_payment_notes",
-        "width": 792,
-        "height": 612,
+        "audience": "Business",
+        "region": "NORAM",
         "token": "eyJpZCI6MTA3NjgsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:-0FjPUUyU4eGa1TOoOnySVCWyugUt4ZR-RNbaN8VSoI",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9hYlwvMTA3NjhcLzdlMDViMjAxNjAzZjJlMWU2ZDkyODA1NTA3NDA4NDViLTE2NTIzODUwNjYucGRmIn0:american-express:OaV_OAeIuWamc4KzBIf39gWZ5VG4GxB3hxVpMvrXpzc?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9hYlwvMTA3NjhcLzdlMDViMjAxNjAzZjJlMWU2ZDkyODA1NTA3NDA4NDViLTE2NTIzODUwNjYucGRmIn0:american-express:OaV_OAeIuWamc4KzBIf39gWZ5VG4GxB3hxVpMvrXpzc?width=800",
         "is_preview_document": true,
-        "is_new": false
+        "portfolio": "Proprietary Cobrand"
     },
     {
         "id": 10961,
@@ -2017,14 +1953,14 @@ export const Cards =  [
         "ext": "png",
         "project": 5,
         "title": "sbs_plum_2018_ap",
-        "width": 1539,
-        "height": 969,
+        "audience": "Consumer",
+        "region": "LAC",
         "token": "eyJpZCI6MTA5NjEsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:adHHFd0jBL-pCtKa9cmSMWy9W434Lid4SGiVMo4YXDk",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9kOVwvMTA5NjFcL2YyYzZiZTQ0MDAwNDAwYTk5NGYwNmFlMGFiMzc3YmRlLTE2NTIzODYxOTMucG5nIn0:american-express:gmmNuj1qY44Y1ufrc9tgMDAMOYSXRvBYOrOL47tFxbg?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9kOVwvMTA5NjFcL2YyYzZiZTQ0MDAwNDAwYTk5NGYwNmFlMGFiMzc3YmRlLTE2NTIzODYxOTMucG5nIn0:american-express:gmmNuj1qY44Y1ufrc9tgMDAMOYSXRvBYOrOL47tFxbg?width=800",
         "is_preview_document": false,
-        "is_new": false
+        "portfolio": "Proprietary Cobrand"
     },
     {
         "id": 11164,
@@ -2033,14 +1969,14 @@ export const Cards =  [
         "ext": "png",
         "project": 5,
         "title": "corp_gold_metal_v2_ap",
-        "width": 1536,
-        "height": 969,
+        "audience": "Business",
+        "region": "LAC",
         "token": "eyJpZCI6MTExNjQsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:eLlsJeE_6hxg1f-A88n1uxiSRdP3nBdsvxC4utsmkak",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC81YVwvMTExNjRcLzQwMmUxZjYxN2Y4NjAyYTQ0ZTk0N2M1NjM1NDIwZDBmLTE2NTI5MDk5MjMucG5nIn0:american-express:UZNFtUDnfEMNpU_s4P9hwfnX2y-EJnGsnW8VOd_Darw?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC81YVwvMTExNjRcLzQwMmUxZjYxN2Y4NjAyYTQ0ZTk0N2M1NjM1NDIwZDBmLTE2NTI5MDk5MjMucG5nIn0:american-express:UZNFtUDnfEMNpU_s4P9hwfnX2y-EJnGsnW8VOd_Darw?width=800",
         "is_preview_document": false,
-        "is_new": false
+        "portfolio": "Proprietary Cobrand"
     },
     {
         "id": 10562,
@@ -2049,14 +1985,14 @@ export const Cards =  [
         "ext": "pdf",
         "project": 5,
         "title": "vitality_di_mobile_payment_notes",
-        "width": 792,
-        "height": 612,
+        "audience": "Business",
+        "region": "NORAM",
         "token": "eyJpZCI6MTA1NjIsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:YSZK69x9_anVYqHnaWPQodCbgZxzq3K3prPB51_tLJg",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC81YVwvMTA1NjJcL2Q4NTFmYmMyZmQyODU1MGI0ZDI1MDRjY2FhYjhkMjRhLTE2NTE2OTI5MzUucGRmIn0:american-express:XOHp3xnuFay08taJbUW1ARLWT-1Na74dQlzv_IU3lt8?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC81YVwvMTA1NjJcL2Q4NTFmYmMyZmQyODU1MGI0ZDI1MDRjY2FhYjhkMjRhLTE2NTE2OTI5MzUucGRmIn0:american-express:XOHp3xnuFay08taJbUW1ARLWT-1Na74dQlzv_IU3lt8?width=800",
         "is_preview_document": true,
-        "is_new": false
+        "portfolio": "Proprietary Cobrand"
     },
     {
         "id": 10219,
@@ -2065,14 +2001,14 @@ export const Cards =  [
         "ext": "pdf",
         "project": 5,
         "title": "corp_plat_mobile_payment_notes",
-        "width": 792,
-        "height": 612,
+        "audience": "Business",
+        "region": "NORAM",
         "token": "eyJpZCI6MTAyMTksInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:ZJ0tn6LztnljI8-qMwTVQ_I6wXUZ8Eqm8ImS34a3_ZA",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC8xNVwvMTAyMTlcLzU2ZWY5NTAxZDA1YjkwMmJhMzEzNDcxY2UwNWYwZTMxLTE2NTEyNjk3NjYucGRmIn0:american-express:34IoUgEDtpanbK6rQv_UxD0lM8LvPzHNU4JrjqTlbLA?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC8xNVwvMTAyMTlcLzU2ZWY5NTAxZDA1YjkwMmJhMzEzNDcxY2UwNWYwZTMxLTE2NTEyNjk3NjYucGRmIn0:american-express:34IoUgEDtpanbK6rQv_UxD0lM8LvPzHNU4JrjqTlbLA?width=800",
         "is_preview_document": true,
-        "is_new": false
+        "portfolio": "Proprietary Cobrand"
     },
     {
         "id": 10221,
@@ -2081,14 +2017,14 @@ export const Cards =  [
         "ext": "png",
         "project": 5,
         "title": "corp_plat_ap",
-        "width": 1536,
-        "height": 969,
+        "audience": "Business",
+        "region": "LAC",
         "token": "eyJpZCI6MTAyMjEsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:DrLi-A6PF-3KT2VJDHxOnBLwz7QoMazR2wOeCBmlMS4",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9hNVwvMTAyMjFcLzZhYTQ0MTgyNzM3MzE2MGU1NmZkMzVhNWE1NTllOTVkLTE2NTEyNjk3NjYucG5nIn0:american-express:B5FBzuID39zNJjW_H34qb_6dILZf-ceI7WEIEiF411w?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9hNVwvMTAyMjFcLzZhYTQ0MTgyNzM3MzE2MGU1NmZkMzVhNWE1NTllOTVkLTE2NTEyNjk3NjYucG5nIn0:american-express:B5FBzuID39zNJjW_H34qb_6dILZf-ceI7WEIEiF411w?width=800",
         "is_preview_document": false,
-        "is_new": false
+        "portfolio": "Proprietary Cobrand"
     },
     {
         "id": 10153,
@@ -2097,14 +2033,14 @@ export const Cards =  [
         "ext": "pdf",
         "project": 5,
         "title": "chg_rosegold_metal_v2_1920x1216",
-        "width": 1920,
-        "height": 1216,
+        "audience": "Consumer",
+        "region": "APAC",
         "token": "eyJpZCI6MTAxNTMsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:a7SpYt-O5t5QBkxZrFJs4cpo-glHdBf8JfAOyH9lDFg",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC8xOVwvMTAxNTNcLzE3OWQwYzA1ZGE5ZWMxMGJmNGJjZTEzMjhlY2YxMjhmLTE2NTEyNjU2NzkucGRmIn0:american-express:3JcVPnJfaTEnmPuGUVsIVLIOGQLJSopmDzsWrXet_0U?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC8xOVwvMTAxNTNcLzE3OWQwYzA1ZGE5ZWMxMGJmNGJjZTEzMjhlY2YxMjhmLTE2NTEyNjU2NzkucGRmIn0:american-express:3JcVPnJfaTEnmPuGUVsIVLIOGQLJSopmDzsWrXet_0U?width=800",
         "is_preview_document": true,
-        "is_new": false
+        "portfolio": "Proprietary Cobrand"
     },
     {
         "id": 9954,
@@ -2113,14 +2049,14 @@ export const Cards =  [
         "ext": "png",
         "project": 5,
         "title": "amazon_sbs_prime_de_ap",
-        "width": 1536,
-        "height": 969,
+        "audience": "Business",
+        "region": "LAC",
         "token": "eyJpZCI6OTk1NCwidGltZXN0YW1wIjoiMTY3MzI2NjAyMSJ9:american-express:mAQ9a1Jfx86kRSHDiAgRP2X4XqHEMXHGgTtNEvTugtk",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC8zNVwvOTk1NFwvY2E4OWQ3ZTdjZGY0Yzk0MDM3ODkyMGRmZDY2NzE1NjQtMTY1MTI2MDI4Ni5wbmcifQ:american-express:dOxwUMzvYQcsxHC1cNu0RU4qnx5PUL6UU5M-9tdlsso?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC8zNVwvOTk1NFwvY2E4OWQ3ZTdjZGY0Yzk0MDM3ODkyMGRmZDY2NzE1NjQtMTY1MTI2MDI4Ni5wbmcifQ:american-express:dOxwUMzvYQcsxHC1cNu0RU4qnx5PUL6UU5M-9tdlsso?width=800",
         "is_preview_document": false,
-        "is_new": false
+        "portfolio": "Proprietary Cobrand"
     },
     {
         "id": 9955,
@@ -2129,14 +2065,14 @@ export const Cards =  [
         "ext": "pdf",
         "project": 5,
         "title": "amazon_sbs_prime_de_1920x1216",
-        "width": 1920,
-        "height": 1216,
+        "audience": "Consumer",
+        "region": "APAC",
         "token": "eyJpZCI6OTk1NSwidGltZXN0YW1wIjoiMTY3MzI2NjAyMSJ9:american-express:0GPqmTUULwP-YxQjYy958LkXvO6fE4OFsjt2EX0Av3U",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9hOFwvOTk1NVwvNzYwYjE0YTQxZjZkNTA2MjljYzdlZGFmODMxMTU2MGMtMTY1MTI2MDI4Ni5wZGYifQ:american-express:nezQpjwlVYVrRuduXBX3Mp-wfwYCEbMhAUY5DDNqXIM?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9hOFwvOTk1NVwvNzYwYjE0YTQxZjZkNTA2MjljYzdlZGFmODMxMTU2MGMtMTY1MTI2MDI4Ni5wZGYifQ:american-express:nezQpjwlVYVrRuduXBX3Mp-wfwYCEbMhAUY5DDNqXIM?width=800",
         "is_preview_document": true,
-        "is_new": false
+        "portfolio": "Proprietary Cobrand"
     },
     {
         "id": 9847,
@@ -2145,14 +2081,14 @@ export const Cards =  [
         "ext": "png",
         "project": 5,
         "title": "amazon_sbs_base_de_ap",
-        "width": 1536,
-        "height": 969,
+        "audience": "Business",
+        "region": "LAC",
         "token": "eyJpZCI6OTg0NywidGltZXN0YW1wIjoiMTY3MzI2NjAyMSJ9:american-express:wehgt7qfaLIwpQhDxchDsZI0kbO0dkbEGCrAdtMFuDQ",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC85ZVwvOTg0N1wvMDBiYzYzOTI5MWFlNmRhYmQ0Y2JiYjMyNDc3Zjg2OGItMTY1MTI1ODg4MC5wbmcifQ:american-express:a_7TUfHaUgdghB004J1ciVbLRM9tXQu0uwXba2_stl0?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC85ZVwvOTg0N1wvMDBiYzYzOTI5MWFlNmRhYmQ0Y2JiYjMyNDc3Zjg2OGItMTY1MTI1ODg4MC5wbmcifQ:american-express:a_7TUfHaUgdghB004J1ciVbLRM9tXQu0uwXba2_stl0?width=800",
         "is_preview_document": false,
-        "is_new": false
+        "portfolio": "Proprietary Cobrand"
     },
     {
         "id": 9577,
@@ -2161,14 +2097,14 @@ export const Cards =  [
         "ext": "png",
         "project": 5,
         "title": "chg_plat_metal_es_ap",
-        "width": 1536,
-        "height": 969,
+        "audience": "Business",
+        "region": "LAC",
         "token": "eyJpZCI6OTU3NywidGltZXN0YW1wIjoiMTY3MzI2NjAyMSJ9:american-express:bPj-LooJYb5cXTrMAp_FOwO0EyvazMTiVtfHvntLTmE",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC8wOFwvOTU3N1wvNjMxN2NmMjFkY2U4NmQ2YTNiY2JmY2Y3NWI2MWU1MDctMTY1MTI1MTA3MC5wbmcifQ:american-express:k5WdCkiMSA4GWIGF_pa0VmGx_SE6YD9vT9G-18I0Me4?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC8wOFwvOTU3N1wvNjMxN2NmMjFkY2U4NmQ2YTNiY2JmY2Y3NWI2MWU1MDctMTY1MTI1MTA3MC5wbmcifQ:american-express:k5WdCkiMSA4GWIGF_pa0VmGx_SE6YD9vT9G-18I0Me4?width=800",
         "is_preview_document": false,
-        "is_new": false
+        "portfolio": "Proprietary Cobrand"
     },
     {
         "id": 9363,
@@ -2177,14 +2113,14 @@ export const Cards =  [
         "ext": "pdf",
         "project": 5,
         "title": "amazon_sbs_base_fr_1920x1216",
-        "width": 1920,
-        "height": 1216,
+        "audience": "Consumer",
+        "region": "APAC",
         "token": "eyJpZCI6OTM2MywidGltZXN0YW1wIjoiMTY3MzI2NjAyMSJ9:american-express:42Q38JnOtmLj05B19_S_MTM2Lg9tJuet1OC3ESOXNxQ",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC80YlwvOTM2M1wvNzdkM2RmYmZhNjZiOTRlZGRlMjRiNDUwN2M3OTNhMzUtMTY1MTE4NDM5Ni5wZGYifQ:american-express:wSfhwv0XARd_G_fp4cJD2AllLf1CemEbs9rCDlg75ek?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC80YlwvOTM2M1wvNzdkM2RmYmZhNjZiOTRlZGRlMjRiNDUwN2M3OTNhMzUtMTY1MTE4NDM5Ni5wZGYifQ:american-express:wSfhwv0XARd_G_fp4cJD2AllLf1CemEbs9rCDlg75ek?width=800",
         "is_preview_document": true,
-        "is_new": false
+        "portfolio": "Proprietary Cobrand"
     },
     {
         "id": 9133,
@@ -2193,14 +2129,14 @@ export const Cards =  [
         "ext": "pdf",
         "project": 5,
         "title": "af_klm_sbs_gold_1920x1216_Flux",
-        "width": 1920,
-        "height": 1216,
+        "audience": "Consumer",
+        "region": "APAC",
         "token": "eyJpZCI6OTEzMywidGltZXN0YW1wIjoiMTY3MzI2NjAyMSJ9:american-express:O0rCxbbtQmVpv2AMkWlXwoXMwXc8XJ7DHLdmBWtxdHk",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC81ZVwvOTEzM1wvNDMxMGMzZjE3Y2U1MWEyY2I2MzFlMGJkZmIwNjk3ZDctMTY1MTE3Njc1NS5wZGYifQ:american-express:K5Me6CA7kAU9OKaFbnHUOjYveEUHyfv6kMx3N7b0lu4?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC81ZVwvOTEzM1wvNDMxMGMzZjE3Y2U1MWEyY2I2MzFlMGJkZmIwNjk3ZDctMTY1MTE3Njc1NS5wZGYifQ:american-express:K5Me6CA7kAU9OKaFbnHUOjYveEUHyfv6kMx3N7b0lu4?width=800",
         "is_preview_document": true,
-        "is_new": false
+        "portfolio": "Proprietary Cobrand"
     },
     {
         "id": 9134,
@@ -2209,14 +2145,14 @@ export const Cards =  [
         "ext": "pdf",
         "project": 5,
         "title": "af_klm_gold_mobile_payment_notes",
-        "width": 792,
-        "height": 612,
+        "audience": "Business",
+        "region": "NORAM",
         "token": "eyJpZCI6OTEzNCwidGltZXN0YW1wIjoiMTY3MzI2NjAyMSJ9:american-express:m6v_edguSq8fuzeLN-o3lH2ryLbhQAfcdlu5MMiXL6w",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC85ZlwvOTEzNFwvYjVkMWRmMjY4MDcxMmMzZjYwNTFmZGQ5NTJkNmY1OWEtMTY1MTE3Njc1NS5wZGYifQ:american-express:YgTvCjPxNSiFVkNQY7MkqviVYBrI4ncMgOaBMCJSibE?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC85ZlwvOTEzNFwvYjVkMWRmMjY4MDcxMmMzZjYwNTFmZGQ5NTJkNmY1OWEtMTY1MTE3Njc1NS5wZGYifQ:american-express:YgTvCjPxNSiFVkNQY7MkqviVYBrI4ncMgOaBMCJSibE?width=800",
         "is_preview_document": true,
-        "is_new": false
+        "portfolio": "Proprietary Cobrand"
     },
     {
         "id": 9063,
@@ -2225,14 +2161,14 @@ export const Cards =  [
         "ext": "pdf",
         "project": 5,
         "title": "af_klm_plat_1920x1216",
-        "width": 1920,
-        "height": 1216,
+        "audience": "Consumer",
+        "region": "APAC",
         "token": "eyJpZCI6OTA2MywidGltZXN0YW1wIjoiMTY3MzI2NjAyMSJ9:american-express:aDeNjeaoO779KgEnOAXAM_dBQiiAcS9fo8blmL05aLY",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9jZVwvOTA2M1wvOWM3N2EwNWJhMzExZjU4Y2MzNWM5NDRjZTdhZDE1ZDItMTY1MTE3MjE1NC5wZGYifQ:american-express:qyW7NHnfCMQC0YIG4xj4Q3BEQAB-7hRji_SRrBSmkkM?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9jZVwvOTA2M1wvOWM3N2EwNWJhMzExZjU4Y2MzNWM5NDRjZTdhZDE1ZDItMTY1MTE3MjE1NC5wZGYifQ:american-express:qyW7NHnfCMQC0YIG4xj4Q3BEQAB-7hRji_SRrBSmkkM?width=800",
         "is_preview_document": true,
-        "is_new": false
+        "portfolio": "Proprietary Cobrand"
     },
     {
         "id": 8845,
@@ -2241,14 +2177,14 @@ export const Cards =  [
         "ext": "pdf",
         "project": 5,
         "title": "chg_plat_metal_fr_di_emea_mobile_payment_notes",
-        "width": 792,
-        "height": 612,
+        "audience": "Business",
+        "region": "EMEA",
         "token": "eyJpZCI6ODg0NSwidGltZXN0YW1wIjoiMTY3MzI2NjAyMSJ9:american-express:8F3S7Lwid_TlbMHc8D_vQxfwWXjqUa-CQ0rXGtEvP1I",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9mZlwvODg0NVwvOGZmM2QxNGYyMmQxNTI1NWNhOTNhNDAyN2FlNDBkNWUtMTY1MTE2ODUyNy5wZGYifQ:american-express:aSsA1Lr9VqfpdPJumHDLhI_oSnSQD28ocB13HeMvccM?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9mZlwvODg0NVwvOGZmM2QxNGYyMmQxNTI1NWNhOTNhNDAyN2FlNDBkNWUtMTY1MTE2ODUyNy5wZGYifQ:american-express:aSsA1Lr9VqfpdPJumHDLhI_oSnSQD28ocB13HeMvccM?width=800",
         "is_preview_document": true,
-        "is_new": false
+        "portfolio": "Proprietary Cobrand"
     },
     {
         "id": 8542,
@@ -2257,14 +2193,14 @@ export const Cards =  [
         "ext": "png",
         "project": 5,
         "title": "aircanada_prem_sbs_ap",
-        "width": 1536,
-        "height": 969,
+        "audience": "Business",
+        "region": "LAC",
         "token": "eyJpZCI6ODU0MiwidGltZXN0YW1wIjoiMTY3MzI2NjAyMSJ9:american-express:4PRZmvKb_wkhj2I2GRMPUruwOgnlxgBv2CDlwIW8MbM",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC80ZVwvODU0MlwvODY5ZGRhOWEzZDQ1YTk0NWY1NzljZGI4MGU3ZWRjMTMtMTY1MTA5MDUzNS5wbmcifQ:american-express:CXSN1eGpQI9qPqjVVXDEZ0CfOtDvGQHfiYYIzh-9qnU?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC80ZVwvODU0MlwvODY5ZGRhOWEzZDQ1YTk0NWY1NzljZGI4MGU3ZWRjMTMtMTY1MTA5MDUzNS5wbmcifQ:american-express:CXSN1eGpQI9qPqjVVXDEZ0CfOtDvGQHfiYYIzh-9qnU?width=800",
         "is_preview_document": false,
-        "is_new": false
+        "portfolio": "Proprietary Cobrand"
     },
     {
         "id": 8354,
@@ -2273,14 +2209,14 @@ export const Cards =  [
         "ext": "pdf",
         "project": 5,
         "title": "aircanada_superprem_mobile_payment_notes",
-        "width": 792,
-        "height": 612,
+        "audience": "Business",
+        "region": "NORAM",
         "token": "eyJpZCI6ODM1NCwidGltZXN0YW1wIjoiMTY3MzI2NjAyMSJ9:american-express:kf2MIGjX24lS2PrsN5-7E7eEyI4yNZTvtKTy8Y1bBYg",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC8wNlwvODM1NFwvYTUyNDkyYzlkYzhmMjBhOWVmZWE5Y2I2NzQxYjBiNjEtMTY1MTA3OTEwMy5wZGYifQ:american-express:BxqcnqneKzisYw2PNJ_oXGE066jJCeDQW8XgG3U9f7M?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC8wNlwvODM1NFwvYTUyNDkyYzlkYzhmMjBhOWVmZWE5Y2I2NzQxYjBiNjEtMTY1MTA3OTEwMy5wZGYifQ:american-express:BxqcnqneKzisYw2PNJ_oXGE066jJCeDQW8XgG3U9f7M?width=800",
         "is_preview_document": true,
-        "is_new": false
+        "portfolio": "Proprietary Cobrand"
     },
     {
         "id": 7896,
@@ -2289,14 +2225,14 @@ export const Cards =  [
         "ext": "pdf",
         "project": 5,
         "title": "corp_plat_ca_mobile_payment_notes",
-        "width": 792,
-        "height": 612,
+        "audience": "Business",
+        "region": "NORAM",
         "token": "eyJpZCI6Nzg5NiwidGltZXN0YW1wIjoiMTY3MzI2NjAyMSJ9:american-express:0Uk5C5VMXjQzc0EjyP9173HPSl2y-q0sQ3Gjv7ENSVM",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC84N1wvNzg5NlwvYjliZTkzMzFhMjFjMDQ2MTY5MTI2YjE4OGFiZjdiYmYtMTY1MTA3MzE3Ny5wZGYifQ:american-express:cPt_Zh0ELi7d2HpB5kpTJkjTvVIlAc9oMrk_cGH3mxA?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC84N1wvNzg5NlwvYjliZTkzMzFhMjFjMDQ2MTY5MTI2YjE4OGFiZjdiYmYtMTY1MTA3MzE3Ny5wZGYifQ:american-express:cPt_Zh0ELi7d2HpB5kpTJkjTvVIlAc9oMrk_cGH3mxA?width=800",
         "is_preview_document": true,
-        "is_new": false
+        "portfolio": "Proprietary Cobrand"
     },
     {
         "id": 8072,
@@ -2305,14 +2241,14 @@ export const Cards =  [
         "ext": "png",
         "project": 5,
         "title": "corp_green_ca_ap",
-        "width": 1536,
-        "height": 969,
+        "audience": "Business",
+        "region": "LAC",
         "token": "eyJpZCI6ODA3MiwidGltZXN0YW1wIjoiMTY3MzI2NjAyMSJ9:american-express:aiSJ0mWvKKtIWsP89rPbiG3PilCrem5NT8YTxXkqU7I",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC84NVwvODA3MlwvODUwZDdlMjBlNzM4ZWY0ZDA0YjQ5NGI5NjQ1MWE3MDAtMTY1MTA3NjAzOS5wbmcifQ:american-express:GNL5nsFwlq_rxFKX9HYxcmvPqIFHZvc0tU_N9_Gzkqg?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC84NVwvODA3MlwvODUwZDdlMjBlNzM4ZWY0ZDA0YjQ5NGI5NjQ1MWE3MDAtMTY1MTA3NjAzOS5wbmcifQ:american-express:GNL5nsFwlq_rxFKX9HYxcmvPqIFHZvc0tU_N9_Gzkqg?width=800",
         "is_preview_document": false,
-        "is_new": false
+        "portfolio": "Proprietary Cobrand"
     },
     {
         "id": 8238,
@@ -2321,14 +2257,14 @@ export const Cards =  [
         "ext": "pdf",
         "project": 5,
         "title": "aircanada_prem_1920x1216",
-        "width": 1920,
-        "height": 1216,
+        "audience": "Consumer",
+        "region": "APAC",
         "token": "eyJpZCI6ODIzOCwidGltZXN0YW1wIjoiMTY3MzI2NjAyMSJ9:american-express:hUDVIQnnAJ6ucUTwqv4FmXJa4IzKyX9GXS_dz30VAOQ",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9iMFwvODIzOFwvNmJmYWE0YTMwZDkxZDY1OWVmMDc5OTU2ZjhkNGI0ODgtMTY1MTA3NzgxNC5wZGYifQ:american-express:HBC307ARwUBvRG3kTF7Frq_rUZS9B1x4y-n139cNJbE?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9iMFwvODIzOFwvNmJmYWE0YTMwZDkxZDY1OWVmMDc5OTU2ZjhkNGI0ODgtMTY1MTA3NzgxNC5wZGYifQ:american-express:HBC307ARwUBvRG3kTF7Frq_rUZS9B1x4y-n139cNJbE?width=800",
         "is_preview_document": true,
-        "is_new": false
+        "portfolio": "Proprietary Cobrand"
     },
     {
         "id": 10643,
@@ -2337,14 +2273,14 @@ export const Cards =  [
         "ext": "png",
         "project": 5,
         "title": "chg_plat_metal_2018_ap",
-        "width": 1536,
-        "height": 969,
+        "audience": "Business",
+        "region": "LAC",
         "token": "eyJpZCI6MTA2NDMsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:rslvaPjJ2REdaLgudGVypIo8xShWC5wNRr7Nabg_bT0",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9mY1wvMTA2NDNcLzMwNGIzN2E3MzVhOTc5NzM1MmMzMmM4YjYyZjQ5OTYwLTE2NTE3Nzc3MjMucG5nIn0:american-express:PMq3Pn48GSN520MmCbsLpUo8aQTYi5wCHuFYPdb2C3Q?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9mY1wvMTA2NDNcLzMwNGIzN2E3MzVhOTc5NzM1MmMzMmM4YjYyZjQ5OTYwLTE2NTE3Nzc3MjMucG5nIn0:american-express:PMq3Pn48GSN520MmCbsLpUo8aQTYi5wCHuFYPdb2C3Q?width=800",
         "is_preview_document": false,
-        "is_new": false
+        "portfolio": "Proprietary Cobrand"
     },
     {
         "id": 7669,
@@ -2353,14 +2289,14 @@ export const Cards =  [
         "ext": "png",
         "project": 5,
         "title": "chg_gold_metal_ca_ap",
-        "width": 1536,
-        "height": 969,
+        "audience": "Business",
+        "region": "LAC",
         "token": "eyJpZCI6NzY2OSwidGltZXN0YW1wIjoiMTY3MzI2NjAyMSJ9:american-express:4XNIfSMmW2DlWBoMOk4S6fDgUfvtRc_oworElnRsO2U",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC85Y1wvNzY2OVwvYzUzYzE1ZTgzYThkNGVmZjcxYzQ5ZjFkOTBlYWExZjMtMTY1MDk5MjA2MC5wbmcifQ:american-express:QbsBdmnEKy4AlZ2CvcqKYQEjaFxHFgZhKiApptnCKFc?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC85Y1wvNzY2OVwvYzUzYzE1ZTgzYThkNGVmZjcxYzQ5ZjFkOTBlYWExZjMtMTY1MDk5MjA2MC5wbmcifQ:american-express:QbsBdmnEKy4AlZ2CvcqKYQEjaFxHFgZhKiApptnCKFc?width=800",
         "is_preview_document": false,
-        "is_new": false
+        "portfolio": "Proprietary Cobrand"
     },
     {
         "id": 7648,
@@ -2369,14 +2305,14 @@ export const Cards =  [
         "ext": "pdf",
         "project": 5,
         "title": "chg_green_ca_1920x1216",
-        "width": 1920,
-        "height": 1216,
+        "audience": "Consumer",
+        "region": "APAC",
         "token": "eyJpZCI6NzY0OCwidGltZXN0YW1wIjoiMTY3MzI2NjAyMSJ9:american-express:LglADC0NUVwFv0FZsjxpm6H6jq96qRP4gCkm8cLnNsw",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9hNlwvNzY0OFwvNGFlNzEwZjE5NDc5YWM2MjExYzAyZjJkNTQyYjY5M2QtMTY1MDkwMDE0Ni5wZGYifQ:american-express:E9doYMPNX1vNGaM0nPmvk5WeARp9VMe6-oMTrYL5Osw?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9hNlwvNzY0OFwvNGFlNzEwZjE5NDc5YWM2MjExYzAyZjJkNTQyYjY5M2QtMTY1MDkwMDE0Ni5wZGYifQ:american-express:E9doYMPNX1vNGaM0nPmvk5WeARp9VMe6-oMTrYL5Osw?width=800",
         "is_preview_document": true,
-        "is_new": false
+        "portfolio": "Proprietary Cobrand"
     },
     {
         "id": 14061,
@@ -2385,14 +2321,14 @@ export const Cards =  [
         "ext": "pdf",
         "project": 5,
         "title": "airpoints_plat_1920x1216.",
-        "width": 1920,
-        "height": 1216,
+        "audience": "Consumer",
+        "region": "APAC",
         "token": "eyJpZCI6MTQwNjEsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:C-3yqGWRkNMKUUQt_NklObMZtEYnb99LaMnscR3oaJM",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9hOVwvMTQwNjFcLzViZGM4ZGQ5NzliMzZhNWVmNWM5YWQwNmQ1N2YyMzIzLTE2NTQ2MjY3NzcucGRmIn0:american-express:wQnlBh7UIh4olECepWupoIuZqDwmh8SD_iAOfVZENYg?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9hOVwvMTQwNjFcLzViZGM4ZGQ5NzliMzZhNWVmNWM5YWQwNmQ1N2YyMzIzLTE2NTQ2MjY3NzcucGRmIn0:american-express:wQnlBh7UIh4olECepWupoIuZqDwmh8SD_iAOfVZENYg?width=800",
         "is_preview_document": true,
-        "is_new": false
+        "portfolio": "Proprietary Cobrand"
     },
     {
         "id": 14237,
@@ -2401,14 +2337,14 @@ export const Cards =  [
         "ext": "png",
         "project": 5,
         "title": "capitacard_ap",
-        "width": 1536,
-        "height": 969,
+        "audience": "Business",
+        "region": "LAC",
         "token": "eyJpZCI6MTQyMzcsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:-BnZ_UEzzKKCUEaiDCZitWJvC2NFXMRg6al1S5xsNLU",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC85MFwvMTQyMzdcL2Q2OTRhMTE2ZjkwMTU2NDkxOWE4MjBiMjJmZmQxM2FjLTE2NTQ2Mjc0MzUucG5nIn0:american-express:K-DOONT-JiaC6Sarg_gSr8KU8MOGhycTgeXsUbCprNg?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC85MFwvMTQyMzdcL2Q2OTRhMTE2ZjkwMTU2NDkxOWE4MjBiMjJmZmQxM2FjLTE2NTQ2Mjc0MzUucG5nIn0:american-express:K-DOONT-JiaC6Sarg_gSr8KU8MOGhycTgeXsUbCprNg?width=800",
         "is_preview_document": false,
-        "is_new": false
+        "portfolio": "Proprietary Cobrand"
     },
     {
         "id": 14120,
@@ -2417,14 +2353,14 @@ export const Cards =  [
         "ext": "pdf",
         "project": 5,
         "title": "airpoints_1920x1216.",
-        "width": 1920,
-        "height": 1216,
+        "audience": "Consumer",
+        "region": "APAC",
         "token": "eyJpZCI6MTQxMjAsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:0pww4fXhdy_AZMbf0d23auxRQ_BsLEsBherRvNO8kDc",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC8wYVwvMTQxMjBcLzlhOTliY2JjZGQ2YzEyNTQxOGFkNTgyNWU4Zjc1YTI5LTE2NTQ2MjY4ODEucGRmIn0:american-express:P9-zgzowSS1YY8eb80_nwF47AgsK7R_JzojMLoLcGSk?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC8wYVwvMTQxMjBcLzlhOTliY2JjZGQ2YzEyNTQxOGFkNTgyNWU4Zjc1YTI5LTE2NTQ2MjY4ODEucGRmIn0:american-express:P9-zgzowSS1YY8eb80_nwF47AgsK7R_JzojMLoLcGSk?width=800",
         "is_preview_document": true,
-        "is_new": false
+        "portfolio": "Proprietary"
     },
     {
         "id": 13929,
@@ -2433,14 +2369,14 @@ export const Cards =  [
         "ext": "pdf",
         "project": 5,
         "title": "sbs_plat_metal_jp_mobile_payment_notes",
-        "width": 792,
-        "height": 612,
+        "audience": "Business",
+        "region": "NORAM",
         "token": "eyJpZCI6MTM5MjksInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:45b_vW-_3CpJnaZLW6REkvPiAxyMQiygP-Fmv8IPeIM",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9mZlwvMTM5MjlcL2RkNDVjNGQ4ODQ3YjA0YTU4NmVhNGZhYTE3YjgwYWU3LTE2NTQxODc2OTMucGRmIn0:american-express:FAPYNHjg19L6vL1t5JKPt1xMFKNbs4UH9Su8Uo7YMy0?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9mZlwvMTM5MjlcL2RkNDVjNGQ4ODQ3YjA0YTU4NmVhNGZhYTE3YjgwYWU3LTE2NTQxODc2OTMucGRmIn0:american-express:FAPYNHjg19L6vL1t5JKPt1xMFKNbs4UH9Su8Uo7YMy0?width=800",
         "is_preview_document": true,
-        "is_new": false
+        "portfolio": "Proprietary"
     },
     {
         "id": 13581,
@@ -2449,14 +2385,14 @@ export const Cards =  [
         "ext": "png",
         "project": 5,
         "title": "hilton_base_jp_ap",
-        "width": 1536,
-        "height": 969,
+        "audience": "Business",
+        "region": "LAC",
         "token": "eyJpZCI6MTM1ODEsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:lKjx0vWYxpukXL9HDOR3z06GQfd37bfAXB88YptMxKU",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC8xMVwvMTM1ODFcL2U3OTg4NzdmZDYzM2VjYTZkZjQ2N2Q0OGEwZTdjMGM1LTE2NTQxODUyMTQucG5nIn0:american-express:pMmJC1sdyQMxcZGJrGTSQz7yGjPtKVuXSqMhI73UmC8?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC8xMVwvMTM1ODFcL2U3OTg4NzdmZDYzM2VjYTZkZjQ2N2Q0OGEwZTdjMGM1LTE2NTQxODUyMTQucG5nIn0:american-express:pMmJC1sdyQMxcZGJrGTSQz7yGjPtKVuXSqMhI73UmC8?width=800",
         "is_preview_document": false,
-        "is_new": false
+        "portfolio": "Proprietary"
     },
     {
         "id": 13643,
@@ -2465,14 +2401,14 @@ export const Cards =  [
         "ext": "png",
         "project": 5,
         "title": "ana_classic_jp_ap",
-        "width": 1536,
-        "height": 969,
+        "audience": "Business",
+        "region": "LAC",
         "token": "eyJpZCI6MTM2NDMsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:nEL9_W_BSEQwA3BIVV3Tb_WeO5Ox78vskQ6zM1NiStg",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC8xMlwvMTM2NDNcLzBlMjgyYjAzYzYwMjJiMWMwMDc2YWY1ZDY1MTViNTQ0LTE2NTQxODUyOTQucG5nIn0:american-express:fQgY4q-A2vHi-hjBMBW2WN4yZtpzQg9r2cFdhr5fs_E?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC8xMlwvMTM2NDNcLzBlMjgyYjAzYzYwMjJiMWMwMDc2YWY1ZDY1MTViNTQ0LTE2NTQxODUyOTQucG5nIn0:american-express:fQgY4q-A2vHi-hjBMBW2WN4yZtpzQg9r2cFdhr5fs_E?width=800",
         "is_preview_document": false,
-        "is_new": false
+        "portfolio": "Proprietary"
     },
     {
         "id": 12779,
@@ -2481,14 +2417,14 @@ export const Cards =  [
         "ext": "pdf",
         "project": 5,
         "title": "aeromexico_corp_gold_mobile_payment_notes",
-        "width": 792,
-        "height": 612,
+        "audience": "Business",
+        "region": "NORAM",
         "token": "eyJpZCI6MTI3NzksInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:SkU4f4ATN46n7wsc3kwf52NywNru9tQYDYhOtwgObok",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC81MlwvMTI3NzlcLzBjNmNlMzNhYmQxOGE4NTg0MDM4MDVjYzkzNTc0MWNjLTE2NTM0MjA2MjgucGRmIn0:american-express:iq441VJxFQSspOod4TPrS2wtL-Tc-Zvqk7ulvCcnZAI?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC81MlwvMTI3NzlcLzBjNmNlMzNhYmQxOGE4NTg0MDM4MDVjYzkzNTc0MWNjLTE2NTM0MjA2MjgucGRmIn0:american-express:iq441VJxFQSspOod4TPrS2wtL-Tc-Zvqk7ulvCcnZAI?width=800",
         "is_preview_document": true,
-        "is_new": false
+        "portfolio": "Proprietary"
     },
     {
         "id": 12571,
@@ -2497,14 +2433,14 @@ export const Cards =  [
         "ext": "png",
         "project": 5,
         "title": "polaris_bus_debit_ap_750x472",
-        "width": 750,
-        "height": 472,
+        "audience": "Business",
+        "region": "EMEA",
         "token": "eyJpZCI6MTI1NzEsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:JaJC7aZDfwJQe5mLO0JP5kyDsGfl5HImhaeDcMYfW_o",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9hMFwvMTI1NzFcL2VkZTM4NTk2YjNjZDkwZDdjNmU0YmIyNTRkZDE1ODMwLTE2NTMzMzg3NzgucG5nIn0:american-express:9mOPwkoqNBoI4kMCo6ZmgSXw8vF94czwJ8oVe-Lsd-E?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9hMFwvMTI1NzFcL2VkZTM4NTk2YjNjZDkwZDdjNmU0YmIyNTRkZDE1ODMwLTE2NTMzMzg3NzgucG5nIn0:american-express:9mOPwkoqNBoI4kMCo6ZmgSXw8vF94czwJ8oVe-Lsd-E?width=800",
         "is_preview_document": false,
-        "is_new": false
+        "portfolio": "Proprietary"
     },
     {
         "id": 12572,
@@ -2513,14 +2449,14 @@ export const Cards =  [
         "ext": "pdf",
         "project": 5,
         "title": "polaris_bus_debit_mobile_payment_repro_notes",
-        "width": 792,
-        "height": 612,
+        "audience": "Business",
+        "region": "NORAM",
         "token": "eyJpZCI6MTI1NzIsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:vA9xFn0GjMvMbPGqPxC4qZsYcaX0bhLbgyobuQlnj6Y",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC80Y1wvMTI1NzJcLzdhMjQyYmUyZTQ2NTYwYTAzZjU5YzNjOWRiOGFhYjZhLTE2NTMzMzg3NzgucGRmIn0:american-express:W55K0UZaYTvZWu0tTqTiXZCOsMCXynxd5urpxV7YdDA?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC80Y1wvMTI1NzJcLzdhMjQyYmUyZTQ2NTYwYTAzZjU5YzNjOWRiOGFhYjZhLTE2NTMzMzg3NzgucGRmIn0:american-express:W55K0UZaYTvZWu0tTqTiXZCOsMCXynxd5urpxV7YdDA?width=800",
         "is_preview_document": true,
-        "is_new": false
+        "portfolio": "Proprietary"
     },
     {
         "id": 12573,
@@ -2529,14 +2465,14 @@ export const Cards =  [
         "ext": "png",
         "project": 5,
         "title": "polaris_bus_debit_ap",
-        "width": 1536,
-        "height": 969,
+        "audience": "Business",
+        "region": "LAC",
         "token": "eyJpZCI6MTI1NzMsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:-DU4D_ns91HxZJT1fo_MiAQZ_-BxNGjvuioWv2M7x8E",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC85Y1wvMTI1NzNcL2UxNmUwNGM0YTIxYmMwNDhiZGViZmJjZDg2OTNkZTQyLTE2NTMzMzg3NzgucG5nIn0:american-express:W2AMioeLRAYXueRi480zofdH9tPVXA23MeG-NxJFCpA?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC85Y1wvMTI1NzNcL2UxNmUwNGM0YTIxYmMwNDhiZGViZmJjZDg2OTNkZTQyLTE2NTMzMzg3NzgucG5nIn0:american-express:W2AMioeLRAYXueRi480zofdH9tPVXA23MeG-NxJFCpA?width=800",
         "is_preview_document": false,
-        "is_new": false
+        "portfolio": "Proprietary"
     },
     {
         "id": 12574,
@@ -2545,14 +2481,14 @@ export const Cards =  [
         "ext": "png",
         "project": 5,
         "title": "polaris_bus_debit_ap_1125x708",
-        "width": 1125,
-        "height": 708,
+        "audience": "Consumer",
+        "region": "APAC",
         "token": "eyJpZCI6MTI1NzQsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:7esclbrhW0zLKfDO8W0H1ffBwoDbmfAkIyPM-NUixzk",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9hNlwvMTI1NzRcLzQzYTk5NGIzYzMxYzI1MjI4MWU1OTk5YWM3YzgzMTFiLTE2NTMzMzg3NzgucG5nIn0:american-express:bsk1MrYOEmv347PLih8owQAYC8u-fJEsVtlyKMstl1g?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9hNlwvMTI1NzRcLzQzYTk5NGIzYzMxYzI1MjI4MWU1OTk5YWM3YzgzMTFiLTE2NTMzMzg3NzgucG5nIn0:american-express:bsk1MrYOEmv347PLih8owQAYC8u-fJEsVtlyKMstl1g?width=800",
         "is_preview_document": false,
-        "is_new": false
+        "portfolio": "Proprietary"
     },
     {
         "id": 12119,
@@ -2561,14 +2497,14 @@ export const Cards =  [
         "ext": "png",
         "project": 5,
         "title": "hilton_aspire_ap_308x194",
-        "width": 308,
-        "height": 194,
+       "audience": "Corporate",
+        "region": "LAC",
         "token": "eyJpZCI6MTIxMTksInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:c1V9S8kQpwi3QfxhdWth6RJwPye8nJdRKlwXrISlKp4",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC85ZlwvMTIxMTlcLzBlY2Y0NjEwZjZjZWU3YzQ2YzY3OWJiMmMyZTNiNDU3LTE2NTI5ODE3NjYucG5nIn0:american-express:40unhFedZkMm4ugQUpZwqI-aMDq6GQWbdPKUZ2yNnPI?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC85ZlwvMTIxMTlcLzBlY2Y0NjEwZjZjZWU3YzQ2YzY3OWJiMmMyZTNiNDU3LTE2NTI5ODE3NjYucG5nIn0:american-express:40unhFedZkMm4ugQUpZwqI-aMDq6GQWbdPKUZ2yNnPI?width=800",
         "is_preview_document": false,
-        "is_new": false
+        "portfolio": "Proprietary"
     },
     {
         "id": 12123,
@@ -2577,14 +2513,14 @@ export const Cards =  [
         "ext": "png",
         "project": 5,
         "title": "hilton_aspire_ap_750x472",
-        "width": 750,
-        "height": 472,
+        "audience": "Business",
+        "region": "EMEA",
         "token": "eyJpZCI6MTIxMjMsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:NhTo41hcfVt34pSf6TNVHcGl5Ribopo8Leku-T9QluM",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC8wYVwvMTIxMjNcL2I1NzJiZjE3ZDJjNmE0MzRhYzY4MWI0YmQzZDkyOWYwLTE2NTI5ODE3NjYucG5nIn0:american-express:SiRttXM71_eB9cOAoIElUCXcEKGAdH-9YGRskgpunAk?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC8wYVwvMTIxMjNcL2I1NzJiZjE3ZDJjNmE0MzRhYzY4MWI0YmQzZDkyOWYwLTE2NTI5ODE3NjYucG5nIn0:american-express:SiRttXM71_eB9cOAoIElUCXcEKGAdH-9YGRskgpunAk?width=800",
         "is_preview_document": false,
-        "is_new": false
+        "portfolio": "Proprietary"
     },
     {
         "id": 12052,
@@ -2593,14 +2529,14 @@ export const Cards =  [
         "ext": "pdf",
         "project": 5,
         "title": "delta_reserve_sbs_mobile_payment_notes",
-        "width": 792,
-        "height": 612,
+        "audience": "Business",
+        "region": "NORAM",
         "token": "eyJpZCI6MTIwNTIsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:MUsqWeqJcYORjrN_tlss1MfDLmB-isgLMXrAdIs5JXY",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9iZVwvMTIwNTJcLzg5YjMzNGRlNTA3MzNkMTc5M2UyYjYxZGQ1YmEwYjlkLTE2NTI5NzgyMDgucGRmIn0:american-express:diwPZepDB1CYTYJU_ejLNECxkJzHX72A59IdHeMpcIk?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9iZVwvMTIwNTJcLzg5YjMzNGRlNTA3MzNkMTc5M2UyYjYxZGQ1YmEwYjlkLTE2NTI5NzgyMDgucGRmIn0:american-express:diwPZepDB1CYTYJU_ejLNECxkJzHX72A59IdHeMpcIk?width=800",
         "is_preview_document": true,
-        "is_new": false
+        "portfolio": "Proprietary"
     },
     {
         "id": 12564,
@@ -2609,14 +2545,14 @@ export const Cards =  [
         "ext": "png",
         "project": 5,
         "title": "alinea_debit_ap_750x472",
-        "width": 750,
-        "height": 472,
+        "audience": "Business",
+        "region": "EMEA",
         "token": "eyJpZCI6MTI1NjQsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:crqXKv2xggSmJ1q1wwzow3_oGuqDH4piMkfPpzg0BDk",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC83OVwvMTI1NjRcLzE0ZGJmNWUwMWJhM2NiYTY2ZDk3MGU5MjQ5MjUwM2M2LTE2NTMzMzgyNDUucG5nIn0:american-express:lSFvw30VyIJBgqQRHVqQwIrOPYFIMfSNQIl_jiy54_g?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC83OVwvMTI1NjRcLzE0ZGJmNWUwMWJhM2NiYTY2ZDk3MGU5MjQ5MjUwM2M2LTE2NTMzMzgyNDUucG5nIn0:american-express:lSFvw30VyIJBgqQRHVqQwIrOPYFIMfSNQIl_jiy54_g?width=800",
         "is_preview_document": false,
-        "is_new": false
+        "portfolio": "Proprietary"
     },
     {
         "id": 12341,
@@ -2625,14 +2561,14 @@ export const Cards =  [
         "ext": "png",
         "project": 5,
         "title": "hilton_base_ap_1125x708",
-        "width": 1125,
-        "height": 708,
+        "audience": "Consumer",
+        "region": "APAC",
         "token": "eyJpZCI6MTIzNDEsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:mzbdScpVBzGFaWxJ9wRgp7MAyu8od-4NKmygK-hKuX8",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9mMVwvMTIzNDFcL2I4MTNkODU0NDYxMDIyNzJhZjBkMGMzMmZiYmRiYmUzLTE2NTI5ODIzMzcucG5nIn0:american-express:cYE5STc__GjVoHrwTbBqLtUllm3lGdyhi6f-7VnPzKA?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9mMVwvMTIzNDFcL2I4MTNkODU0NDYxMDIyNzJhZjBkMGMzMmZiYmRiYmUzLTE2NTI5ODIzMzcucG5nIn0:american-express:cYE5STc__GjVoHrwTbBqLtUllm3lGdyhi6f-7VnPzKA?width=800",
         "is_preview_document": false,
-        "is_new": false
+        "portfolio": "Proprietary"
     },
     {
         "id": 12245,
@@ -2641,14 +2577,14 @@ export const Cards =  [
         "ext": "pdf",
         "project": 5,
         "title": "hilton_business_1920x1216",
-        "width": 1920,
-        "height": 1216,
+        "audience": "Consumer",
+        "region": "APAC",
         "token": "eyJpZCI6MTIyNDUsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:brtAb_1eQMSlpFWIf3Ij2kUudMzi-zUYnsNvljLBCDk",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9hZlwvMTIyNDVcLzVhODM2NWI2ZGZjOGYwN2NjNWQyMzBjN2ZmNGYyOWUzLTE2NTI5ODIxMDYucGRmIn0:american-express:WOT74dW7IjZ_BjcLMDNFtkO50S4V4EHoB8H854Yx_dI?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9hZlwvMTIyNDVcLzVhODM2NWI2ZGZjOGYwN2NjNWQyMzBjN2ZmNGYyOWUzLTE2NTI5ODIxMDYucGRmIn0:american-express:WOT74dW7IjZ_BjcLMDNFtkO50S4V4EHoB8H854Yx_dI?width=800",
         "is_preview_document": true,
-        "is_new": false
+        "portfolio": "Proprietary"
     },
     {
         "id": 11981,
@@ -2657,14 +2593,14 @@ export const Cards =  [
         "ext": "pdf",
         "project": 5,
         "title": "delta_plat_sbs_1920x1216",
-        "width": 1920,
-        "height": 1216,
+        "audience": "Consumer",
+        "region": "APAC",
         "token": "eyJpZCI6MTE5ODEsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:LOMeWKSFVVWgsi08r7irZ-XBLPRkA4jKizpq-ME4Kbk",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC82M1wvMTE5ODFcLzgxYzVmNWNlYWM3N2EyMTg4YjBmYzYzN2NlYzdhMGY0LTE2NTI5NzczNzQucGRmIn0:american-express:q04zGOYBWOWvRAZzUcEgv4BK1x1EHfKlD2MfVcj8Qjk?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC82M1wvMTE5ODFcLzgxYzVmNWNlYWM3N2EyMTg4YjBmYzYzN2NlYzdhMGY0LTE2NTI5NzczNzQucGRmIn0:american-express:q04zGOYBWOWvRAZzUcEgv4BK1x1EHfKlD2MfVcj8Qjk?width=800",
         "is_preview_document": true,
-        "is_new": false
+        "portfolio": "Proprietary"
     },
     {
         "id": 11914,
@@ -2673,14 +2609,14 @@ export const Cards =  [
         "ext": "pdf",
         "project": 5,
         "title": "delta_plat_cons_1920x1216",
-        "width": 1920,
-        "height": 1216,
+        "audience": "Consumer",
+        "region": "APAC",
         "token": "eyJpZCI6MTE5MTQsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:3moeKTdRSlGkMpUwGzyzhnMRtq9AZlaJYidd-1xWixE",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9hYlwvMTE5MTRcL2Y4NDA5ODliNGU1YTlkYjQzMGRkZDQzZmMyZjlmMTQ0LTE2NTI5NzY5NzIucGRmIn0:american-express:X3D6XAJcf2hE_hPFgSQJ2l6248xsex0nzqJ3W0_z5Dw?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9hYlwvMTE5MTRcL2Y4NDA5ODliNGU1YTlkYjQzMGRkZDQzZmMyZjlmMTQ0LTE2NTI5NzY5NzIucGRmIn0:american-express:X3D6XAJcf2hE_hPFgSQJ2l6248xsex0nzqJ3W0_z5Dw?width=800",
         "is_preview_document": true,
-        "is_new": false
+        "portfolio": "Proprietary"
     },
     {
         "id": 11846,
@@ -2689,14 +2625,14 @@ export const Cards =  [
         "ext": "pdf",
         "project": 5,
         "title": "delta_gold_sbs_1920x1216",
-        "width": 1920,
-        "height": 1216,
+        "audience": "Consumer",
+        "region": "APAC",
         "token": "eyJpZCI6MTE4NDYsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:dBAR4HzlBa_i8NKW99304upp2Zx9cNJ88lslPynoaaM",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9iM1wvMTE4NDZcL2Q5NjU4ZTBiNDFiNzgwNDA3MzY2Yzk2Y2FmNTIxZTc5LTE2NTI5NzY1OTgucGRmIn0:american-express:3nphhXEZ16KNyzlU4Od0sqVlCPHNa_5mwvlWUEmRNTg?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9iM1wvMTE4NDZcL2Q5NjU4ZTBiNDFiNzgwNDA3MzY2Yzk2Y2FmNTIxZTc5LTE2NTI5NzY1OTgucGRmIn0:american-express:3nphhXEZ16KNyzlU4Od0sqVlCPHNa_5mwvlWUEmRNTg?width=800",
         "is_preview_document": true,
-        "is_new": false
+        "portfolio": "Proprietary"
     },
     {
         "id": 11485,
@@ -2705,14 +2641,14 @@ export const Cards =  [
         "ext": "pdf",
         "project": 5,
         "title": "cashmagnet_1920x1216",
-        "width": 1920,
-        "height": 1216,
+        "audience": "Consumer",
+        "region": "APAC",
         "token": "eyJpZCI6MTE0ODUsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:ernKKBLgDktDBp2aZ_c-tOm0vxWEWNhuVKLA3_RXbrI",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9kYVwvMTE0ODVcL2U3Nzc2OTEyYTE2OTcyYmMwNmM1ZmZjM2E2YjQ5NmFlLTE2NTI5NzUwODgucGRmIn0:american-express:UW8H66dE6XTdFo51cDEt16MvpREdxpz15vNOHCGRpkg?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9kYVwvMTE0ODVcL2U3Nzc2OTEyYTE2OTcyYmMwNmM1ZmZjM2E2YjQ5NmFlLTE2NTI5NzUwODgucGRmIn0:american-express:UW8H66dE6XTdFo51cDEt16MvpREdxpz15vNOHCGRpkg?width=800",
         "is_preview_document": true,
-        "is_new": false
+        "portfolio": "Proprietary"
     },
     {
         "id": 11721,
@@ -2721,14 +2657,14 @@ export const Cards =  [
         "ext": "pdf",
         "project": 5,
         "title": "delta_blue_mobile_payment_notes",
-        "width": 792,
-        "height": 612,
+        "audience": "Business",
+        "region": "NORAM",
         "token": "eyJpZCI6MTE3MjEsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:hyRz_0xlVA7HjUuNlNdxRYSd7TIKqVmMvrPdHlmTwhE",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC8yYlwvMTE3MjFcL2ZkNTJkYWI1ZTI5YzY2MmNjZjZjOWZmNzVlNWIzMTI3LTE2NTI5NzYwNDEucGRmIn0:american-express:xlFFv_h7fcmVvsCf2LvB6mlSQrEd7ApnF-BQ97RPPq0?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC8yYlwvMTE3MjFcL2ZkNTJkYWI1ZTI5YzY2MmNjZjZjOWZmNzVlNWIzMTI3LTE2NTI5NzYwNDEucGRmIn0:american-express:xlFFv_h7fcmVvsCf2LvB6mlSQrEd7ApnF-BQ97RPPq0?width=800",
         "is_preview_document": true,
-        "is_new": false
+        "portfolio": "Proprietary"
     },
     {
         "id": 11267,
@@ -2737,14 +2673,14 @@ export const Cards =  [
         "ext": "pdf",
         "project": 5,
         "title": "chg_green_mercury_mobile_payment_notes",
-        "width": 792,
-        "height": 612,
+        "audience": "Business",
+        "region": "NORAM",
         "token": "eyJpZCI6MTEyNjcsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:jrNkx5U097t19tBFMe3DqXe77tuKeyzfq85ub2QuqDE",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC8xNVwvMTEyNjdcLzM4MWQzZmY5YTg2YjI4NDdlMmI1MjIyZjIzMmExMjU4LTE2NTI5MTAyOTkucGRmIn0:american-express:adoxiUcp0b6BeURhelBfN33zI-MC9Bq74VQRR7yyV7U?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC8xNVwvMTEyNjdcLzM4MWQzZmY5YTg2YjI4NDdlMmI1MjIyZjIzMmExMjU4LTE2NTI5MTAyOTkucGRmIn0:american-express:adoxiUcp0b6BeURhelBfN33zI-MC9Bq74VQRR7yyV7U?width=800",
         "is_preview_document": true,
-        "is_new": false
+        "portfolio": "Proprietary"
     },
     {
         "id": 10911,
@@ -2753,14 +2689,14 @@ export const Cards =  [
         "ext": "pdf",
         "project": 5,
         "title": "sbs_plat_metal_2018_mobile_payment_notes",
-        "width": 792,
-        "height": 612,
+        "audience": "Business",
+        "region": "NORAM",
         "token": "eyJpZCI6MTA5MTEsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:b_I_056j48_DdxzXMWR85X1iwoNw0QCUs8x5r_Xpw74",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC82YlwvMTA5MTFcL2Y1YThlNTA0ZGJmMWM5NzE0MmZkNTYwY2FmNjZmYjcyLTE2NTIzODU4NDkucGRmIn0:american-express:TuBxgBBYj0H5SxfGAEEEq3HxLrThzhrKyDf0NNEQvog?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC82YlwvMTA5MTFcL2Y1YThlNTA0ZGJmMWM5NzE0MmZkNTYwY2FmNjZmYjcyLTE2NTIzODU4NDkucGRmIn0:american-express:TuBxgBBYj0H5SxfGAEEEq3HxLrThzhrKyDf0NNEQvog?width=800",
         "is_preview_document": true,
-        "is_new": false
+        "portfolio": "Proprietary"
     },
     {
         "id": 11218,
@@ -2769,14 +2705,14 @@ export const Cards =  [
         "ext": "pdf",
         "project": 5,
         "title": "chg_gold_metal_v2_1920x1216",
-        "width": 1920,
-        "height": 1216,
+        "audience": "Consumer",
+        "region": "APAC",
         "token": "eyJpZCI6MTEyMTgsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:kfSASQY_vF9u8gk2CAbiVX06o2B-l0i9WH46n-WrIEw",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC81NlwvMTEyMThcLzIwYWRhNmFhMzZmYjUxMGFjN2E1NDNiMzI3ZTFiYjNkLTE2NTI5MTAwNzcucGRmIn0:american-express:dNzpD9pN-Cbu5YaklzZsII4uqgqav6miIVNTDZZ4RfA?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC81NlwvMTEyMThcLzIwYWRhNmFhMzZmYjUxMGFjN2E1NDNiMzI3ZTFiYjNkLTE2NTI5MTAwNzcucGRmIn0:american-express:dNzpD9pN-Cbu5YaklzZsII4uqgqav6miIVNTDZZ4RfA?width=800",
         "is_preview_document": true,
-        "is_new": false
+        "portfolio": "Proprietary"
     },
     {
         "id": 11219,
@@ -2785,14 +2721,14 @@ export const Cards =  [
         "ext": "pdf",
         "project": 5,
         "title": "chg_gold_metal_v2_mobile_payment_notes",
-        "width": 792,
-        "height": 612,
+        "audience": "Business",
+        "region": "NORAM",
         "token": "eyJpZCI6MTEyMTksInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:nEV4S48A_MSE6khPV9wlzrV7C5nSlNUy-GnGB4SRfpg",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9kN1wvMTEyMTlcLzc0YjlkMTllNmIxZTYwZWNhM2YzMTQ4YjgzYTMyNGQ4LTE2NTI5MTAwNzcucGRmIn0:american-express:bt7d3lMX0J-NrDX4ZgH8rFMkIoODswqqQyKuujwR8sg?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9kN1wvMTEyMTlcLzc0YjlkMTllNmIxZTYwZWNhM2YzMTQ4YjgzYTMyNGQ4LTE2NTI5MTAwNzcucGRmIn0:american-express:bt7d3lMX0J-NrDX4ZgH8rFMkIoODswqqQyKuujwR8sg?width=800",
         "is_preview_document": true,
-        "is_new": false
+        "portfolio": "Proprietary"
     },
     {
         "id": 11163,
@@ -2801,14 +2737,14 @@ export const Cards =  [
         "ext": "pdf",
         "project": 5,
         "title": "corp_gold_metal_1920x1216",
-        "width": 1920,
-        "height": 1216,
+        "audience": "Consumer",
+        "region": "APAC",
         "token": "eyJpZCI6MTExNjMsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:03cn7tv38tEN_OhZlpFGzUJd0IJeyha84YzkkpU8nRU",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC8xN1wvMTExNjNcLzA2ZTgzNjJhODdiY2Q0MGQyOTNjNGMxY2NmYTk3MzIwLTE2NTI5MDk5MjMucGRmIn0:american-express:7adFjI0eIB0LWzHLkO-UMLZA3IubID4xIS2wxyefMFw?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC8xN1wvMTExNjNcLzA2ZTgzNjJhODdiY2Q0MGQyOTNjNGMxY2NmYTk3MzIwLTE2NTI5MDk5MjMucGRmIn0:american-express:7adFjI0eIB0LWzHLkO-UMLZA3IubID4xIS2wxyefMFw?width=800",
         "is_preview_document": true,
-        "is_new": false
+        "portfolio": "Proprietary"
     },
     {
         "id": 10968,
@@ -2817,14 +2753,14 @@ export const Cards =  [
         "ext": "pdf",
         "project": 5,
         "title": "chg_rosegold_metal_v2_mobile_payment_notes",
-        "width": 792,
-        "height": 612,
+        "audience": "Business",
+        "region": "NORAM",
         "token": "eyJpZCI6MTA5NjgsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:ZDTHRhlAKyDuQmRMdXNmaOms5wS1Ezjmkkzvfh-H6TA",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC81M1wvMTA5NjhcLzc0ZTY5NzY4MTU4NzZkYzZjZTRkZWVmZWU5ZTY3N2YwLTE2NTIzODY3NjgucGRmIn0:american-express:A5NYU3vCe8hDHSbrN7a9DHYs6MMKVOfWRe7ftg4sqXY?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC81M1wvMTA5NjhcLzc0ZTY5NzY4MTU4NzZkYzZjZTRkZWVmZWU5ZTY3N2YwLTE2NTIzODY3NjgucGRmIn0:american-express:A5NYU3vCe8hDHSbrN7a9DHYs6MMKVOfWRe7ftg4sqXY?width=800",
         "is_preview_document": true,
-        "is_new": false
+        "portfolio": "Proprietary"
     },
     {
         "id": 10969,
@@ -2833,14 +2769,14 @@ export const Cards =  [
         "ext": "pdf",
         "project": 5,
         "title": "chg_rosegold_metal_v2_1920x1216",
-        "width": 1920,
-        "height": 1216,
+        "audience": "Consumer",
+        "region": "APAC",
         "token": "eyJpZCI6MTA5NjksInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:eApRZeaJz9GVJRKaZGItpbcuzZ63hYnUZux5AEivF_8",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC8wMlwvMTA5NjlcL2YzZmFiMTQ3YmNjMmU2ZDYyNDdhZWVhOTBlYjQwMmE1LTE2NTIzODY3NjgucGRmIn0:american-express:Z9JRWh0Vi2Vz3PdfQQlsASVUJ6a-IdNWTok8QNN7F9M?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC8wMlwvMTA5NjlcL2YzZmFiMTQ3YmNjMmU2ZDYyNDdhZWVhOTBlYjQwMmE1LTE2NTIzODY3NjgucGRmIn0:american-express:Z9JRWh0Vi2Vz3PdfQQlsASVUJ6a-IdNWTok8QNN7F9M?width=800",
         "is_preview_document": true,
-        "is_new": false
+        "portfolio": "Proprietary"
     },
     {
         "id": 10561,
@@ -2849,14 +2785,14 @@ export const Cards =  [
         "ext": "pdf",
         "project": 5,
         "title": "vitality_1920x1216",
-        "width": 1920,
-        "height": 1216,
+        "audience": "Consumer",
+        "region": "APAC",
         "token": "eyJpZCI6MTA1NjEsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:SHH-WLM74v5g6IZYt-jqLX1CipnQc4SZg15BgK84bxM",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC82OVwvMTA1NjFcL2E1YTcwYzY5ODA5MzA1MzVlMjI2ZjI0ZjgxOTE3NjMwLTE2NTE2OTI5MzUucGRmIn0:american-express:kaPZg7XEHqpUVVhDq_wqh3uLtM4fjmUUsh0ieD5EUqA?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC82OVwvMTA1NjFcL2E1YTcwYzY5ODA5MzA1MzVlMjI2ZjI0ZjgxOTE3NjMwLTE2NTE2OTI5MzUucGRmIn0:american-express:kaPZg7XEHqpUVVhDq_wqh3uLtM4fjmUUsh0ieD5EUqA?width=800",
         "is_preview_document": true,
-        "is_new": false
+        "portfolio": "Proprietary"
     },
     {
         "id": 10456,
@@ -2865,14 +2801,14 @@ export const Cards =  [
         "ext": "pdf",
         "project": 5,
         "title": "amazon_sbs_base_uk_1920x1216_Flux",
-        "width": 1920,
-        "height": 1216,
+        "audience": "Consumer",
+        "region": "APAC",
         "token": "eyJpZCI6MTA0NTYsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:zDp1e6LGU5i32jkGkBgGNuRYZCX88xOpwO9RT-t-kU0",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC81Y1wvMTA0NTZcLzVjMTM0OGVkNWI1M2UzMWZmOTQ3OGM4YWMyZmQ2NjAzLTE2NTE2OTE2ODkucGRmIn0:american-express:36Z7TOh0bq9XgDAGHOng-GF-eKlVOM71CQgNZOvFHYE?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC81Y1wvMTA0NTZcLzVjMTM0OGVkNWI1M2UzMWZmOTQ3OGM4YWMyZmQ2NjAzLTE2NTE2OTE2ODkucGRmIn0:american-express:36Z7TOh0bq9XgDAGHOng-GF-eKlVOM71CQgNZOvFHYE?width=800",
         "is_preview_document": true,
-        "is_new": false
+        "portfolio": "Proprietary"
     },
     {
         "id": 10458,
@@ -2881,14 +2817,14 @@ export const Cards =  [
         "ext": "pdf",
         "project": 5,
         "title": "amazon_sbs_base_uk_mobile_payment_notes",
-        "width": 792,
-        "height": 612,
+        "audience": "Business",
+        "region": "NORAM",
         "token": "eyJpZCI6MTA0NTgsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:mw8Fg6Cf8EGIubym0nS94b9AO2lVQzp6pMTT5jlunOQ",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9hMlwvMTA0NThcLzljYzlkZjNhOThmMGJlYjRjNjM3NTNkMjIwNDg1MGQyLTE2NTE2OTE2ODkucGRmIn0:american-express:YG4sUMuNYtVAu801lAqiMtQM7D4In7JgkfzcC_VIHBw?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9hMlwvMTA0NThcLzljYzlkZjNhOThmMGJlYjRjNjM3NTNkMjIwNDg1MGQyLTE2NTE2OTE2ODkucGRmIn0:american-express:YG4sUMuNYtVAu801lAqiMtQM7D4In7JgkfzcC_VIHBw?width=800",
         "is_preview_document": true,
-        "is_new": false
+        "portfolio": "Proprietary"
     },
     {
         "id": 10452,
@@ -2897,14 +2833,14 @@ export const Cards =  [
         "ext": "png",
         "project": 5,
         "title": "amazon_bus_prime_uk_ap_750x472",
-        "width": 750,
-        "height": 472,
+        "audience": "Business",
+        "region": "EMEA",
         "token": "eyJpZCI6MTA0NTIsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:r5Sv-N0txJ5_AT2D6kV8mudlLAV60VN38va9Fx3ojHc",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC8zY1wvMTA0NTJcLzg5YTUzNGQ1MTM2MjExODBkYzE1ZTc5NzcyZDc1ZjVkLTE2NTE2OTEwMDMucG5nIn0:american-express:Ls2Xfu7nyY5Pf58sBA6oCoOtXK913avqx59cm2ZcdOA?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC8zY1wvMTA0NTJcLzg5YTUzNGQ1MTM2MjExODBkYzE1ZTc5NzcyZDc1ZjVkLTE2NTE2OTEwMDMucG5nIn0:american-express:Ls2Xfu7nyY5Pf58sBA6oCoOtXK913avqx59cm2ZcdOA?width=800",
         "is_preview_document": false,
-        "is_new": false
+        "portfolio": "Proprietary"
     },
     {
         "id": 10453,
@@ -2913,8 +2849,8 @@ export const Cards =  [
         "ext": "indd",
         "project": 5,
         "title": "amazon_business_prime_UK_mobile_payment_repro_notes",
-        "width": 256,
-        "height": 198,
+        "audience": "Consumer",
+        "region": "APAC",
         "video_height": null,
         "video_width": null,
         "object_type": "FILE",
@@ -2930,7 +2866,7 @@ export const Cards =  [
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC80OFwvMTA0NTNcLzIwMzcxYTBkNDhkZmI3YzM4ZDdlNWY1NDAxMmU0OWYyLTE2NTE2OTEwMDMuaW5kZCJ9:american-express:DSen2Sp5jS50eNL_fiIWn4wgx153CpuO0U9l7tRZwJk?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC80OFwvMTA0NTNcLzIwMzcxYTBkNDhkZmI3YzM4ZDdlNWY1NDAxMmU0OWYyLTE2NTE2OTEwMDMuaW5kZCJ9:american-express:DSen2Sp5jS50eNL_fiIWn4wgx153CpuO0U9l7tRZwJk?width=800",
         "is_preview_document": false,
-        "is_new": false
+        "portfolio": "Proprietary"
     },
     {
         "id": 10273,
@@ -2939,14 +2875,14 @@ export const Cards =  [
         "ext": "png",
         "project": 5,
         "title": "sbs_gold_ap",
-        "width": 1536,
-        "height": 969,
+        "audience": "Business",
+        "region": "LAC",
         "token": "eyJpZCI6MTAyNzMsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:soUgx5Udk1U86xJGw7eGn0TDYqiQksovbW211LJDVns",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC85OVwvMTAyNzNcL2VjZjYxYzE1YmVlMDVmOThmNDg3ZDk2NDAxYTMwYjVkLTE2NTEyNzAxNzMucG5nIn0:american-express:IlQiEc9MhAaIfVVVtEpBFGiSIRbhvMQFmFAd-dg3Lsg?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC85OVwvMTAyNzNcL2VjZjYxYzE1YmVlMDVmOThmNDg3ZDk2NDAxYTMwYjVkLTE2NTEyNzAxNzMucG5nIn0:american-express:IlQiEc9MhAaIfVVVtEpBFGiSIRbhvMQFmFAd-dg3Lsg?width=800",
         "is_preview_document": false,
-        "is_new": false
+        "portfolio": "Proprietary"
     },
     {
         "id": 10156,
@@ -2955,14 +2891,14 @@ export const Cards =  [
         "ext": "png",
         "project": 5,
         "title": "corp_gold_ap",
-        "width": 1536,
-        "height": 969,
+        "audience": "Corporate",
+        "region": "LAC",
         "token": "eyJpZCI6MTAxNTYsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:ck05kAoBtoK6QFMgTskFkZERBiqsAP_fOlYY7XjtVck",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9mM1wvMTAxNTZcLzhjOGI5ZTY0M2VhMDRiNWMyMjMzNmFlZDQwNjZjMTg3LTE2NTEyNjkzNzgucG5nIn0:american-express:PzmhYMOeEJZo4h9m2I5UDro5FkoBd5d6Y_WMR2J3Bdc?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9mM1wvMTAxNTZcLzhjOGI5ZTY0M2VhMDRiNWMyMjMzNmFlZDQwNjZjMTg3LTE2NTEyNjkzNzgucG5nIn0:american-express:PzmhYMOeEJZo4h9m2I5UDro5FkoBd5d6Y_WMR2J3Bdc?width=800",
         "is_preview_document": false,
-        "is_new": false
+        "portfolio": "Proprietary"
     },
     {
         "id": 10103,
@@ -2971,14 +2907,14 @@ export const Cards =  [
         "ext": "pdf",
         "project": 5,
         "title": "chg_rosegold_metal_v2_1920x1216",
-        "width": 1920,
-        "height": 1216,
+        "audience": "Consumer",
+        "region": "APAC",
         "token": "eyJpZCI6MTAxMDMsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:bMn6Ln_gaiXdClAHirS1CohW8snXKsXEMUJpTTOrsms",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9mNVwvMTAxMDNcLzE3MzBlZTZjMDVmMTY0OWQ2NzMzYzEyMWZmMmY4YTZmLTE2NTEyNjUwNTkucGRmIn0:american-express:ikJ_-t_hOLHopEbIZBPDj21DYdSHi9K6-bH4eHAJxWE?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9mNVwvMTAxMDNcLzE3MzBlZTZjMDVmMTY0OWQ2NzMzYzEyMWZmMmY4YTZmLTE2NTEyNjUwNTkucGRmIn0:american-express:ikJ_-t_hOLHopEbIZBPDj21DYdSHi9K6-bH4eHAJxWE?width=800",
         "is_preview_document": true,
-        "is_new": false
+        "portfolio": "Proprietary"
     },
     {
         "id": 10104,
@@ -2987,14 +2923,14 @@ export const Cards =  [
         "ext": "pdf",
         "project": 5,
         "title": "chg_rosegold_metal_mobile_payment_notes",
-        "width": 792,
-        "height": 612,
+        "audience": "Corporate",
+        "region": "NORAM",
         "token": "eyJpZCI6MTAxMDQsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:E1wDS-6TTRiFX_sYjdVsZZLVyP9Gn4-YYKNPfrjRWsU",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9hYlwvMTAxMDRcLzliYmM2ZjQyZDc4Y2Y0Nzk2NTJmMTM5ZmUxMmNiMmNiLTE2NTEyNjUwNTkucGRmIn0:american-express:XgCg2X8Zt295LY0XQ2hdGqcccUeXYrmLmk0q9jyhWX8?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9hYlwvMTAxMDRcLzliYmM2ZjQyZDc4Y2Y0Nzk2NTJmMTM5ZmUxMmNiMmNiLTE2NTEyNjUwNTkucGRmIn0:american-express:XgCg2X8Zt295LY0XQ2hdGqcccUeXYrmLmk0q9jyhWX8?width=800",
         "is_preview_document": true,
-        "is_new": false
+        "portfolio": "Proprietary"
     },
     {
         "id": 10001,
@@ -3003,14 +2939,14 @@ export const Cards =  [
         "ext": "png",
         "project": 5,
         "title": "chg_gold_metal_v2_ap",
-        "width": 1536,
-        "height": 969,
+        "audience": "Corporate",
+        "region": "NORAM",
         "token": "eyJpZCI6MTAwMDEsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:wiqcM9fLthVzpMpcU3EL9g7A23BaxiDS8p3ElnUHkkU",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9kOFwvMTAwMDFcL2NhNGNkZWE0ZTc4YjMxMTRiYzY1YzFiMjM3NGIyOGMxLTE2NTEyNjMwODUucG5nIn0:american-express:nRl36ju6lm0SEO2xcXf7bD5nN-vFcKq9hLQE3RylabQ?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9kOFwvMTAwMDFcL2NhNGNkZWE0ZTc4YjMxMTRiYzY1YzFiMjM3NGIyOGMxLTE2NTEyNjMwODUucG5nIn0:american-express:nRl36ju6lm0SEO2xcXf7bD5nN-vFcKq9hLQE3RylabQ?width=800",
         "is_preview_document": false,
-        "is_new": false
+        "portfolio": "Proprietary"
     },
     {
         "id": 9957,
@@ -3019,14 +2955,14 @@ export const Cards =  [
         "ext": "png",
         "project": 5,
         "title": "amazon_sbs_prime_de_ap_1125x708",
-        "width": 1125,
-        "height": 708,
+        "audience": "Corporate",
+        "region": "NORAM",
         "token": "eyJpZCI6OTk1NywidGltZXN0YW1wIjoiMTY3MzI2NjAyMSJ9:american-express:3SNcaDJdtK54en3mOLtV25sIAYUffPC0z9rsf6_Sals",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC8wYVwvOTk1N1wvZjdjNjRmZDM1MzQ2ODNiYzViNzZlZmZkZmE2NGJjNTctMTY1MTI2MDI4Ni5wbmcifQ:american-express:NyRbUxby-b0i3JMAfsy4A1qH4SF6bw8bSzrwL7VnpHY?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC8wYVwvOTk1N1wvZjdjNjRmZDM1MzQ2ODNiYzViNzZlZmZkZmE2NGJjNTctMTY1MTI2MDI4Ni5wbmcifQ:american-express:NyRbUxby-b0i3JMAfsy4A1qH4SF6bw8bSzrwL7VnpHY?width=800",
         "is_preview_document": false,
-        "is_new": false
+        "portfolio": "Proprietary"
     },
     {
         "id": 9484,
@@ -3035,14 +2971,14 @@ export const Cards =  [
         "ext": "png",
         "project": 5,
         "title": "plat_metal_2018_ap",
-        "width": 1536,
-        "height": 969,
+        "audience": "Corporate",
+        "region": "NORAM",
         "token": "eyJpZCI6OTQ4NCwidGltZXN0YW1wIjoiMTY3MzI2NjAyMSJ9:american-express:zuizac4pnrk8eKr6YBebNI9XIhlRYc3v1INh5Kot-u4",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9jYVwvOTQ4NFwvZjEzOWI1NGM4MzQzZGQwYzIyNjgwZjU0NGU2MjhmZTAtMTY1MTI0OTQ1My5wbmcifQ:american-express:CXAmcu6CSgpAe2MQLEp4OFFuaWl5Nrp1J6smOeM8XQ0?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9jYVwvOTQ4NFwvZjEzOWI1NGM4MzQzZGQwYzIyNjgwZjU0NGU2MjhmZTAtMTY1MTI0OTQ1My5wbmcifQ:american-express:CXAmcu6CSgpAe2MQLEp4OFFuaWl5Nrp1J6smOeM8XQ0?width=800",
         "is_preview_document": false,
-        "is_new": false
+        "portfolio": "Proprietary"
     },
     {
         "id": 9465,
@@ -3051,14 +2987,14 @@ export const Cards =  [
         "ext": "png",
         "project": 5,
         "title": "amazon_sbs_prime_fr_ap_1125x708",
-        "width": 1125,
-        "height": 708,
+        "audience": "Corporate",
+        "region": "NORAM",
         "token": "eyJpZCI6OTQ2NSwidGltZXN0YW1wIjoiMTY3MzI2NjAyMSJ9:american-express:zS55PtWw1NrryB0kUNNC93ZNRyBpB9d-9relT2RvVDg",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC82NVwvOTQ2NVwvMjkwMzdmZjEzNjA2MWM2MWEyNDdmNzA3NjAxMjAxMDAtMTY1MTE4NTAwMi5wbmcifQ:american-express:5rrMv2ha1r8q1k6UrO8oHpcTyTLYqcUk9IiBkTc8fWo?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC82NVwvOTQ2NVwvMjkwMzdmZjEzNjA2MWM2MWEyNDdmNzA3NjAxMjAxMDAtMTY1MTE4NTAwMi5wbmcifQ:american-express:5rrMv2ha1r8q1k6UrO8oHpcTyTLYqcUk9IiBkTc8fWo?width=800",
         "is_preview_document": false,
-        "is_new": false
+        "portfolio": "Proprietary"
     },
     {
         "id": 9365,
@@ -3067,14 +3003,14 @@ export const Cards =  [
         "ext": "pdf",
         "project": 5,
         "title": "amazon_sbs_base_fr_mobile_payment_notes",
-        "width": 792,
-        "height": 612,
+        "audience": "Corporate",
+        "region": "NORAM",
         "token": "eyJpZCI6OTM2NSwidGltZXN0YW1wIjoiMTY3MzI2NjAyMSJ9:american-express:ACkvMfypzHrY36n5EPlVrxXe47ECMkUzZKxg1uSIXHw",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC85ZVwvOTM2NVwvZTFmZDAxM2FiMzFhMmY3OGJlOTYzMDU0M2U1ZjlkOWYtMTY1MTE4NDM5Ni5wZGYifQ:american-express:2QguBm1LwrWa-9QeA3WSVycjR8JRAmawxBmJZZH-F0k?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC85ZVwvOTM2NVwvZTFmZDAxM2FiMzFhMmY3OGJlOTYzMDU0M2U1ZjlkOWYtMTY1MTE4NDM5Ni5wZGYifQ:american-express:2QguBm1LwrWa-9QeA3WSVycjR8JRAmawxBmJZZH-F0k?width=800",
         "is_preview_document": true,
-        "is_new": false
+        "portfolio": "Proprietary"
     },
     {
         "id": 9255,
@@ -3083,14 +3019,14 @@ export const Cards =  [
         "ext": "png",
         "project": 5,
         "title": "af_corp_fr_ap",
-        "width": 1536,
-        "height": 969,
+        "audience": "Corporate",
+        "region": "LAC",
         "token": "eyJpZCI6OTI1NSwidGltZXN0YW1wIjoiMTY3MzI2NjAyMSJ9:american-express:xf2hrcewC0jRmlBVryIdsgwAS0Q2fkJkqRC0p8_bx0U",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC8wZVwvOTI1NVwvNzg2MjYxMjU2ZTU5NzA4MWYyMWU1MTRkZmY1NWI3YjYtMTY1MTE4MzYzMS5wbmcifQ:american-express:qC6xws-uMqiKOnHaLdLpJGecJ2iVwTX0T2ww2PMVQJw?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC8wZVwvOTI1NVwvNzg2MjYxMjU2ZTU5NzA4MWYyMWU1MTRkZmY1NWI3YjYtMTY1MTE4MzYzMS5wbmcifQ:american-express:qC6xws-uMqiKOnHaLdLpJGecJ2iVwTX0T2ww2PMVQJw?width=800",
         "is_preview_document": false,
-        "is_new": false
+        "portfolio": "Proprietary"
     },
     {
         "id": 9135,
@@ -3099,14 +3035,14 @@ export const Cards =  [
         "ext": "png",
         "project": 5,
         "title": "af_klm_sbs_gold_ap",
-        "width": 1536,
-        "height": 969,
+        "audience": "Corporate",
+        "region": "LAC",
         "token": "eyJpZCI6OTEzNSwidGltZXN0YW1wIjoiMTY3MzI2NjAyMSJ9:american-express:doHrKPze1zC5eztzE1oyX0mttdfkOH8QXIJ77ysTwjU",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9iZlwvOTEzNVwvMTEwOTg3MTc3NTQxZTg5NTY1NGM3N2VjMzNiYTcyM2MtMTY1MTE3Njc1NS5wbmcifQ:american-express:3GxiYhWXSacQiNtLQokgeG7hajrljMHLQsl7igJJh-w?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9iZlwvOTEzNVwvMTEwOTg3MTc3NTQxZTg5NTY1NGM3N2VjMzNiYTcyM2MtMTY1MTE3Njc1NS5wbmcifQ:american-express:3GxiYhWXSacQiNtLQokgeG7hajrljMHLQsl7igJJh-w?width=800",
         "is_preview_document": false,
-        "is_new": false
+        "portfolio": "Proprietary"
     },
     {
         "id": 9078,
@@ -3115,14 +3051,14 @@ export const Cards =  [
         "ext": "pdf",
         "project": 5,
         "title": "af_klm_sbs_silver_1920x1216_Flux",
-        "width": 1920,
-        "height": 1216,
+        "audience": "Consumer",
+        "region": "APAC",
         "token": "eyJpZCI6OTA3OCwidGltZXN0YW1wIjoiMTY3MzI2NjAyMSJ9:american-express:4kdW2kQDBi1XxgOlyYVJzyZ5ADGt7Eiq3RVVDWlrRsg",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC82Y1wvOTA3OFwvMDNjZjE1N2Y3YjAxYzI5ZWVhYzBmMGE0YzBkMmFmNjQtMTY1MTE3Mjc5OS5wZGYifQ:american-express:lJLxWCSD1IrAJA-s5XH3fk_y3tEeeisepF8e0Vd4rKc?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC82Y1wvOTA3OFwvMDNjZjE1N2Y3YjAxYzI5ZWVhYzBmMGE0YzBkMmFmNjQtMTY1MTE3Mjc5OS5wZGYifQ:american-express:lJLxWCSD1IrAJA-s5XH3fk_y3tEeeisepF8e0Vd4rKc?width=800",
         "is_preview_document": true,
-        "is_new": false
+        "portfolio": "Proprietary"
     },
     {
         "id": 9064,
@@ -3131,14 +3067,14 @@ export const Cards =  [
         "ext": "png",
         "project": 5,
         "title": "af_klm_plat_ap",
-        "width": 1536,
-        "height": 969,
+        "audience": "Corporate",
+        "region": "LAC",
         "token": "eyJpZCI6OTA2NCwidGltZXN0YW1wIjoiMTY3MzI2NjAyMSJ9:american-express:KLuUYwbV63S9OoXmTDGkLoqM6buij9mHPpMc1GA1kas",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC82ZVwvOTA2NFwvOTNiYzM0MjExMDBlNGFmZmFiNjJkMGU5OTEyMmMyYzEtMTY1MTE3MjE1NC5wbmcifQ:american-express:iGvjU4SNRR6wiuay-PlV4jnq-ClONCYg3qzv9MEIfAE?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC82ZVwvOTA2NFwvOTNiYzM0MjExMDBlNGFmZmFiNjJkMGU5OTEyMmMyYzEtMTY1MTE3MjE1NC5wbmcifQ:american-express:iGvjU4SNRR6wiuay-PlV4jnq-ClONCYg3qzv9MEIfAE?width=800",
         "is_preview_document": false,
-        "is_new": false
+        "portfolio": "Proprietary"
     },
     {
         "id": 8956,
@@ -3147,14 +3083,14 @@ export const Cards =  [
         "ext": "png",
         "project": 5,
         "title": "af_klm_gold_ap",
-        "width": 1536,
-        "height": 969,
+        "audience": "Corporate",
+        "region": "LAC",
         "token": "eyJpZCI6ODk1NiwidGltZXN0YW1wIjoiMTY3MzI2NjAyMSJ9:american-express:snwRYmrpAuiBuOZYtNUjA8OaxPqUEKa_oWdh78rj24c",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC84MlwvODk1NlwvNDc0YjdkODRkNTMyZTUxZTBjZmM4NWM0ZDgzNTNkNGYtMTY1MTE3MTQ5MC5wbmcifQ:american-express:TnNRsHEKHUuoRdwI4iawKQy6E76iHllTpsggPDFkWaI?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC84MlwvODk1NlwvNDc0YjdkODRkNTMyZTUxZTBjZmM4NWM0ZDgzNTNkNGYtMTY1MTE3MTQ5MC5wbmcifQ:american-express:TnNRsHEKHUuoRdwI4iawKQy6E76iHllTpsggPDFkWaI?width=800",
         "is_preview_document": false,
-        "is_new": false
+        "portfolio": "Proprietary"
     },
     {
         "id": 8957,
@@ -3163,14 +3099,14 @@ export const Cards =  [
         "ext": "pdf",
         "project": 5,
         "title": "af_klm_gold_mobile_payment_notes",
-        "width": 792,
-        "height": 612,
+        "audience": "Corporate",
+        "region": "NORAM",
         "token": "eyJpZCI6ODk1NywidGltZXN0YW1wIjoiMTY3MzI2NjAyMSJ9:american-express:XgaCNYnZnWKGBqOQAnr3IeRgNw8bD5mld64gdgChZ4E",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC85MFwvODk1N1wvYjk4NGFhODI0OGJjNWNkN2FhNTc0Y2FkOGE0NTRlMTMtMTY1MTE3MTQ5MC5wZGYifQ:american-express:39rocSVYsuCIPcgFOL8STcVNX6XeGsRbqmGi6fckAWI?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC85MFwvODk1N1wvYjk4NGFhODI0OGJjNWNkN2FhNTc0Y2FkOGE0NTRlMTMtMTY1MTE3MTQ5MC5wZGYifQ:american-express:39rocSVYsuCIPcgFOL8STcVNX6XeGsRbqmGi6fckAWI?width=800",
         "is_preview_document": true,
-        "is_new": false
+        "portfolio": "Proprietary"
     },
     {
         "id": 8840,
@@ -3179,14 +3115,14 @@ export const Cards =  [
         "ext": "eps",
         "project": 5,
         "title": "chg_plat_metal_fr_di_a4_ang_l",
-        "width": 1148,
-        "height": 724,
+        "audience": "Corporate",
+        "region": "APAC",
         "token": "eyJpZCI6ODg0MCwidGltZXN0YW1wIjoiMTY3MzI2NjAyMSJ9:american-express:noZHd4EzWwyoZOj1v1p5CVKOlhRjy9NjzEQT68qHIoM",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC8xZFwvODg0MFwvMDU5ZGRhZmU1OWIyN2U0MjJkMDkyZTdjODJjMTY5OTAtMTY1MTE2ODUyNy5lcHMifQ:american-express:XXLgZFrLSGRkNXOTjPNhtd8uZ4-7raNQWXU29SJfSUY?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC8xZFwvODg0MFwvMDU5ZGRhZmU1OWIyN2U0MjJkMDkyZTdjODJjMTY5OTAtMTY1MTE2ODUyNy5lcHMifQ:american-express:XXLgZFrLSGRkNXOTjPNhtd8uZ4-7raNQWXU29SJfSUY?width=800",
         "is_preview_document": false,
-        "is_new": false
+        "portfolio": "Proprietary"
     },
     {
         "id": 8773,
@@ -3195,14 +3131,14 @@ export const Cards =  [
         "ext": "pdf",
         "project": 5,
         "title": "aircanada_core_corp_mobile_payment_notes",
-        "width": 792,
-        "height": 612,
+        "audience": "Corporate",
+        "region": "NORAM",
         "token": "eyJpZCI6ODc3MywidGltZXN0YW1wIjoiMTY3MzI2NjAyMSJ9:american-express:JOQ45DHhVPYkUkj11NP4rA7KzA4l5RPWnt21oIxxz_4",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC80OFwvODc3M1wvYWNlYzMyZmUzODdhYmI1ZDExNDIyNDM0NDMxYmI1MzYtMTY1MTE2MTc2NS5wZGYifQ:american-express:IlCNPNn8wXUaHShbh_2icjQfb-W5AItBKTifgs0QG7A?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC80OFwvODc3M1wvYWNlYzMyZmUzODdhYmI1ZDExNDIyNDM0NDMxYmI1MzYtMTY1MTE2MTc2NS5wZGYifQ:american-express:IlCNPNn8wXUaHShbh_2icjQfb-W5AItBKTifgs0QG7A?width=800",
         "is_preview_document": true,
-        "is_new": false
+        "portfolio": "Proprietary"
     },
    
    
@@ -3213,14 +3149,14 @@ export const Cards =  [
         "ext": "pdf",
         "project": 5,
         "title": "aircanada_prem_corp_1920x1216",
-        "width": 1920,
-        "height": 1216,
+        "audience": "Consumer",
+        "region": "APAC",
         "token": "eyJpZCI6ODYwMSwidGltZXN0YW1wIjoiMTY3MzI2NjAyMSJ9:american-express:AP_wOVnrOHqGHybFSn6LKVcwKLgkV0RA49l7_gN42Fw",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9kMlwvODYwMVwvMGVlMTM2OWE4NWM1MjhhNjIxYWZkOTFkYjRmMDQzN2YtMTY1MTA5NDg1Ni5wZGYifQ:american-express:lc8azr-0NxXB6_dR4j7EEQZtajfnwq9nCIJprTUW20Q?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9kMlwvODYwMVwvMGVlMTM2OWE4NWM1MjhhNjIxYWZkOTFkYjRmMDQzN2YtMTY1MTA5NDg1Ni5wZGYifQ:american-express:lc8azr-0NxXB6_dR4j7EEQZtajfnwq9nCIJprTUW20Q?width=800",
         "is_preview_document": true,
-        "is_new": false
+        "portfolio": "Proprietary"
     },
     {
         "id": 8353,
@@ -3229,14 +3165,14 @@ export const Cards =  [
         "ext": "png",
         "project": 5,
         "title": "aircanada_superprem_ap",
-        "width": 1536,
-        "height": 969,
+        "audience": "Corporate",
+        "region": "LAC",
         "token": "eyJpZCI6ODM1MywidGltZXN0YW1wIjoiMTY3MzI2NjAyMSJ9:american-express:njHGjKx2ZN736UdvIDH3vO88uPf_ms5l2vvW9EbBCkc",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC8xMFwvODM1M1wvNjM0Y2Y5ZDZhMTdjZmM1MTYzYTkwNGZhMjgxYWQ0MzItMTY1MTA3OTEwMy5wbmcifQ:american-express:7ASTh-IWCoLebtwwQYBJU1gYtuokhvjitPSEIHMjB2o?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC8xMFwvODM1M1wvNjM0Y2Y5ZDZhMTdjZmM1MTYzYTkwNGZhMjgxYWQ0MzItMTY1MTA3OTEwMy5wbmcifQ:american-express:7ASTh-IWCoLebtwwQYBJU1gYtuokhvjitPSEIHMjB2o?width=800",
         "is_preview_document": false,
-        "is_new": false
+        "portfolio": "Proprietary"
     },
     {
         "id": 7898,
@@ -3245,14 +3181,14 @@ export const Cards =  [
         "ext": "png",
         "project": 5,
         "title": "corp_plat_ca_ap",
-        "width": 1536,
-        "height": 969,
+        "audience": "Corporate",
+        "region": "LAC",
         "token": "eyJpZCI6Nzg5OCwidGltZXN0YW1wIjoiMTY3MzI2NjAyMSJ9:american-express:VLwASOlUPPEH1TAjgZ1wWiQyCrFteZcMTKM8gHTuDO8",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC8wZVwvNzg5OFwvYjBhYTc2MDQ3NzUyZDBiNGEwNjEzYzE1MTFiYmFhMWQtMTY1MTA3MzE3Ny5wbmcifQ:american-express:BezZ11TIWQ1TqP7DvqRu8Pi7XiArB7FhfvrpQKNmgbk?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC8wZVwvNzg5OFwvYjBhYTc2MDQ3NzUyZDBiNGEwNjEzYzE1MTFiYmFhMWQtMTY1MTA3MzE3Ny5wbmcifQ:american-express:BezZ11TIWQ1TqP7DvqRu8Pi7XiArB7FhfvrpQKNmgbk?width=800",
         "is_preview_document": false,
-        "is_new": false
+        "portfolio": "Proprietary"
     },
     {
         "id": 7832,
@@ -3261,14 +3197,14 @@ export const Cards =  [
         "ext": "pdf",
         "project": 5,
         "title": "explorer_2019_ca_mobile_pymt_notes",
-        "width": 792,
-        "height": 612,
+        "audience": "Corporate",
+        "region": "NORAM",
         "token": "eyJpZCI6NzgzMiwidGltZXN0YW1wIjoiMTY3MzI2NjAyMSJ9:american-express:WUJS7VafITYRZd5fjM6HHGFAnbNaRM5iYFCoexjszu8",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9lZFwvNzgzMlwvOGU5YjQ2OTI3MjQwMjQyMWM4ZTQ0YjE5NTMyNDE1MDAtMTY1MTAwMTgyMS5wZGYifQ:american-express:6GUf6-p6_SkthbgaVicv293bz--UYUoed-UnOL61V9I?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9lZFwvNzgzMlwvOGU5YjQ2OTI3MjQwMjQyMWM4ZTQ0YjE5NTMyNDE1MDAtMTY1MTAwMTgyMS5wZGYifQ:american-express:6GUf6-p6_SkthbgaVicv293bz--UYUoed-UnOL61V9I?width=800",
         "is_preview_document": true,
-        "is_new": false
+        "portfolio": "Proprietary"
     },
     
     {
@@ -3278,14 +3214,14 @@ export const Cards =  [
         "ext": "pdf",
         "project": 5,
         "title": "chg_gold_metal_ca_1920x1216",
-        "width": 1920,
-        "height": 1216,
+        "audience": "Consumer",
+        "region": "APAC",
         "token": "eyJpZCI6NzY2OCwidGltZXN0YW1wIjoiMTY3MzI2NjAyMSJ9:american-express:0EMbB4QjHHLXVgpk3dmjAzhnC9xotu-d098DmaoptGc",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9iNFwvNzY2OFwvNmZlMmRhMWQyMzJiZmIwMjRmNWZhMGVlYjYzZDQ0N2QtMTY1MDk5MjA2MC5wZGYifQ:american-express:HhxZIwMjSt2wLL5xMtq3r7Ku2uudZvdQ_05xzm9HZMw?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9iNFwvNzY2OFwvNmZlMmRhMWQyMzJiZmIwMjRmNWZhMGVlYjYzZDQ0N2QtMTY1MDk5MjA2MC5wZGYifQ:american-express:HhxZIwMjSt2wLL5xMtq3r7Ku2uudZvdQ_05xzm9HZMw?width=800",
         "is_preview_document": true,
-        "is_new": false
+        "portfolio": "Proprietary"
     },
     {
         "id": 6548,
@@ -3294,14 +3230,14 @@ export const Cards =  [
         "ext": "png",
         "project": 5,
         "title": "sbs_plat_metal_2018_ap",
-        "width": 1536,
-        "height": 969,
+        "audience": "Corporate",
+        "region": "APAC",
         "token": "eyJpZCI6NjU0OCwidGltZXN0YW1wIjoiMTY3MzI2NjAyMSJ9:american-express:ps6uFjV6g8tvG3Kxk05kA_k7oBpDaqdhOjvQkwjk4oc",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9lZVwvNjU0OFwvZDVkODZkMjM5NzkzOGE0ZDJkZmU5ZWU2OTkwNGNiZjQtMTYzODk3MDQxNC5wbmcifQ:american-express:Iefrc1kgpzpTTeq-jUX80uWR0BJ25HhL62c8J49Mzyc?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvYWNjb3VudHNcLzBmXC80MDAwOTkwXC9wcm9qZWN0c1wvNVwvYXNzZXRzXC9lZVwvNjU0OFwvZDVkODZkMjM5NzkzOGE0ZDJkZmU5ZWU2OTkwNGNiZjQtMTYzODk3MDQxNC5wbmcifQ:american-express:Iefrc1kgpzpTTeq-jUX80uWR0BJ25HhL62c8J49Mzyc?width=800",
         "is_preview_document": false,
-        "is_new": false
+        "portfolio": "Proprietary"
     },
 
     {
@@ -3311,14 +3247,14 @@ export const Cards =  [
         "ext": "pdf",
         "project": 5,
         "title": "sbs_gold_1920x1216",
-        "width": 1920,
-        "height": 1216,
+        "audience": "Consumer",
+        "region": "APAC",
         "token": "eyJpZCI6MjE3NjQsInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:TLX4A5RTpNSwu-l7oW1zrG6VnrG8kF4Iga6LnwGnTgw",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvZmlsZVwvYWlOdFNXVk43VlFjZGFNNlFndWkucGRmIn0:american-express:TULHoKUrANIRucgVTj0vRydMA7TLUPrl7QbFsZ_L7RM?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvZmlsZVwvYWlOdFNXVk43VlFjZGFNNlFndWkucGRmIn0:american-express:TULHoKUrANIRucgVTj0vRydMA7TLUPrl7QbFsZ_L7RM?width=800",
         "is_preview_document": true,
-        "is_new": false
+        "portfolio": "Proprietary"
     },
     {
         "id": 21379,
@@ -3327,14 +3263,14 @@ export const Cards =  [
         "ext": "png",
         "project": 5,
         "title": "bcp_morganstanley_ap",
-        "width": 1536,
-        "height": 969,
+        "audience": "Corporate",
+        "region": "LAC",
         "token": "eyJpZCI6MjEzNzksInRpbWVzdGFtcCI6IjE2NzMyNjYwMjEifQ:american-express:iKf3CO4BiGjGeaKN9KNjTNlTmvK_LL2uSVhTSZC3KdU",
         "is_previewable": true,
         "generic_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvZmlsZVwvc1BUMnNZalRyY3NWaGt5V2RIMlEucG5nIn0:american-express:yNbH1s1WUqPegzH5Q9ejT4e7PlbHJmTf3oBqHALRDU4?width={width}",
         "preview_url": "https:\/\/cdn-assets-us.frontify.com\/s3\/frontify-enterprise-files-us\/eyJwYXRoIjoiYW1lcmljYW4tZXhwcmVzc1wvZmlsZVwvc1BUMnNZalRyY3NWaGt5V2RIMlEucG5nIn0:american-express:yNbH1s1WUqPegzH5Q9ejT4e7PlbHJmTf3oBqHALRDU4?width=800",
         "is_preview_document": false,
-        "is_new": false
+        "portfolio": "Proprietary"
     }
     
   

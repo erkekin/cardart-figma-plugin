@@ -10,6 +10,22 @@ const Container = styled.div`
   width: 100%;
 `;
 
+const ButtonToggle = styled.button`
+  border-radius: 0.25rem;
+  background: var(--color-bg);
+  color: var(--color-text);
+  cursor: pointer;
+  border: 0px solid var(--color-border);
+  padding: 8px;
+  ${({ active }) =>
+    active &&
+    `
+    color: white;
+    border: none;
+    background-color: #006FCF;
+  `}
+`;
+
 const Filters = styled.div`
   width: 100%;
 `;
@@ -42,6 +58,13 @@ const Flag = styled.img`
 `;
 
 function App() {
+  const audienceFilters = ['Consumer', 'Business', 'Corporate'];
+  const portfolioFilters = ['Proprietary', 'Proprietary Cobrand'];
+  const regionFilters = ['APAC', 'EMEA', 'LAC', 'NORAM'];
+
+  const [audienceActive, setAudienceActive] = useState(audienceFilters[0]);
+  const [portfolioActive, setPortfolioActive] = useState(portfolioFilters[0]);
+  const [regionActive, setRegionActive] = useState(regionFilters[0]);
   const [countries, setCards] = useState([]);
   const [regionFilter, setRegionFilter] = useState('');
   const [searchTerm, setSearchTerm] = useState('');
@@ -61,16 +84,9 @@ function App() {
 
   const filteredCountries = countries
     .filter(card => {
-      return card.ext == "png" && card.is_previewable == true && card.title.toLowerCase().includes(searchTerm.toLowerCase());
-      // return card.project.includes(regionFilter) && card.title.toLowerCase().includes(searchTerm.toLowerCase());
+      return card.ext == "png" && card.is_previewable == true && card.title.toLowerCase().includes(searchTerm.toLowerCase()) && card.audience.toLowerCase().includes(audienceActive.toLowerCase()) && card.region.toLowerCase().includes(regionActive.toLowerCase()) && card.portfolio.toLowerCase().includes(portfolioActive.toLowerCase());
     });
-  const audienceFilters = ['Consumer', 'Business', 'Corporate'];
-  const portfolioFilters = ['Proprietary', 'Proprietary Cobrand'];
-  const regionFilters = ['APAC', 'EMEA', 'LAC', 'NORAM'];
 
-  const [audienceActive, setAudienceActive] = useState(audienceFilters[0]);
-  const [portfolioActive, setPortfolioActive] = useState(portfolioFilters[0]);
-  const [regionActive, setRegionActive] = useState(regionFilters[0]);
 
   return (
     <div>
@@ -82,19 +98,18 @@ function App() {
       />
       <Filters>
 
-
         <div align="left">
           <header>Audience</header>
         </div>
         <FilterItems>
           {audienceFilters.map(type => (
-            <button
+            <ButtonToggle
               key={type}
-              audienceActive={audienceActive === type}
+              active={audienceActive === type}
               onClick={() => setAudienceActive(type)}
             >
               {type}
-            </button>
+            </ButtonToggle>
           ))}
         </FilterItems>
 
@@ -103,13 +118,13 @@ function App() {
         </div>
         <FilterItems>
           {portfolioFilters.map(type => (
-            <button
+            <ButtonToggle
               key={type}
-              audienceActive={portfolioActive === type}
+              active={portfolioActive === type}
               onClick={() => setPortfolioActive(type)}
             >
               {type}
-            </button>
+            </ButtonToggle>
           ))}
         </FilterItems>
 
@@ -119,13 +134,13 @@ function App() {
         </div>
         <FilterItems>
           {regionFilters.map(type => (
-            <button
+            <ButtonToggle
               key={type}
-              audienceActive={regionActive === type}
+              active={regionActive === type}
               onClick={() => setRegionActive(type)}
             >
               {type}
-            </button>
+            </ButtonToggle>
           ))}
         </FilterItems>
       </Filters>
